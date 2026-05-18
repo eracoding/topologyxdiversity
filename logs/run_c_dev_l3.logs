@@ -1,0 +1,78 @@
+nohup: ignoring input
+INFO 04-27 22:31:01 [utils.py:233] non-default args: {'dtype': 'bfloat16', 'seed': 42, 'max_num_seqs': 32, 'disable_log_stats': True, 'enable_lora': True, 'max_loras': 3, 'max_lora_rank': 8, 'model': 'Qwen/Qwen2.5-14B-Instruct'}
+INFO 04-27 22:31:03 [model.py:533] Resolved architecture: Qwen2ForCausalLM
+INFO 04-27 22:31:03 [model.py:1582] Using max model len 32768
+INFO 04-27 22:31:03 [scheduler.py:231] Chunked prefill is enabled with max_num_batched_tokens=8192.
+INFO 04-27 22:31:03 [vllm.py:754] Asynchronous scheduling is enabled.
+(EngineCore pid=1568122) INFO 04-27 22:31:05 [core.py:103] Initializing a V1 LLM engine (v0.18.0) with config: model='Qwen/Qwen2.5-14B-Instruct', speculative_config=None, tokenizer='Qwen/Qwen2.5-14B-Instruct', skip_tokenizer_init=False, tokenizer_mode=auto, revision=None, tokenizer_revision=None, trust_remote_code=False, dtype=torch.bfloat16, max_seq_len=32768, download_dir=None, load_format=auto, tensor_parallel_size=1, pipeline_parallel_size=1, data_parallel_size=1, decode_context_parallel_size=1, dcp_comm_backend=ag_rs, disable_custom_all_reduce=False, quantization=None, enforce_eager=False, enable_return_routed_experts=False, kv_cache_dtype=auto, device_config=cuda, structured_outputs_config=StructuredOutputsConfig(backend='auto', disable_any_whitespace=False, disable_additional_properties=False, reasoning_parser='', reasoning_parser_plugin='', enable_in_reasoning=False), observability_config=ObservabilityConfig(show_hidden_metrics_for_version=None, otlp_traces_endpoint=None, collect_detailed_traces=None, kv_cache_metrics=False, kv_cache_metrics_sample=0.01, cudagraph_metrics=False, enable_layerwise_nvtx_tracing=False, enable_mfu_metrics=False, enable_mm_processor_stats=False, enable_logging_iteration_details=False), seed=42, served_model_name=Qwen/Qwen2.5-14B-Instruct, enable_prefix_caching=True, enable_chunked_prefill=True, pooler_config=None, compilation_config={'mode': <CompilationMode.VLLM_COMPILE: 3>, 'debug_dump_path': None, 'cache_dir': '', 'compile_cache_save_format': 'binary', 'backend': 'inductor', 'custom_ops': ['none'], 'splitting_ops': ['vllm::unified_attention', 'vllm::unified_attention_with_output', 'vllm::unified_mla_attention', 'vllm::unified_mla_attention_with_output', 'vllm::mamba_mixer2', 'vllm::mamba_mixer', 'vllm::short_conv', 'vllm::linear_attention', 'vllm::plamo2_mamba_mixer', 'vllm::gdn_attention_core', 'vllm::olmo_hybrid_gdn_full_forward', 'vllm::kda_attention', 'vllm::sparse_attn_indexer', 'vllm::rocm_aiter_sparse_attn_indexer', 'vllm::unified_kv_cache_update', 'vllm::unified_mla_kv_cache_update'], 'compile_mm_encoder': False, 'compile_sizes': [], 'compile_ranges_endpoints': [8192], 'inductor_compile_config': {'enable_auto_functionalized_v2': False, 'combo_kernels': True, 'benchmark_combo_kernel': True}, 'inductor_passes': {}, 'cudagraph_mode': <CUDAGraphMode.FULL_AND_PIECEWISE: (2, 1)>, 'cudagraph_num_of_warmups': 1, 'cudagraph_capture_sizes': [1, 2, 4, 8, 16, 24, 32, 40, 48, 56, 64], 'cudagraph_copy_inputs': False, 'cudagraph_specialize_lora': True, 'use_inductor_graph_partition': False, 'pass_config': {'fuse_norm_quant': False, 'fuse_act_quant': False, 'fuse_attn_quant': False, 'enable_sp': False, 'fuse_gemm_comms': False, 'fuse_allreduce_rms': False}, 'max_cudagraph_capture_size': 64, 'dynamic_shapes_config': {'type': <DynamicShapesType.BACKED: 'backed'>, 'evaluate_guards': False, 'assume_32_bit_indexing': False}, 'local_cache_dir': None, 'fast_moe_cold_start': True, 'static_all_moe_layers': []}
+(EngineCore pid=1568122) INFO 04-27 22:31:05 [parallel_state.py:1395] world_size=1 rank=0 local_rank=0 distributed_init_method=tcp://192.168.254.20:58133 backend=nccl
+(EngineCore pid=1568122) INFO 04-27 22:31:05 [parallel_state.py:1717] rank 0 in world size 1 is assigned as DP rank 0, PP rank 0, PCP rank 0, TP rank 0, EP rank N/A, EPLB rank N/A
+(EngineCore pid=1568122) INFO 04-27 22:31:06 [gpu_model_runner.py:4481] Starting to load model Qwen/Qwen2.5-14B-Instruct...
+(EngineCore pid=1568122) INFO 04-27 22:31:06 [cuda.py:317] Using FLASH_ATTN attention backend out of potential backends: ['FLASH_ATTN', 'FLASHINFER', 'TRITON_ATTN', 'FLEX_ATTENTION'].
+(EngineCore pid=1568122) INFO 04-27 22:31:06 [flash_attn.py:598] Using FlashAttention version 2
+(EngineCore pid=1568122) <frozen importlib._bootstrap_external>:1301: FutureWarning: The cuda.cudart module is deprecated and will be removed in a future release, please switch to use the cuda.bindings.runtime module instead.
+(EngineCore pid=1568122) <frozen importlib._bootstrap_external>:1301: FutureWarning: The cuda.nvrtc module is deprecated and will be removed in a future release, please switch to use the cuda.bindings.nvrtc module instead.
+(EngineCore pid=1568122) Loading safetensors checkpoint shards:   0% Completed | 0/8 [00:00<?, ?it/s]
+(EngineCore pid=1568122) Loading safetensors checkpoint shards:  12% Completed | 1/8 [00:00<00:04,  1.52it/s]
+(EngineCore pid=1568122) Loading safetensors checkpoint shards:  25% Completed | 2/8 [00:01<00:04,  1.39it/s]
+(EngineCore pid=1568122) Loading safetensors checkpoint shards:  38% Completed | 3/8 [00:02<00:03,  1.37it/s]
+(EngineCore pid=1568122) Loading safetensors checkpoint shards:  50% Completed | 4/8 [00:02<00:02,  1.37it/s]
+(EngineCore pid=1568122) Loading safetensors checkpoint shards:  62% Completed | 5/8 [00:03<00:02,  1.39it/s]
+(EngineCore pid=1568122) Loading safetensors checkpoint shards:  75% Completed | 6/8 [00:04<00:01,  1.41it/s]
+(EngineCore pid=1568122) Loading safetensors checkpoint shards:  88% Completed | 7/8 [00:04<00:00,  1.42it/s]
+(EngineCore pid=1568122) Loading safetensors checkpoint shards: 100% Completed | 8/8 [00:05<00:00,  1.71it/s]
+(EngineCore pid=1568122) Loading safetensors checkpoint shards: 100% Completed | 8/8 [00:05<00:00,  1.51it/s]
+(EngineCore pid=1568122) 
+(EngineCore pid=1568122) INFO 04-27 22:31:12 [default_loader.py:384] Loading weights took 5.34 seconds
+(EngineCore pid=1568122) INFO 04-27 22:31:12 [punica_selector.py:20] Using PunicaWrapperGPU.
+(EngineCore pid=1568122) INFO 04-27 22:31:13 [gpu_model_runner.py:4566] Model loading took 27.76 GiB memory and 6.522447 seconds
+(EngineCore pid=1568122) INFO 04-27 22:31:18 [backends.py:988] Using cache directory: /home/student/.cache/vllm/torch_compile_cache/a9448c5b6e/rank_0_0/backbone for vLLM's torch.compile
+(EngineCore pid=1568122) INFO 04-27 22:31:18 [backends.py:1048] Dynamo bytecode transform time: 4.98 s
+(EngineCore pid=1568122) INFO 04-27 22:31:21 [backends.py:284] Directly load the compiled graph(s) for compile range (1, 8192) from the cache, took 2.228 s
+(EngineCore pid=1568122) INFO 04-27 22:31:21 [monitor.py:48] torch.compile took 7.82 s in total
+(EngineCore pid=1568122) INFO 04-27 22:31:21 [decorators.py:296] Directly load AOT compilation from path /home/student/.cache/vllm/torch_compile_cache/torch_aot_compile/3e9f596b0cf46de04d5c21c2a9fdab38e0b24a2296b2da1257a4cdfe50260688/rank_0_0/model
+(EngineCore pid=1568122) INFO 04-27 22:31:21 [monitor.py:76] Initial profiling/warmup run took 0.12 s
+(EngineCore pid=1568122) INFO 04-27 22:31:24 [kv_cache_utils.py:826] Overriding num_gpu_blocks=0 with num_gpu_blocks_override=64
+(EngineCore pid=1568122) INFO 04-27 22:31:24 [gpu_model_runner.py:5607] Profiling CUDA graph memory: PIECEWISE=22 (largest=64), FULL=14 (largest=32)
+(EngineCore pid=1568122) WARNING 04-27 22:31:24 [utils.py:268] Using default LoRA kernel configs
+(EngineCore pid=1568122) INFO 04-27 22:31:25 [gpu_model_runner.py:5686] Estimated CUDA graph memory: 0.30 GiB total
+(EngineCore pid=1568122) INFO 04-27 22:31:26 [gpu_worker.py:456] Available KV cache memory: 13.91 GiB
+(EngineCore pid=1568122) INFO 04-27 22:31:26 [gpu_worker.py:490] In v0.19, CUDA graph memory profiling will be enabled by default (VLLM_MEMORY_PROFILER_ESTIMATE_CUDAGRAPHS=1), which more accurately accounts for CUDA graph memory during KV cache allocation. To try it now, set VLLM_MEMORY_PROFILER_ESTIMATE_CUDAGRAPHS=1 and increase --gpu-memory-utilization from 0.9000 to 0.9063 to maintain the same effective KV cache size.
+(EngineCore pid=1568122) INFO 04-27 22:31:26 [kv_cache_utils.py:1316] GPU KV cache size: 75,952 tokens
+(EngineCore pid=1568122) INFO 04-27 22:31:26 [kv_cache_utils.py:1321] Maximum concurrency for 32,768 tokens per request: 2.32x
+(EngineCore pid=1568122) Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):   0%|          | 0/22 [00:00<?, ?it/s]Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):   5%|▍         | 1/22 [00:00<00:03,  5.45it/s]Capturing CUDA graphs (mixed prefill-decode, PIECEWISE):  14%|█▎        | 3/22 [00:00<00:02,  7.96it/s]Traceback (most recent call last):
+  File "/home/student/ula/claude/agentic_ai_project/experiments/run_c_l3.py", line 173, in <module>
+    main()
+  File "/home/student/ula/claude/agentic_ai_project/experiments/run_c_l3.py", line 95, in main
+    topology = build_lora_depth_topology(exp_cfg, base_cfg, cost_tracker)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/student/ula/claude/agentic_ai_project/src/topologies/depth.py", line 344, in build_lora_depth_topology
+    llm = LLM(
+          ^^^^
+  File "/home/student/anaconda3/envs/agents/lib/python3.12/site-packages/vllm/entrypoints/llm.py", line 382, in __init__
+    self.llm_engine = LLMEngine.from_engine_args(
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/student/anaconda3/envs/agents/lib/python3.12/site-packages/vllm/v1/engine/llm_engine.py", line 177, in from_engine_args
+    return cls(
+           ^^^^
+  File "/home/student/anaconda3/envs/agents/lib/python3.12/site-packages/vllm/v1/engine/llm_engine.py", line 111, in __init__
+    self.engine_core = EngineCoreClient.make_client(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/student/anaconda3/envs/agents/lib/python3.12/site-packages/vllm/v1/engine/core_client.py", line 99, in make_client
+    return SyncMPClient(vllm_config, executor_class, log_stats)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/student/anaconda3/envs/agents/lib/python3.12/site-packages/vllm/tracing/otel.py", line 178, in sync_wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/student/anaconda3/envs/agents/lib/python3.12/site-packages/vllm/v1/engine/core_client.py", line 747, in __init__
+    super().__init__(
+  File "/home/student/anaconda3/envs/agents/lib/python3.12/site-packages/vllm/v1/engine/core_client.py", line 583, in __init__
+    with launch_core_engines(
+         ^^^^^^^^^^^^^^^^^^^^
+  File "/home/student/anaconda3/envs/agents/lib/python3.12/contextlib.py", line 144, in __exit__
+    next(self.gen)
+  File "/home/student/anaconda3/envs/agents/lib/python3.12/site-packages/vllm/v1/engine/utils.py", line 972, in launch_core_engines
+    wait_for_engine_startup(
+  File "/home/student/anaconda3/envs/agents/lib/python3.12/site-packages/vllm/v1/engine/utils.py", line 1031, in wait_for_engine_startup
+    raise RuntimeError(
+RuntimeError: Engine core initialization failed. See root cause above. Failed core proc(s): {}
