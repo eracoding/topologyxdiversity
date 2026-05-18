@@ -1,0 +1,19 @@
+# Core
+vllm>=0.4.0
+
+# Data and evaluation
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# Configuration
+pyyaml>=6.0
+
+# Utilities
+tqdm>=4.65.0
+jsonlines>=4.0.0
+
+# Analysis and visualization (optional, for later)
+# matplotlib>=3.7.0
+# seaborn>=0.12.0
+# scipy>=1.11.0
