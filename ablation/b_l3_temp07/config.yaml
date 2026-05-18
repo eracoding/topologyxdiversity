@@ -1,0 +1,68 @@
+# Ablation B-L3 (temp=0.7): Width topology with QLoRA adapters at HIGH temperature.
+#
+# Purpose: isolate the contribution of LEARNED DIVERSITY (the LoRA adapters)
+# from the contribution of LOW TEMPERATURE in the canonical B-L3 config (temp=0.3).
+#
+# Canonical B-L3 jumped +12.12pp over B-L2 (40.71% → 52.83% on test). Two factors
+# co-varied: (1) we added LoRA adapters, (2) we lowered temperature 0.7 → 0.3.
+# This ablation re-runs B-L3 with adapters but at B-L1/L2's temperature 0.7
+# and B-L1/L2's per-agent seeds [42, 123, 456]. The delta vs canonical B-L3
+# attributes the gain to temperature; the residual gap above B-L2 attributes
+# to adapters.
+#
+# Expected interpretations:
+#   - If avg Macro-F1 stays near 52.83% → adapters did all the work
+#   - If avg Macro-F1 drops toward B-L2 (~40.7%) → much of the win was temperature
+#   - Anything in between → both contribute proportionally
+
+topology: "width"
+level: "l3"
+num_agents: 3
+
+sampling:
+  temperature: 0.7   # raised from 0.3 to match B-L1/L2 protocol
+  top_p: 0.95
+  seed: 42           # global default; per-agent seeds override below
+
+max_tokens: 512
+
+aggregation:
+  primary: "majority_vote"
+  secondary: "confidence_weighted"
+  majority_threshold: 2
+  confidence_threshold: 0.5
+
+training:
+  base_model: "Qwen/Qwen2.5-14B-Instruct"
+  quantization: "4bit"
+  lora_rank: 8
+  lora_alpha: 16
+  lora_dropout: 0.05
+  optimizer: "adamw_torch"
+  lr: 1.0e-5
+  scheduler: "cosine"
+  warmup_ratio: 0.10
+  epochs: 5
+  batch_size: 4
+  gradient_accumulation_steps: 4
+  bf16: true
+  output_dir: "models/adapters"
+
+agents:
+  - name: "general_specialist"
+    seed: 42           # B-L1/L2 seed schedule for cross-config comparability
+    lora_name: "b_l3_general"
+    lora_path: "models/adapters/b_l3_general"
+    lora_id: 1
+
+  - name: "ambiguity_specialist"
+    seed: 123
+    lora_name: "b_l3_ambiguity"
+    lora_path: "models/adapters/b_l3_ambiguity"
+    lora_id: 2
+
+  - name: "contrastive_specialist"
+    seed: 456
+    lora_name: "b_l3_contrastive"
+    lora_path: "models/adapters/b_l3_contrastive"
+    lora_id: 3

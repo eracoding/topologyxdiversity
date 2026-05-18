@@ -1,0 +1,61 @@
+{
+  "language_name": "Marathi (mar)",
+  "script": "Devanagari",
+  "family": "Indo-European",
+  "seed": 42,
+  "language_instructions": "Target input language: Marathi (mar). Do NOT translate the input. Proxy-transfer setting: CoT examples/rationales are drawn from related Indo-European languages (afr, deu, eng, esp, hin, ptbr, ptmz, ron, rus, swe, ukr), not Marathi. Use short, cue-based reasoning (≤25 tokens): exclamations, emojis, intensifiers, sentiment words, and negation. Prefer precision; only assign emotions when explicitly cued. Output exactly once: Final: { \"labels\": [\"...\"] }",
+  "reasoning_examples": [
+    {
+      "id": "anger_disgust_example",
+      "emotion": "anger+disgust",
+      "src_lang": "esp",
+      "text": "¡Qué asco! Me engañaron otra vez, los odio 😡🤢",
+      "reasoning": {
+        "cues": "“Qué asco”, “me engañaron”, “odio”, 😡🤢",
+        "tone": "Hostile complaint with revulsion",
+        "interpretations": "Disgust from ‘asco’; anger from deception/‘odio’",
+        "critique": "Clear dual cues; best fit is anger + disgust"
+      },
+      "final_labels": ["anger", "disgust"]
+    },
+    {
+      "id": "fear_sadness_example",
+      "emotion": "fear+sadness",
+      "src_lang": "hin",
+      "text": "मुझे डर लग रहा है… बाढ़ में सब खो गया, बहुत दुखी हूँ 😱😭",
+      "reasoning": {
+        "cues": "“डर लग रहा”, loss “सब खो गया”, 😱😭",
+        "tone": "Anxious and mournful after loss",
+        "interpretations": "Fear from ‘डर’; sadness from loss/‘दुखी’",
+        "critique": "Distinct cues support both labels"
+      },
+      "final_labels": ["fear", "sadness"]
+    },
+    {
+      "id": "joy_surprise_example",
+      "emotion": "joy+surprise",
+      "src_lang": "ron",
+      "text": "Nu pot să cred! Am câștigat bursa! 😮🎉",
+      "reasoning": {
+        "cues": "“Nu pot să cred!”, “am câștigat”, 😮🎉",
+        "tone": "Elated shock at unexpected achievement",
+        "interpretations": "Surprise from disbelief; joy from winning",
+        "critique": "Canonical joy + surprise pattern"
+      },
+      "final_labels": ["joy", "surprise"]
+    },
+    {
+      "id": "disgust_surprise_example",
+      "emotion": "disgust+surprise",
+      "src_lang": "swe",
+      "text": "Usch, vad äckligt! Plötsligt luktade det hemskt 😮🤢",
+      "reasoning": {
+        "cues": "“Usch, vad äckligt!”, “Plötsligt”, smell, 😮🤢",
+        "tone": "Startled revulsion",
+        "interpretations": "Surprise from suddenness; disgust from gross smell",
+        "critique": "Both emotions explicitly cued"
+      },
+      "final_labels": ["disgust", "surprise"]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+# Variant 3: B-L1 with a PERMISSIVE (recall-favoring) decision policy.
+#
+# Identical to canonical config_b_l1.yaml. The decision-policy block is
+# replaced at runtime by ablation/l1_l2_prompt_variants/permissive_policy/scripts/run.py,
+# which monkey-patches build_cot_block() to return the CoT block with the
+# canonical "default to abstain when uncertain" replaced by:
+#   "Label any emotion that is plausibly present, even on weak evidence;
+#    when uncertain between two emotions, prefer to assign both."
+#
+# Reasoning bank and bare CoT instruction unchanged.
+#
+# Tests: does flipping the precision-prior to a recall-prior recover the
+# vmw/zul languages? At what cost on languages where the canonical prior
+# was working?
+
+topology: "width"
+level: "l1"
+num_agents: 3
+
+sampling:
+  temperature: 0.7
+  top_p: 0.95
+
+max_tokens: 512
+
+aggregation:
+  primary: "majority_vote"
+  secondary: "confidence_weighted"
+  majority_threshold: 2
+  confidence_threshold: 0.5
+
+agents:
+  - name: "agent_1"
+    seed: 42
+    bias: ""
+  - name: "agent_2"
+    seed: 123
+    bias: ""
+  - name: "agent_3"
+    seed: 456
+    bias: ""

@@ -1,0 +1,832 @@
+id,text,anger,disgust,fear,joy,sadness,surprise,emotions,split
+ptmz_train_track_a_00001,novas frequências para escutar a emissão em português da voa,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00002,hospital do lubango adia cirurgias por falta de água,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00003,departamento de defesa dos eua reitera apoio ao governo de moçambique em meio a combates em palma,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00006,rádios comunitárias moçambicanas combatem casamentos prematuros,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00008,dois novos casos de coronavírus iniciam “momento crucial” para os enfermeiros angolanos,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00010,"itália: já morreram mais padres do que médicos, vítimas do coronavírus",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00019,moçambique atenta a mudanças climáticas,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00021,macedônia: blogueiros celebram a vitória sobre os fascistas em 1945,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00022,índia proíbe tiktok e outros 58 aplicativos em meio a crescente sentimento anti-china e conflitos na fronteira,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00023,são tome & principe: meio ambiente em perigo pela exploração petrolífera,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00024,festejos de empate no can fazem 3 mortos na guiné-bissau,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00026,pedem medidas para combater violência no brasil,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_00027,um terço das mulheres têm acesso à internet em moçambique,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00030,moçambique perdeu 200 milhões de meticais em corrupção,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00031,"na boa governação, analistas falam em muito discurso e pouca prática em moçambique",1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00032,"universidade brasileira não quer matricular estudante de guiné-bissau, mesmo ela tendo cumprido todos os requerimentos",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00034,"jovens deverão assumir a liderança em áfrica, diz o músico zimbabweano thomas mapfumo",0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00035,"tribunal britânico retoma caso ""dívidas ocultas""",0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00037,angola: manifestantes e jornalistas presos em luanda,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00038,pessoas brancas deixam de dublar personagens negros de os simpsons,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00039,"com apoio de fãs, azagaia consegue fundos para operar tumor na índia",0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00040,eliminação do brasil do mundial termina em tumultos,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00042,director de jornal turco que revelou envio de armamentos para islamitas é preso,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00045,"""não somos uma família racista"", príncipe william",0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00046,gana desbanca república tcheca e embola grupo e,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00047,medo e controle em angola: a central 7311,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00050,forças segurança nigerianas resgatam mais de 300 estudantes raptados,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00052,cientistas descobrem segredo de 'primo' alemão de stonehenge,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00053,"em iniciativa inédita, polícia vai à maré dar explicações sobre a chacina de junho de 2013",0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00054,brasil/palestina: jogador de futebol removido do facebook e cortado da seleção por apoiar palestina,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_00056,américas: a saída de bola das eliminatórias da copa,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00058,corrida para o negócio afecta o rigor jornalístico em moçambique,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00061,"três ativistas anti-copa acusam o brasil de perseguição política e, em vão, procuraram asilo no consulado do uruguai",0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00062,"angola fala só – “a polícia não cumpre a lei, cumpre ordens” – osvaldo caholo",1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00065,"autoridades moçambicanas detêm suspeito envenenador de phombe, em chitima",0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00066,ocupação de venezuelanos sofre com ameaça de despejo no brasil,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00068,alemanha ameaça sanções à rússia por envenenamento de navalny,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00069,destinos de praia na albânia enfrentam temporada turística de verão atípica,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00070,indignação no méxico por cruel assassinato de três estudantes de cinema,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00077,ciclone idai e fome afastam mais de 250 crianças da escola em manica,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00078,já só restam 20 rinocerontes em moçambique,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00079,japão: oito línguas ameaçadas no arquipélago japonês,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00080,paraquedistas morrem quando tentavam fazer o anel olímpico,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00081,kenneth deixa um morto centenas de casas destruídas e pelo pelo menos 15 sem tecto em moçambique,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00083,"avião da vueling aterra de emergência em barcelona devido a ""cheiro a queimado""",0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00085,vicente ramaya morto dentro da sua viatura hoje em maputo,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00086,"exército de moçambique afirma número ""significativo"" de militantes mortos na batalha de palma",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00087,angola: celebrando o mês da mulher angolana com poesia,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00088,cheias em nampula afectam milhares de pessoas,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00090,governo de jair bolsonaro chama indicada ao oscar de militante anti-brasil,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00095,egito: médicos gravam vídeo de blecaute em emergência de hospital,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00097,como uma disputa sobre pagamento da premiação quase impediu camarões de jogar na copa,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00100,mesmo com novas leis o brasil tem dificuldade em proteger mulheres e feminicídio aumenta,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00101,pica-pau raro descoberto nos eua,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00102,inflação e juros disparam em moçambique,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00104,"""niveis de corrupção em moçambique ainda são elevados"", diz centro de integridade pública",0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_00107,amnistia internacional: ‘espiral de violência é uma ameaça ao estado de direito na venezuela’,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00111,morreu bra hugh masekela,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00112,floresta maia no méxico é referência em gerenciamento de recursos naturais graças à aliança florestal,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00117,paradas de ônibus sem teto e manutenção revelam as desigualdades entre bairros de são paulo,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00120,joseph blatter e michel platini suspensos por oito anos pela fifa,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00122,esquerda vence eleição presidencial em el salvador,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00124,áfrica do sul realiza campanha contra malária para mineiros e turistas que viajam a moçambique,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00129,espanha desarticula rede que recrutava mulheres para o estado islâmico,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00130,google demite engenheiro que diz que inteligência artificial tem consciência,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00133,inglaterra: helicóptero onde seguia dono do leicester explodiu,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00136,estados unidos e cuba aproximam-se,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00139,"brasil: terceiro protesto contra o preço da passagem foi pacífico, mas terminou com bombas no metrô",1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00144,metade de todas as mortes de crianças está ligada à desnutrição,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00146,eua cancelam viagem de blinken à china após misterioso balão sobre montana,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00148,onu quer ajudar maputo a ser uma cidade segura para as mulheres,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00149,músicos etíopes acusados de terrorismo por suas letras ‘incitadoras’,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_00151,moradores do rio de janeiro se mobilizam contra alto custo de vida na cidade,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00153,uma garota gritou “macaco” durante uma partida de futebol. e o brasil foi lançado outra vez ao debate online do racismo.,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_00154,moçambique: rebeldes cortam estradas para palma. estância turística de vamisse destruída,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00156,encontradas chupa-cabras nos estados unidos,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00158,etíope almaz ayana é ouro nos 10 mil metros e angola perde mas passa à fase seguinte em andebol,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00161,lima vai sediar jogos pan-americanos de 2019,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00163,"na copa do mundo do brasil, brutalidade policial atinge manifestantes e jornalistas",1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00164,vaga de deslocados chega a mocímboa da praia,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00167,polícia desaconselha espectáculo na ponta da restinga,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00170,"covid-19: anthony faucy diz que número de mortes é superior ao anunciado e ""o pior ainda não passou""",0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00171,"bonga é mais que um cantor, é um combatente da liberdade - autor guineense",0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00172,funcionários da educação em nampula acusados de desvio de fundos,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00173,32% das moçambicanas foram alvo de violência doméstica,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00174,"""pobreza vai aumentar ainda mais em moçambique"", adverte observatório do meio rural",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00176,pai rapta e tenta vender filho albino em moçambique,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_00178,mortalidade infantil cai na áfrica subsaariana,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00179,covid19: nyusi declara de estado de emergência em moçambique,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00180,angola esgotou reservas da vacina da febre amarela,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00183,conheça o padre brasileiro que ajuda quem vive nas ruas – e sofre ataques e ameaças por isso,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00188,escândalo do “cimentaço” deixa rastros de corrupção na campanha presidencial da costa rica,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00189,comércio entre frança e moçambique pode atingir 600 milhões de euros,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00191,"moçambicanos lamentam a morte de um grande futebolista, mário coluna",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00196,famílias das vítimas da tragédia do uíge clamam por justiça,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00197,"indígenas estão ameaçados de despejo em dourados, no mato grosso do sul",1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00199,marrocos: região de tânger enfrenta graves enchentes,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00201,"após envio de top model para o hospício, são-vicentinos temem que política e patriarcado estejam em jogo",0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00203,"no paraguai, pobreza cria um ciclo de mulheres que cuidam dos filhos de outras mulheres",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00204,ilhas de goa e sena encerradas ao turismo depois de naufrágio,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00207,"para afro-colombianos, racismo institucional é uma realidade do dia a dia",0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_00209,pouca possibilidade de justiça para jornalistas assassinados na colômbia,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00210,uganda: o projeto de lei anti-gay está de volta,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_00213,moçambique vacina 700 mil crianças contra a pólio,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00215,"covid-19: maioria dos infetados nos eua são negros, hispânicos, asiáticos e nativo-americanos",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00216,moçambique: tensão política está a afectar investimentos,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00217,azagaia: polémico rapper moçambicano afasta-se dos palcos após escândalo na televisão,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00218,moçambique: por quê nossos dirigentes nunca usam nossos hospitais?,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00221,especialistas alertam que ambicioso canal de istambul destruirá o meio ambiente e abrirá caixa de pandora da geopolítica,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00223,“contra o roubo legalizado”: regalias dos governantes moçambicanos levam cidadãos às ruas,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00224,o maior jornal do brasil deixa o facebook e o acusa de propagar ‘fake news’,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_00225,activistas e governo divergem quanto à situação da sida em angola,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00227,europa: crise económica desperta políticas anti-imigração,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00230,erdogan pode ter pressionado pelo encerramento de escola turca em luanda,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00231,covid-19: moçambique dá sinais para a retomada de cultos religiosos,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00232,poluição mineira provoca 15 mortes em tete,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00233,top ten música na américa: beyoncé é a favorita nos grammy,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00236,mistério continua a envolver envenenamentos em moçambique,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00237,assassinado coordenador que investigava desaparecimento dos estudantes de ayotzinapa,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00242,caos nos transportes urbanos moçambicanos,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00243,al shabaab explode restaurante e mata dez pessoas na somália,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00244,joseph blatter é reeleito presidente da fifa,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00245,"áfrica com maior risco de doenças transmissíveis, diz a oms",0,0,1,0,1,0,"['fear', 'sadness']",train
+ptmz_train_track_a_00246,angola: presos e desaparecidos por “pensarem diferente”,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00252,programa mundial de alimentos alerta que angola vive pior seca desde 1981,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00253,"pela primeira vez, fósseis de dinossauros bico de pato são encontrados na áfrica",0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00254,"moçambique: ""cesta básica"" em dúvida",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00255,índia: caxemira: das pedras atiradas até os protestos no facebook,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_00256,estado de emergência entra em vigor no domingo em cabo verde,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00257,morreu augusto matine,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00259,ciclone kenneth entrou em macomia e mocímboa da praia e começou a provocar estragos,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00260,moçambique: exportação ilegal de madeira continua a ser problema,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00261,lula se compara a jesus cristo e diz que vencerá a eleição,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00264,moçambique: desmobilizados voltam às manifestações,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00266,activistas guineenses alertam que há cada vez mais adolescentes e jovens a consumir drogas,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00269,duas a três crianças morrem por dia no hospital municipal de benguela,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00272,cientistas descobriram uma maneira totalmente nova das cobras se moverem,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00279,futebol: nasce uma super estrela com sabor da guiné bissau,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00281,onu indica que cerca de um milhão de pessoas enfrentam escassez de alimentos em moçambique,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00282,can 2021: cinco jogadores da guiné-bissau com covid-19 ficam de fora do primeiro jogo na prova,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00283,covid-19: governo são-tomense lança programa de apoio a privados e pr pede transparência,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00286,optimismo e ceptcismo no lançamento do metrobus em maputo,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00288,ucrânia: o sofrimento dos tártaros da criméia,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00289,"cristiano ronaldo, bola de ouro 2016 da france football",0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00290,vídeo anti-lula faz sucesso depois de proibido,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00291,"brexit, trabalhadores timorenses preocupados com o seu futuro no reino unido",0,0,1,0,1,0,"['fear', 'sadness']",train
+ptmz_train_track_a_00292,doenças preveníveis matam 320 crianças por dia em moçambique,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00295,amnistia internacional alerta para violações de direitos no rio-2016,0,1,0,0,1,0,"['disgust', 'sadness']",train
+ptmz_train_track_a_00298,covid-19: médicos moçambicanos zangados com o sistema por não se sentirem protegidos,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00299,mortes sobem para 19 em ataque a museu de tunis,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00301,angola: quando as mulheres vão ser tratadas com respeito e igualdade?,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00302,"filipe nyusi e ussufo momade reúnem-se para ""desencalhar"" o impasse político",0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00305,"""o brasil está tendo alguns problemas, não há dúvida sobre isso""",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00306,"moçambique: malária mata mais de 400 pessoas em oitos meses, revela o ministro da saúde",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00308,covid-19: médico moçambicano infectado na espanha,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00309,covid-19: moçambique recebe vítimas mortais vindas da áfrica do sul,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00310,myanmar: catástrofe sem precedentes provocada por ciclone,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00311,moçambique: por trás da detenção do rapper azagaia,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00315,dois mortos em tiroteio na universidade da califórnia,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00316,angola: catequistas de cabinda acusam o governo de perseguição religiosa,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_00317,marrocos: a morte do carniceiro basri,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00318,"a fifa é uma entidade formada por ""filhos da p....""",1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00319,atms voltam a dar dinheiro em moçambique,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00321,banco de moçambique aumenta taxa de juros,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00322,lixo plástico: um problema sério em uganda,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00323,crise leva à falência 2900 empresas moçambicanas,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00324,"ondas e ventos de sacolas plásticas atingem a península de paraguaná, venezuela",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00326,as muitas faces da violência cotidiana contra as mulheres,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00327,redes informais de wifi são desmanteladas em havana,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00328,yaya touré eleito melhor jogador africano de 2013,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00329,"países pobres estão cada vez mais pobres, revela relatório sobre países menos avançados",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00332,mauritânia: forças de segurança atacam manifestação pacífica da oposição,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_00334,covid-19: cabo verde regista número mais elevado num só dia e restantes lusófonos têm mais casos,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00335,estudo alerta sobre os riscos da prevalência de gravidezes na adolescência em moçambique,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00337,angola e moçambique vão ficar ligados por caminhos-de-ferro,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00339,timor-leste vence na mongólia e confirma passagem à segunda fase de qualificação para o mundial de 2018,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00341,áfrica do sul: a libertação do afrikaans,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00342,menos de 10% dos habitantes da áfrica subsahariana tem eletricidade. o que está sendo feito para mudar isso?,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00344,egito: mubarak castiga povo com fechamento de bancos e falta de comida,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00347,eua e ue condenam decisão da nigéria de suspender acesso ao twitter,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_00348,turistas aprovam a copa no brasil,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00350,covid-19: alerta no kwanza norte com três casos importados de luanda,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00351,ameaças à liberdade de imprensa na luta contra o ébola na libéria,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_00352,"conforme a guerra no afeganistão continua, os transtornos mentais aumentam",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00353,"egito anuncia descoberta de 14 sarcófagos de 2,5 mil anos",0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00355,trinidad e tobago: crianças com hiv,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00356,"albinos continuam com medo, mas número de ataques caiu em nampula",0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00357,cruz vermelha lança programa contra a xenofobia,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00360,organização de telecomunicações liderada por indígenas vence histórica batalha jurídica no méxico,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00361,"caravana de refugiados da américa central vai até a fronteira dos estados unidos pedir asilo, mas maioria não será atendida",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00362,o pesadelo de comprar ingressos para os jogos da copa 2014,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00363,bebidas energéticas atacam esmaltes dos dentes,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00365,china bloqueia o acesso do google em partes do país,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00367,"usinas hidrelétricas no panamá: “prometeram desenvolvimento, mas criaram um desastre”",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00370,"um século depois, namíbia exige justiça à alemanha pelo seu primeiro holocausto",1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00371,"celebridades da internet, estudantes de origem somali arrecadam mais de 80 mil dólares para combater fome na áfrica",0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00372,guterres pede reformas na onu e que os líderes ouçam o clamor dos povos,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00373,"a rejeição do “voto de condenação” à prisão dos ativistas em angola “envergonha a todos”, dizem manifestantes",1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00376,primeiro-ministro australiano minimiza alegações de tortura no sri lanka,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00377,moçambique: metade dos bebés nascidos com sida morrem antes dos dois anos,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00378,onu apela a 254 milh?es para ajuda humanitária a moçambique,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00380,"cristiano ronaldo, bola de ouro 2013",0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00381,"clinton: china e o ""novo colonialismo"" em africa",1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00383,fundo do mar negro esconde cidade submersa de 6.000 anos,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00384,“arroz podre” leva povo às ruas e sai de circulação em são tomé,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00385,"trending: morreu malik b, dos the roots",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00387,fome leva centenas de crianças para a pediatria do hospital de benguela,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00388,pacientes com dificuldades a acesso de medicamentos no sul de angola,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00389,palmas elege primeiro estrangeiro a governar uma capital brasileira,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00390,quênia: ódio tribal faz primeiras vítimas na internet,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_00391,presidente do haiti é morto a tiros dentro de casa,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00392,"a nepalesa sapana roka magar, que oferece ritos funerários hindus para corpos não identificados, entra para a lista das 100 mulheres de 2020 da bbc",0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00394,ine contraria números de eleitores apresentados no recenseamento em gaza,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00396,interpol investiga burladores de moçambicanos na internet,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00399,fotos: drone leva vacinas a ilha remota em vanuatu,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00402,filme moçambicano “avó dezanove e o segredo do soviético” ganha prémios no quénia,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00403,desnutrição afecta cerca de metade de crianças moçambicanas,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00404,antigos embaixador e adido financeiro moçambicanos na rússia condenados por peculato,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_00406,simão mendes:um hospital que carece de tudo,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00408,morreu shimon peres,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00409,maputo acolhe conferência mundial pela paz,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00410,bill cosby condenado a pena entre 3 e 10 anos na prisão por agressão sexual,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_00411,asteroide do tamanho de um arranha-céu passará perto da terra,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00414,mundo árabe: onde alguns estão de luto por osama bin laden,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00415,"morreu joão de sousa, uma referência do jornalismo moçambicano",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00417,hospitais angolanos gritam por socorro,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00418,defensores do marco civil comemoram a aprovação da “constituição da internet”,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00419,libertem nganang: escritor camaronês detido em prisão de segurança máxima em iaundé,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00421,nova iniciativa para lutar contra o sida em nampula,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00422,francisco prega o perdão e defende luta contra a corrupção,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00424,angola: jornalista assassinado por motivo desconhecido,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00427,anche cabral é a primeira mulher timorense no cross country olímpico do rio de janeiro,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00428,"em país hostil a travestis, brasileira faz arte a partir de sua identidade e denuncia transfobia",0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_00429,coréia do sul e china: mistério sobre a morte de diplomata coreano,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00430,"índia: imprensa, mumbai e ataques terroristas",0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00431,"drogba, toure e mikel apontados para o melhor jogador africano de 2013",0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00432,cinco estrangeiros detidos em moçambique na posse de material de guerra,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00433,luta contra a sida em cabo verde tem resultados positivos,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00435,"áfrica do sul pode deparar-se com ""violência catastrófica""",0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00436,ucrânia: projeto de lei homofóbico levado à pauta antes da eleição,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_00437,mulheres no chile criam comunidade próspera através da rádio,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00438,brasileira condenada a 17 anos de prisão por tráfico de droga em moçambique,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_00439,governo e partidos cabo-verdianos destacam papel de dhlakama no desenvolvimento de moçambique,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00440,níger: 12 mortos e 27.000 desalojados por causa das cheias,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00441,mortos no nepal ultrapassam os 2.500,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00443,equador: rompendo laços dilomáticos com a colômbia,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00447,mais um ataque no norte de moçambique - três mortos e vários bem queimados,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00448,washington redskins abandona nome devido a conotações racistas,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00450,michael schumacher continua estável mas em estado crítico,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00454,mídia: kim jong-un será substituído por sua irmã,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00456,"insurgência em cabo delgado já preocupa o mundo, dizem analistas",0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00458,frança: le pen ultrapassa rival fillon devido escândalo,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00459,chanceler alemã sofre acidente de esqui na suíça,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00461,funai anuncia descoberta de nova tribo no acre,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00462,"insurgentes em cabo delgado fazem ""razias"" com sequestro de raparigas, diz save the children",0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00464,chan hol 3: o esqueleto desfigurado de 10 mil anos,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00465,madeira moçambicana para o mercado da república popular da china,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00466,pirataria: barco moçambicano já está na somália,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00467,covid-19: presidente de câmara de nova iorque soa alarme sobre síndrome raro ligado ao vírus,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00469,"""morreu o rei"": reacções à morte de kobe bryant e filha gigi",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00470,joe biden diz estar pronto para restaurar a américa,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00473,por que os governos africanos estão criminalizando a liberdade de expressão on-line? porque temem seu poder,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_00474,nota positiva para o governo angolano no combate ao coronavírus,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00476,"encontro nyusi e dhlakama reduz a incerteza, mas há questões por resolver",0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00478,doentes com tuberculose abandonam tratamento em moçambique,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00479,os perigos de um confronto militar com a coreia do norte,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00481,grupo indígena brasileiro univaja exige investigação sobre assassinatos de dom phillips e bruno pereira,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00483,netizen report: governo brasileiro quer ajuda do google para manipular a opinião pública,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_00484,"durante pandemia do novo coronavírus, adeus a familiares em velórios fica restrito no brasil",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00486,moçambique apresenta vacina certificada contra a malária,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00487,"voluntários da eslovénia, macedónia e sérvia unem esforços de reconstrução depois de inundações catastróficas",0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00488,"sem dó, nem canudo - estudantes angolanos na ucrânia em risco de deportação",0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00491,brasil: bispo aponta o estupro de mulheres como desculpa para o aborto,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_00492,sede de querer viver num mundo melhor motiva empreendedora moçambicana a fazer o bem,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00494,méxico vence camarões e iguala brasil na liderança do grupo a,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00496,barack obama : má governação conduziu ao desastre económico no zimbabué,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00499,20-40% dos recursos do setor de água são perdidos devido à corrupção na áfrica,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00500,victoria é o primeiro estado da austrália a sancionar lei sobre morte assistida,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00502,mudanças na constituição e desconfianças marcam o anúncio de eleições em angola,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00507,estão as ‘vespas assassinas’ japonesas invadindo a américa do norte?,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00508,parque nacional de gorongosa quer travar casamentos prematuros,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00510,cantor gospel angolano quer afastar jovens da bebida alcoólica e aproximá-los de deus,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00514,polícias de manica acusados de pedofilia e violações sexuais,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_00515,chókwè continua vulnerável a inundações,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00516,netizen report: turcos protestam contra lei da censura e retiram popularidade ao twitter do presidente,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00526,"camionistas angolanos isentos do pagamento de teste da covid-19 ""obrigados"" a pagar seis mil kwanzas",0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_00527,togo: protestos por direitos humanos reprimidos com violência,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_00530,financiamento de pesquisa enfrenta desafios na frança e nos países africanos,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00531,novos documentos secretos são encontrados na casa de biden,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00532,observatório eleitoral dá vitória à frelimo em cuamba,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00534,moçambique afectado pela covid-19 e ataques no norte e centro do país,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00537,zurique: congelados milhões de francos suíços relacionados à fifa,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00541,dois mortos vários feridos em confrontos na guiné-bissau.,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00543,hrw denuncia discriminação de albinos em moçambique,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00544,jornalista guineense desaparece misteriosamente de angola,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00545,amazônia passou a emitir mais carbono do que absorver,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00546,republicanos aprovam lei para impedir decreto de obama sobre imigração,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00547,"""não traga negros aos meus jogos"", disse sterling",1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00549,ong guineense critica multinacionais que cultivam organismos geneticamente modificados,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_00550,"mais de 350 mil crianças precisam de apoio urgente em cabo delgado, revela a save the children",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00555,uma discussão na suprema corte pode colocar em risco terras e direitos indígenas no brasil,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00556,nações unidas apoiam a eliminação de casamentos prematuros,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00557,taciana lima perde na sua primeira participação no rio-2016,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00559,moody´s desce rating de moçambique e primeiro-ministro viaja de urgência para washington,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00562,josina machel entre as 100 mulheres mais influentes de 2020,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00563,o jornalista e ativista digital luis carlos díaz está desaparecido na venezuela,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00567,rosa roque: artistas unidos podem colocar a cultura de angola entre as potências do mundo,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00569,drones americanos atacaram o iêmen no dia da posse presidencial,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00570,o presidente jair bolsonaro não é o único a defender o trabalho infantil – os brasileiros ricos também não veem problemas,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_00573,"projeto social vai ajudar a alfabetizar pessoas mais velhas em comunidade cabo-verdiana, almada, portugal",0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00575,mário coluna em coma estacionário,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00576,covid-19: moçambique chega a 606 mortos e são tomé e príncipe tem quatro vítimas mortais num dia,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00578,fotos da nasa sugerem água fluindo em marte,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00579,interrompido transporte ferroviário de passageiros entre moçambique e áfrica do sul,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00583,nova vacina contra a malária testada no burkina faso,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00586,polícias sul-africanos condenados a 15 anos de prisão por morte de moçambicano,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00588,crianças africanas com deficiente tratamento da sida,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00589,"no chile, o ano escolar ainda está na metade e os professores têm dificuldades",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00591,"meena, uma personagem de desenho animado que muda a atitude com relação às meninas no sul da ásia",0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00593,avião da lam forçado a interromper o voo após quebra de vidro frontal,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00595,facebook comemora 10 anos com cerca de mil milhões de utilizadores,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00598,mulheres denunciam corrupção nas maternidades de nampula,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00600,unicef revela que 700 mil crianças moçambicanas estão abandonadas à fome e delinquência,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00601,50 anos de ditadura no brasil: os informes oficiais do torturador francês paul aussaresses,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00603,"cristiano ronaldo, the best 2016",0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00605,globo noticia a morte do mesmo homem em duas versões diferentes,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00606,blogueira cubana tem visto negado para entrar nos eua,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00608,"messi diz que ""não dá mais"" na selecção",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00609,moçambicanos não terão mais acesso à saúde negado por conta de sua vestimenta,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00610,"brasil: a morte de sócrates, um ídolo brasileiro",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00615,estados unidos apostam em parceria estratégica com áfrica,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00616,jovens moçambicanos fazem a diferença na vida das crianças orfãs da beira,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00619,pondo fim à brutalidade policial na nigéria: festival de luzes em homenagem aos mortos,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00621,veículo da fao atacado em sofala,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00623,onu alerta para crise em moçambique e pede 254 milhões de dólares para ajuda humanitária,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00624,"com o colapso da paz e da subsistência, ásia central se prepara para mais casos de trabalho forçado e escravidão sexual",0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_00625,queniano kipchoge bate recorde mundial da maratona em berlim,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00630,morte de presidente do malawi pode alterar relações com moçambique,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00631,mulher de 102 anos posa nua para calendário de time de futebol,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00632,"renamo pede fim dos ""ataques do governo""",0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00634,vítimas de esterilizações forçadas no peru seguem em busca de justiça,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00635,colombia: resgate de reféns causa preocupações,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00639,inundações provocam cinco mortes e desalojam mais de 1800 pessoas em tete,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00640,banco mundial vai apoiar moçambique na reconstrução depois das cheias,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00641,angola: organizador de protesto contra pobreza preso às vésperas,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00642,etiópia: pai do jazz etíope é homenageado,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00648,mães dos activistas presos em angola proibidas de protestar,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00650,menor preso a poste: barbárie racial exposta em zona nobre do rio de janeiro,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_00652,conflito no iêmen afeta seriamente as crianças do país,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00653,"mãe confessa assassinato da própria filha em trindade e tobago, gerando discussões sobre violência, depressão, pobreza e saúde mental",0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_00654,"reacções à morte de mandela: eduardo dos santos ""profundamente consternado""",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00656,metade dos brasileiros está contra as olimpíadas,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00658,medo e incerteza: a vida dos georgianos em gali,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00659,amnistia internacional denúncia violência policial no rio de janeiro,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_00662,avião da lam que fazia ligação entre maputo e luanda desaparece,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00663,nasa anuncia o descobrimento do planeta habitável,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00664,nyusi reconhece ser difícil conhecer motivações dos ataques em cabo delgado,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00666,encontradas tumbas de crianças da elite do império inca de 500 anos no peru,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00667,preço do petróleo bate novo recorde,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00668,mendicidade e trabalho infantil preocupam em nampula,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00669,especialistas advertem para nova crise em moçambique,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00670,as verdadeiras razões porque pessoas estão fugindo de honduras,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00672,"little richard, ""o arquiteto do rock, morreu",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00673,trump ataca livro de seu ex-assessor bolton,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00675,"prémio da onu para aldo marchesini, médico e padre ""moçambicano""",0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00676,"legado artístico angolano está a ser esquecido, dizem destacados músicos",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00677,programa social beneficia viúvas em nampula,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00685,moçambique: mergulhar e defender a vida marinha,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00687,cazaquistão adotará o alfabeto latino após mais de 70 anos,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00690,coluna internado em estado crítico,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00692,tete: explosão de camião cisterna provoca 43 mortes,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00693,"""tirar quelimane do buraco em que se encontra"" - diz o novo edil",0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00694,guiné bissau: comércio injusto promove pobreza,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00695,afonso dhlakama diz que renamo foi prejudicado nas eleições em nampula,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00696,moçambique: vida de samora machel em banda desenhada,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00700,alerta para quem levar electrónicos à rússia: podem ser hackeados,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00701,ano lectivo arranca com velhos problemas por resolver,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00704,malária provoca dois mil óbitos no primeiro trimestre deste ano em angola,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00706,governo e panificadores procuram acordo sobre o preço do pão,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00707,ladrão rouba cartola de mágico com coelho dentro,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00710,"economia mundial: mulheres a braços com a pobreza, o trabalho e as dívidas",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00714,cólera mata 108 pessoas em 2017 em moçambique,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00715,índice de seroprevalência em moçambique aumentou cerca de dois por cento,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00717,‘basta de remoções forçadas!': anistia internacional denuncia copa do mundo no brasil,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00718,caçadores furtivos abatem 200 rinocerontes em moçambique,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_00720,governo e renamo mantêm impasse no diálogo político,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00721,queda de viaduto em belo horizonte causa dois mortos,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00723,"angola: após morte de médico, governo acaba com uso de máscara em viaturas privadas",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00726,fifa entrega prémio honorário a pelé,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00727,renamo ameaça acabar com o cessar-fogo,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00730,morreu mário coluna,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00733,crianças pescam para alimentar famílias desalojadas em sofala,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00734,ferroviário de maputo perde com patriots do ruanda e falha apuramento para as meias-finais,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00735,"covid-19: estado de calamidade em angola é ""perigoso"", dizem especialistas",0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00736,brasil: delegado de polícia ataca homem em cadeira de rodas,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00737,fundação wikimedia acusa nsa por seu programa de vigilância em massa,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00741,mia couto finalista do prémio são paulo de literatura,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00745,"indústria de açúcar em crescimento, mas desafios são enormes, dizem analistas",0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00747,fundação fernando leite couto nasce em maputo,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00749,moçambique promete vacinar mais de 16 milhões de pessoas contra a covid-19,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00752,"trending: lakers conquistam 17º título, lebron é mvp 2020",0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00754,crise do carvão lança no desemprego quase mil pessoas em tete,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00755,china: vários sítios de blogs em língua tibetana são fechados,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00757,olimpíadas de tóquio 2020 entram para a história por ter mais atletas que se declaram lgbtqia,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00759,assentamento mais antigo do mundo pode estar sendo descoberto na turquia,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00760,angola: presos políticos continuam a lutar pela vida,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00763,o time jamaicano de futebol reggae girlz ‘ataca com força’ para fazer história,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00764,"vozes começam a defender a legalização da ""suruma"" em moçambique",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00767,"eua vão desembolsar 1,2 mil milhões de dólares a moçambique até 2018",0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00768,projetos independentes de ecologia solidária florescem em porto rico,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00770,japão: tsunami atinge litoral e arrasta tudo,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00771,vacina da dengue ameaça a saúde de milhares de crianças nas filipinas,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00772,crescente insegurança na guiné-bissau preocupa onu e cedao,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00774,"trending: psg vai à semi-final da ""champions"" após 25 anos de ausência",0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00775,"pesquisadores descobrem poço de 1,5 mil anos destinado a deus grego em ilha na bulgária",0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00776,americanas conquistam quarto mundial de futebol,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00777,morte de cinegrafista em protesto acende debate sobre legislação de “mão dura” no brasil,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00778,"caso""dívidas ocultas"" atrasa empresa nacional de hidrocarbonetos",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00780,fonteira de ressano garcia aberta 24 horas por dia até 6 de maio,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00781,ferroviário de maputo campeão africano de basquetebol feminino,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00784,moçambicano hospitalizado após brutal ataque racista em moscovo,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00786,guiné-bissau: hospital sofre “danos colaterais” do golpe de estado,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00790,meninas grávidas duplamente penalizadas,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00792,armazém sul-africano que entregou produtos deteriorados é encerrado em moçambique,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00793,can 2021: covid-19 manda para casa metade da delegação da guiné-bissau,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00794,camião mata 11 pessoas em moçambique e motorista está a monte,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00797,nampula: misa condena intimidação de jornalistas da rádio encontro,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00798,"novo recorde: cartucho de super mario 64 vende por 1,56 milhão de dólares",0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00802,estados unidos formam fuzileiros moçambicanos para prevenir o terrorismo,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00807,profissionais de saúde em greve em moçambique,1,0,0,0,1,0,"['anger', 'sadness']",train
+ptmz_train_track_a_00810,governo e renamo preparam negociações sem mediadores,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00811,elas falam: latinas com deficiência sobrevivem à pandemia,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00813,ignorância contribui para aumento de infecções de hiv na huíla,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00815,marco civil aprovado: brasil marca gol na “copa do mundo da internet”,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00820,china: 750.000 mortes anuais causadas pela poluição,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00822,guatemala lamenta morte de dezenas de meninas após incêndio em abrigo juvenil,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00823,angola desce no índice da freedom house,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00826,"reino unido investiga bancos que concederam ""empréstimos secretos"" a moçambique",0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00830,afeganistão: morre fundador da rede terrorista haqqani,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00831,estados unidos e turquia acordam pausa na ofensiva de ancara na síria,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00832,moçambique: presidente nyusi apela ao empenho efectivo pela paz,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00833,covid-19: explosão da quarta vaga deixa estruturas de saúde com menos pessoal e mais casos,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00834,covid-19: moçambique e cabo verde registam novos casos da doença,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00839,quatro ex-ministros do stf declaram voto em lula,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00841,subiu para 16 o número de mortos do ataque na catalunha,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00842,"comunidades quilombolas reclamam de impactos industriais em porto de aratu, na bahia",1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00847,morreu george michael,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00850,"em vídeo do youtube, mães expõem terrível situação em hospital infantil da venezuela",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00853,"em meio à seca e crise climática, o estado mexicano de querétaro enfrenta possível privatização de água",1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00854,xiaomi ultrapassa apple no mercado mundial de smartphones,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00855,raro tesouro viking de mil anos é encontrado em ilha remota,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00856,"moçambique, pior lusófono no índice de desenvolvimento humano",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00858,moçambique vai ter lei sobre transplantes de orgãos,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_00860,“pornô de revanche” leva a morte trágica de duas garotas no brasil,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00865,moçambique: diminui tortura nas prisões,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00866,oficina de lâmpada a óleo de 1.700 anos é encontrada em israel,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00867,fidel castro entra no livro guinness com maior recorde de atentados contra ele mesmo,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00873,jamaica anuncia seu primeiro caso de varíola dos macacos,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00877,moçambique: insurgentes continuam a ocupar macomia e içaram a bandeira do estado islâmico,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00878,moçambique: autoridades violam os direitos dos reclusos,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_00879,‘senti essa felicidade bem no fundo da minha alma': futebol nacional empolga o afeganistão,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00881,"dançar com a copa... tem samba, forró, axé e sertanejo",0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00882,"ameaça de guerra civil volta a moçambique, a população refugia-se",0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00883,quase 250 milhões de africanos serão infectados com o coronavírus - oms,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00884,agricultura familiar no paraguai enfrenta crise e camponeses exigem que o governo encontre soluções,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00885,crianças “invisíveis” morrem sob a tutela do estado chileno,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00888,"sahle-work zewde, nomeada primeira mulher presidente da etiópia",0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00889,nasa descobre décimo planeta do sistema solar,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00890,orfãos moçambicanos enfrentam o drama de serem ilegais na áfrica do sul,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00894,ramos horta diz que eleições na guiné-bissau não podem ser adiadas,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00895,"onda de violência no brasil depois de derrota, dilma manifesta tristeza no twitter",0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00898,mulheres continuam desfavorecidas no acesso ao emprego,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00899,2017: mais um ano de empoderamento feminino na américa latina,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00901,violação brutal de mulher moçambicana gera polémica,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00902,"morre celina pereira, uma das maiores cantoras cabo-verdianas",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00906,gaza: insegurança alimentar ameaça 250 mil pessoas,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00907,aumento da população pode levar a crise económica em moçambique,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00908,moçambique: xai-xai sob ameaça de inundações,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00909,moçambique entre os países mais afectados pelo vih,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00914,madagáscar: blogueiros malgaxes na frança criticam política de imigração de sarkozys,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00915,antigos trabalhadores da avícola de nampula sentem-se enganados pelo governo,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00916,‘estádio de exceção': polícia brasileira prende ativistas anti-copa,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00917,nigéria: centenas de mortes em tumultos pós-eleitoral,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00918,mateus esteita tem organizado e participado de vários webinars para levar conhecimento e motivar jovens,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00919,notícias falsas sobre a vida de marielle franco abundam na internet após seu assassinato,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_00921,mães yanomami lutam pelo direito de enterrar filhos em meio à pandemia no brasil,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00922,"estados unidos acusam rússia de ""barbárie"" na síria",0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_00923,"carne brasileira é a melhor do mundo, diz temer",0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00925,rebelião deixa três mortos e quatro feridos numa prisão de nampula,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00927,covid-19: parlamento moçambicano ratifica nova fase do estado de emergência,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00928,nani é jogador do ano do manchester united,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00929,moçambicanos dizem “basta” ao clima de guerra e à crise económica que se abate sobre o país,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00932,"unindo fotógrafos dos dois países, exposição “cartas de amor do brasil ao iraque” quer trazer mensagem de paz",0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00933,incêndio de grandes proporções atinge museu da língua portuguesa em são paulo,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00936,"taiwan: a nação mais feliz na ásia oriental, segundo o relatório mundial da felicidade de 2022",0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00938,população jovem africana cresce sem precedentes,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00941,brasil: governo corta salários de médicos do sistema público de saúde,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00942,coordenador-adjunto do programa contra a malária em angola refuta acusação em tribunal,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_00945,obama nomeia primeira latina para o supremo dos estados unidos,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00946,sida diminuiu entre jovens moçambicanas,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00949,"cristiano ronaldo, melhor do mundo pela terceira vez",0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00951,moçambique: onu precisa de 30 milhões de dólares para apoiar vitimas de inundações,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00953,crise de medicamentos ameaça saúde pública em angola,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00954,pcc lucra 511% em 2 anos e meio,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00955,moçambique: mais uma grande descoberta de gás na bacia do rovuma,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00959,frelimo analisa derrota na votação intercalar de nampula,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00962,eua congratulam-se com anúncio de que moçambique está livre de armas,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00963,governo sul-africano pede desculpas por violência contra estrangeiros,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00964,tunisianos são abandonados à própria sorte na luta contra a covid-19,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00965,poupança interna muito limitada em mocambique,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00966,governo moçambicano fecha mesquistas frequentadas por elementos que atacaram mocímboa da praia,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00968,anp anuncia descoberta de campo que pode ser o terceiro maior do mundo,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00969,governadora de gaza denuncia movimentações de homens da renamo,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00970,dez pessoas morrem em moçambique durante tumulto em comício da frelimo,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00973,michael schumacher regista ligeiras melhorias,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00975,incêndio no museu nacional destrói parte importante da história brasileira,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00978,novas ameaças à liberdade de expressão no sul da ásia em 2017,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00979,pugilista transgénero faz história vencendo primeiro combate profissional,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00982,moçambique teria tentado expulsar jornalista estrangeiro após revogar sua acreditação,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00983,turquia: banimento do partido dtp inicia protestos em massa no curdistão turco,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00984,ataque contra trabalhadores de saúde preocupa a embaixada dos eua em moçambique,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00985,moçambique reabilita parque nacional de arquipélago de bazaruto,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00986,desastre em mineradora no brasil mostra que promessa de bolsonaro de flexibilizar a regulamentação do setor é totalmente inadequada,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_00987,guineense morre enquanto assistia por televisão jogo portugal-irão,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00988,vítimas do ciclone idai passam fome em manica,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_00989,"leonel messi, o melhor do mundo pela quinta vez",0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00991,cheias ameaçam agora sul de moçambique,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00993,"francofonia: como um vinho fino, a experiência do twitter fica melhor com o tempo",0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00994,governo de moçambique suspende aumento do preço do pão,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_00995,guinness: brasileira conquista recorde de travessia de lago de lava,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_00996,cerca de 200 adeptos ganeses pedem asilo no brasil,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_00998,áfrica: a união africana se tornou um grupo de piadistas?,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01000,ministra da saúde da áfrica do sul sob fogo cruzado,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_01001,angola: deputada do partido no poder é assassinada,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01003,emigrantes moçambicanos na áfrica do sul debaixo do espectro da deportação,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01004,xingamentos à dilma rousseff na abertura do mundial revelam um país dividido,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_01005,eu se tornam primeiro país a registrar mais de 100 mil novos casos num único dia,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_01007,governo angolano quer criar fundo de apoio aos artistas,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01008,cabo delgado: insurgentes atacam e ocupam a vila sede de macomia,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_01009,pesquisadores do mundo todo estão aprendendo com o conhecimento de comunidades indígenas. entenda o porquê isso é importante.,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01012,hungria: proposta de lei de imprensa ameaça a liberdade de expressão,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_01014,canadá: o “desaparecimento” de mulheres indígenas,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01015,furacão alemã arrasa portugal,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01019,trabalhador do megaprojecto de gás em cabo delgado morto por desconhecidos,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01023,incidente com avião da lam deveu-se a anomalia numa peça,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01024,"netizen report: em meio a ataques no whatsapp, ativistas processam empresa israelense criadora de software espião",1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_01025,uma rua em bangladesh colorida para a copa do mundo,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01026,como as mulheres pagam pela guerra sem fim da esterilização forçada na índia,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01029,sociedade civil denuncia prisão de 18 delegados políticos em moçambique,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01030,time de futebol brasileiro lança campanha contra o racismo,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01032,luanda: festival “nzoji ya monandengue” destaca talento de crianças com necessidades especiais,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01033,jovens reúnem-se na china para conter perda da biodiversidade e promover harmonia com a natureza,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01034,ataques cibernéticos derrubam site do @<username> no dia da eleição em moçambique,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_01035,moçambique aposta na investigação científica,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01037,enfermeiros da papua-nova guiné entram em greve devido à falta de proteção contra a covid-19,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_01038,juíz sul-africano adia julgamento de assassinato de moçambicano,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_01039,moçambique é o estado africano com situação mais crítica em termos de excesso de dívida pública,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01040,rainha elizabeth torna bill gates cavaleiro,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_01041,covid19: moradores de luanda e sumbe ignoram medidas de combate à pandemia,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01042,angola ano zero chega ao famoso festival de cannes,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01043,reino unido pode abandonar tanques por armas cibernéticas,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_01047,covid-19 leva famílias armênias à pobreza,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01048,militares em nampula acusados de agressões e violações,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_01052,"congresso inicia ""fim da era obama""",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01053,cabo delgado: aldeias atacadas por insurgentes com deficiente recenseamento eleitoral,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_01055,jornalistas e activistas moçambicanos são alvo de ameaças em ano eleitoral,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_01056,carlos agostinho do rosário é novamente primeiro-ministro,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_01058,estados unidos entregam 125 toneladas de ajuda a moçambique em duas semanas,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01059,eua satisfeitos com apoio a doentes de sida em moçambique,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01060,ministro moçambicano do interior admite dificuldades na luta contra insurgentes em cabo delgado,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01061,falhas no plano de segurança na origem da tragédia do uíge,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01062,méxico: machismo e homofobia nos partidos políticos,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_01065,"""a morte é uma garantia para todos, mas viver o resto do teu dia não é"", vanessa bryant",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01066,malária mata 600 mil pessoas todos os anos,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01067,ouvinte moçambicano cria time de futebol para oferecer uma opção gratuita e saudável de entretenimento para jovens,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01068,carcaças de ônibus como salas de aula? a internet moçambicana é contra essa ideia,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_01069,"filho do presidente angolano gasta 500 mil euros em leilão, expondo riqueza extrema da família dos santos",1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_01070,china: apelos para livrar ativista cego são recebidos com violência,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_01072,líderes africanos criam organização de comércio livre,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01074,corrupção em moçambique sem alteração,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_01077,estados unidos ajudam a iluminar 92 unidades sanitárias em sofala,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01078,"russos ficam eufóricos com o início da copa do mundo, apesar das iminentes reformas previdenciária e tributária",0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01079,mediadores chegam na segunda-feira para encontro entre nyusi e dhlakama,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01080,últimas declarações de dhlakama causam preocupação,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_01082,republicano é eleito nos eua depois de morto,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_01084,maputo: lançada primeira pedra para hospital focado em pacientes com hiv,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01085,brasil: vovó centenária realiza sonho de saltar de paraquedas,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01087,custo de portagens aumentou em maputo,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01088,escritores de língua portuguesa homenageiam jaime de figueiredo,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01092,dhlakama acusa governo moçambicano de reactivar esquadrões da morte,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_01093,congressistas americanos prometem apoio na área de conservação em moçambique,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01096,comércio não vence nos jogos africanos,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01097,a história de um projecto que destruiu a vida de uma aldeia em angola,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01098,onu alerta que conflito agrava-se em moçambique e as ajudas são insuficientes,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_01099,závora vai ter sala de cirurgia,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01101,"a morna, género musical cabo-verdiano, torna-se património da humanidade",0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01104,áfrica: mais adolescentes infectados por hiv,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01105,governo moçambicano cria agência anti-doping,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01106,moçambique: sem muito o que celebrar em primeiro de maio,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01107,ai acusa governo moçambicano de violar direitos humanos de 16 estrangeiros detidos há 18 meses,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_01110,código penal moçambicano viola direitos humanos das mulheres e crianças,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_01111,governo moçambicano desdramatiza alarme frente a coronavírus e diz estar atento,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_01112,nampula: portadores de deficiência sem oportunidades de emprego,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01113,"governos não querem ser fiscalizados, dizem deputados pan-africanos",0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_01114,terremoto atinge a tanzânia e nova lei proíbe cidadãos de comentar sobre o assunto on-line,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_01115,seis caçadores furtivos moçambicanos mortos na áfrica do sul,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01117,vírus zika provoca terror nas grávidas no brasil,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_01118,"mário machungo, antigo primeiro-ministro moçambicano, morre aos 79 anos",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01119,"no brasil, transporte público fica mais caro e protestos são reprimidos pela polícia",1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_01123,jovem poeta moçambicano trabalha para lançar seu primeiro livro,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01125,bahrein: protestos irrompem no hospital salmaniya,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_01126,video: metroviários em greve são agredidos pela polícia militar de são paulo,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_01127,"coréia: morre o ditador norte-coreano, kim jong il",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01132,mudança climática: aumentando a propagação de doenças?,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_01134,eua: morre o lendário cientista da computação dennis ritchie,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01135,teatro moçambicano de luto: morreu o escritor e dramaturgo henning mankell,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01136,china promete ajudar estudantes moçambicanos em wuhan,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01138,angola e moçambique acusados de violar sanções à coreia do norte,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01139,schumacher reage bem à saída do coma,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01140,rinoceronte congelado pelo permafrost há 50 mil anos é descoberto na rússia,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_01143,bloqueios de internet em 2019: índia continua entre os países que mais bloqueiam a internet,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_01144,inep vai corrigir prova de candidato que esquecer frase do caderno do enem,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_01145,terrorista de paris preso na bélgica,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01148,agencia nacional de petróleo descobre novo reservatório,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_01150,há algo especial no 5 de fevereiro - ronaldo e neymar celebram aniversário,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_01151,"revelação do spyware pegasus indica que a índia está espionando jornalistas, ativistas e políticos",0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_01152,polônia: reações iniciais à morte do presidente kaczy?ski,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01155,dhlakama reitera que vai governar as províncias em março,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_01157,moçambicanos perdem emprego nas minas da áfrica do sul,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01159,a guerra da síria pode ser a mais documentada da história — e ainda assim sabemos muito pouco sobre ela,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01161,aumento de casos de cancro preocupa autoridades moçambicanas,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01164,doença tabú das mulheres é finalmente falada em público,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01166,ibrahimovic vence golo do ano,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01168,rádio independente liderada por jovens promove sustentabilidade na amazônia brasileira,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01169,o primeiro satélite angolano perdeu sinal após lançamento — e a internet não perdoou,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_01170,amnistia internacional pede protecção a nyusi de pesquisadora ameaçada,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_01171,avaria de equipamento prejudica o registo eleitoral em nampula,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01172,5 relatos de presas políticas para não duvidar que houve tortura na ditadura militar do brasil,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_01176,refugiados burundineses enfrentam difícil dilema: ficar em campos superlotados ou retornar para incerteza,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01178,"casada aos 15, margarida gostaria de voltar a estudar",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01179,"em meio a chuvas e inundações, peru resiste como #unasolafuerza",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01181,"cabo verde é o melhor lusófono em áfrica para fazer negócios, diz o banco mundial",0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_01183,"moçambique: albano carige, novo edil da cidade da beira, toma posse amanhã",0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01186,avaí vence com um gol de goleiro.,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_01187,"zé du, presidente angolano que permaneceu no poder por 38 anos, falece na espanha",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01188,microsoft novamente surpreende com o windows 365!,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_01191,resultados dos exames a bebida que matou 73 pessoas em tete anunciados esta sexta-feira,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01194,embargo dos estados unidos invade as vidas íntimas dos cubanos,0,1,0,0,1,0,"['disgust', 'sadness']",train
+ptmz_train_track_a_01200,personalidades moçambicanas alertam para ameaças à democracia,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_01201,união africana promete ajudar moçambique a combater insurgentes de cabo delgado,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01203,polícia moçambicana ativa alerta sobre tráfico humano em manica,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_01212,proprietários de creches e jardins de infância declaram falência na huíla,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01213,moçambicana isabel novela concorre a melhor artista africana nos sama,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01214,voluntários da cruz vermelha atacados em nampula,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01216,dezenas de milhares de pessoas afectadas pelas chuvas em moçambique,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01217,"com músicas, redes sociais e greves de fome, artistas cubanos lutam contra a repressão",0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_01219,brasil: cineasta desaparecida depois de ataque à flotilla,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01222,assassinado jornalista que denunciou corrupção no futebol africano,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_01227,tribunal de cabo delgado diz ter identificado autores de ataques em mocímboa,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01228,autoridades moçambicanas detêm jornalistas em cabo delgado,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_01229,"“a esperança já se esgota de tanto esperar,” o desabafo de alfa thulana",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01230,salários e subsídios de deputados em tempo de pandemia chocam angolanos e moçambicanos,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_01232,joanesburgo: jornalista simião pongoane forçado a oferecer “um refresco” a um polícia,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_01234,pequenos fazendeiros de madagascar se dizem forçados por investidores chineses a vender suas terras por valores irrisórios,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_01235,há músicas proibidas e vozes desaparecidas em angola,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01236,mais um socioambientalista é assassinado na amazônia,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01238,morreu eusébio,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01242,jovem moçambicana trabalha com perseverança para transformar em realidade o sonho de ser uma grande estilista,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01243,"moçambique é um ""grande corredor"" de heroína",0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_01245,segurança durante o mundial de futebol é preocupante,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_01246,palestina: blogueiros em gaza relatam o terror,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_01247,angolanos querem transformar contentores em obras de arte,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01250,"angola: com ébola bem do lado, as fronteiras foram fechadas",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01252,covid-19: nyusi ameaça tomar medidas mais duras contra o coronavirus,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_01257,irão impede que famílias completas assistam jogos em estádios e parques,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01264,blatter acusa os eua de terem querido infuenciar a eleição na fifa,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_01265,albinos na mira dos traficantes de órgãos,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_01266,mulheres trans na indústria do sexo do azerbaijão: uma escolha livre ou apenas uma ilusão de escolha?,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_01269,"após invasão da ucrânia, rússia declara guerra a seus cidadãos",0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_01270,como leis ambientais podem beneficiar comunidades de baixa renda na califórnia,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01272,mauritânia: a face da escravidão moderna,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_01274,desnutrição crónica em crianças continua alta em moçambique,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01275,venezuela: fotos bloqueadas no twitter enquanto os protestos continuam,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_01276,menino de 10 anos é morto pela polícia em favela do rio de janeiro,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_01279,milhares protestam em barcelona contra independência da catalunha,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_01282,"""perdemos parte da banda sonora das nossas vidas"", músicos choram carlos burity",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01283,tempestades desalojaram 120 mil moçambicanos e mataram 44,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01287,“primos” de são tomé e príncipe unem diáspora através de rádio online,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01288,moçambicanos organizam protesto contra as regalias dos ex-governantes,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_01289,‘leilão da resistência’ é realizado por ruralistas para financiar ações contra indígenas,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_01290,derrames de petróleo no delta do níger atingiram proporções catastróficas,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_01294,equipas africanas começam mal o mundial 2018,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01295,receiam-se ataques de piratas em moçambique,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_01299,ex-combatentes ameaçam com violência se não forem recebidos por guebuza,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_01302,palestina: contagem regressiva para guerra contra o irã,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_01303,dinamarca descobre que morte da indústria de visons é 'boa notícia' para natureza,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_01305,jovem moçambicano fica cego após ter olhos arrancados por traficantes de órgãos,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01306,moçambique é o palop com mais mortes de covid-19 mas angola tem maior percentagem de mortalidade,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01315,"cinco pensadores modernos africanos que tratam de identidade, língua e regionalismo",0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01317,suíça: mais dirigentes da fifa detidos por suspeita de corrupção,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_01318,moçambique: crise política na cidade central de beira,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_01319,cristiano ronaldo ganha bola de ouro 2013,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01320,onu: síria tem a maior crise de refugiados do mundo,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01325,venezuela: rainha da beleza morre do tiro que levou durante os protestos,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01327,criminalidade aumenta em chimoio,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_01328,o governo venezuelano apresenta projeto de lei para regular as redes sociais e sancionar “crimes de ódio”,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01330,o presidente da google faz visita surpresa à cuba para promover a liberdade na internet,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01332,"xangai prossegue com confinamento em toda a cidade apesar do clamor público, escassez de alimentos e caos",0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_01333,angola: ativistas espancados às vésperas de manifestação,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01335,migrantes venezuelanos enfrentam preconceito e burocracia no norte do brasil,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01337,"o adeus às lendas chadwick boseman, kobe bryant e jorge neto",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01338,milhares de rohingyas fogem da violência e acabam abandonados na fronteira entre bangladesh e myanmar,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01339,messi é bola de ouro pela sétima vez,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01340,caça furtiva preocupa procuradores africanos em angola,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_01341,ministério público sul-africano pede prisão perpétua para assassino de moçambicanos,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01344,portadores do visto h4 são impedidos de conseguir emprego nos eua,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01346,nova espécie de centopeia é descoberta na romênia,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_01348,brasil exibe novela de angola pela primeira vez,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_01349,tribunal italiano decidirá se jesus cristo existiu,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_01352,chuvas intensas matam duas crianças na beira,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01353,filipe nyusi quer encontrar-se com dhlakama mas quer resultados,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01357,holanda: duas mulheres presas na copa do mundo por promover a cerveja errada,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_01358,"trabalhadores da indústria têxtil no camboja pressionam h&m, walmart e zara por um salário digno",1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_01359,"eusébio, a lenda que desaparece",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01360,eua lança inoculações covid após autorizar vacina para uso de emergência,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01361,analistas moçambicanos defendem reformas profundas e fim do conflito armado,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01362,pandemia de covid-19 afeta negativamente direitos digitais nos bálcãs,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01365,quem matou fabiane: como um boato na internet assassinou uma dona de casa no brasil,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01366,brasil recusou fornecer dados sobre actividades da odebrecht em moçambique,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01367,dhlakama admite que a paz está próxima,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01368,guiné equatorial: escritor em greve de fome,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_01369,empresa de mateus zimba facilitou o suborno da embraer na venda de aviões à lam,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_01370,eua garantem ajuda a moçambique,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01371,"fundo empresarial da cooperação portuguesa disponibiliza 10,6 milhões de euros para empresas moçambicanas",0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01373,"irã: sanções apertam, e moeda iraniana cai",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01374,cabo verde: acordo de pesca com a união europeia,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01375,covid-19: mais mortes e casos em moçambique e angola,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01376,"islândia, de pais mais amigável para com os estrangeiros à grande ""atracção"" do mundial",0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01377,covid-19: seis mil crianças podem morrer por dia nos próximos seis meses,0,0,1,0,1,0,"['fear', 'sadness']",train
+ptmz_train_track_a_01378,"morreu, o ""capita "" do tri canarinho",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01379,fim iminente do último espaço de dinamismo cultural em luanda,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01381,ong resgata mais de 100 raparigas de casamentos prematuros em manica,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01382,"suspensão de apoio ao estado prejudica os mais pobres, diz grupo moçambicano da dívida",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01384,fístula obstétrica é problema de saúde pública em nampula,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01385,donald trump deverá assinar ordem que bloqueia imigração para os eua,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01389,falta de médicos dificulta controlo da cólera em nampula,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_01391,el-nino baixou produção de 25 milhões de camponeses na africa austral,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01392,guterres em moçambique com reconstrução pós-ciclones na agenda,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01394,wikinotícias em português ultrapassa wikinotícias em espanhol,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_01395,"moçambique: morreu joão domingos, ícone da marrabenta",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01396,nações unidas fazem alerta sobre evolução do hiv/sida em angola,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_01399,barcelona sob tensão: sagrada família evacuada devido a ameaça terrorista,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_01400,repórteres espancados por elementos da renamo,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_01404,moçambique em alerta devido a ébola,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_01405,"o uso desregrado do álcool provoca anualmente 2,5 milhões de mortes",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01407,nova associação de defesa dos direitos humanos surge em cabinda,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01408,moçambicanos na áfrica do sul desesperam-se por passaportes,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01409,angola fala só – “os meus filhos não vão à escola” – dr. adriano manuel,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01410,polícia moçambicana procura corpo de jogador morto por crocodilo,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01412,hospitais de malanje sem dinheiro para pagar contratados,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01415,morre diego maradona,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01419,jovem é assassinada por motorista do cabify no méxico,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_01420,presos do malawi nomeados aos grammy 2015,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_01421,chance de classificação para copa do mundo gera entusiasmo entre os peruanos,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01423,animadores africanos resgatam seus idiomas maternos com desenhos animados,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01424,polícia invade casa de afonso dhlakama na beira,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_01425,bunker alemão da segunda guerra é encontrado por acaso na bélgica,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_01429,porta-voz do líder da renamo é detido e acusado de incitar a violência,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_01430,artista denuncia e recria abusos de “clínicas de cura gay” em ensaio fotográfico,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_01433,covid-19: unita insta governo a declarar fase comunitária de transmissão da doença,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_01434,desabamento de terra mata oito garimpeiros em manica,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01439,aumenta violência nos campos de futebol de nampula,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01440,primeira-dama de cabo verde recebe prémio internacional de liderança,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01441,corrupção ameaça instituições moçambicanas de justiça,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_01444,schumacher vai permanecer em coma,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01451,autocarro de jornalistas alvejado no rio de janeiro,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_01457,ataque a camiões deixa quatro feridos em moçambique,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01461,guiné-bissau: militares atacam cidadãos em manifestação,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_01462,"fmi ""louva"" moçambique",0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01463,indianos e paquistaneses esperam que seus países sejam amigos,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01464,jogador de futebol jakub jankto revela que é gay,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_01466,covid-19: oms consegue aliança de oito mil milhões de dólares para vacina contra doença,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01468,o difícil recomeço dos refugiados moçambicanos no regresso à casa,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01469,oms promete ajudar moçambique a mobilizar 40 milhões de dólares,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01470,moradores reclamam de desalojamentos no rio de janeiro,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_01472,"usar receitas de gás para pagar dívidas é hipotecar o bem-estar dos moçambicanos, diz o cip",1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_01473,livro de ungulani ba ka khosa é um dos 100 melhores romances africanos do sec. xx,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01474,pirataria cresce e preocupa áfrica ocidental,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_01475,a ativista saudita loujain al-hathloul é liberada da prisão e volta ao twitter,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01476,mega-sena e lotofácil podem pagar prêmios milionários neste sábado,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_01478,"trinidad e tobago, guiana: o plano “terrorista” do jfk",0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_01479,eua financiam projectos agrícolas no valor de 30 milhões de dólares,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01480,vida selvagem em moçambique cada vez mais preocupante,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_01481,"angola: falta água, luz, paciência? buzina só!",1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_01482,espanha reitera disponibilidade de ajuda militar na luta contra o terrorismo em moçambique,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01484,estado islâmico diz ter morto militares em cabo delgado,0,1,0,0,1,0,"['disgust', 'sadness']",train
+ptmz_train_track_a_01486,"áfrica: mulheres com sida esterilizadas, discriminadas e estigmatizadas",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01487,medalhista etíope diz ter medo de regressar ao seu país,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01489,trilhões de cigarras descem sobre partes dos eua,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_01491,centenas de pessoas em quarentena em moçambique por precaução ao coronavírus,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_01492,grande parte do méxico sofre com os efeitos de dois terremotos em um mês,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01493,pesquisadores de israel descobrem rara tinta bíblica em pedaço de tecido,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_01496,covid-19: brasil entra na lista dos seis países com mais mortes e projeções não são boas,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_01498,onu suspende acções no malawi devido ao vampirismo,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_01499,"casos de tráfico de pessoas aumentam, mas são pouco reportados, diz jurista",0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_01500,coronavírus na rdc causa alarme no uíge,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_01503,beijo leva duas jovens à prisão durante culto religioso no brasil,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_01505,"outra vez, disparo de um policial militar acaba provocando morte “acidental” no brasil",0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01506,ameaça às orquídeas em risco de extinção no nepal,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_01508,amazônia extrema: queimadas e cheias afetam saúde dos ribeirinhos,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01509,covid-19: estados unidos isentam alguns atletas estrangeiros de proibições de entrada,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01514,cineasta moçambicano licínio azevedo ganha dois prémios em marrocos,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01515,"girão diz que impeachment de alexandre de moraes, do stf, tem 3 milhões de assinaturas de apoio",0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_01517,os civis mortos nos ataques aéreos recentes foram vítimas da nova estratégia de trump no afeganistão?,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01518,maputo com falta de gás de cozinha,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01519,"grã-bretanha adverte seus cidadãos a não viajarem para palma, macomia, mocímboa da praia e macomia",0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_01520,conheça cinco brasileiras que amam o que fazem e fazem o que amam,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01522,são tomé & príncipe: desflorestação ameaça biodiversidade,0,0,1,0,0,0,['fear'],train
+ptmz_train_track_a_01526,#withsyria quer acabar com o bombardeio indiscriminado da população síria,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01529,população de daca protesta contra prefeito por surto de chikungunya,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_01530,"medicamentos doados vão para negócios privados, denúncia líder sindical angolano",0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_01531,nampula tem 55 por cento de índice de desnutrição crónica,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01532,brasil será julgado na corte interamericana de direitos humanos por um caso de violência policial,0,1,0,0,0,0,['disgust'],train
+ptmz_train_track_a_01533,"o meu segredo é a persistência e a coerência, afirma o saxofonista moçambicano otis",0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01537,chuva devasta norte de moçambique,0,0,0,0,1,0,['sadness'],train
+ptmz_train_track_a_01538,elo perdido na árvore genealógica dos pterossauros foi descoberto,0,0,0,0,0,1,['surprise'],train
+ptmz_train_track_a_01539,moçambique: delegação de erdogan poderá pressionar medidas contra escolas turcas,1,0,0,0,0,0,['anger'],train
+ptmz_train_track_a_01541,moçambique adere à aliança para uma internet acessível,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01542,salários mínimos vão aumentar em moçambique,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01543,covid-19: organizações da sociedade civil engajam-se na luta contra a pandemia na huíla,0,0,0,1,0,0,['joy'],train
+ptmz_train_track_a_01546,"com álbum de figurinhas em alta, peruanos comemoram classificação para copa do mundo após 36 anos de ausência",0,0,0,1,0,0,['joy'],train

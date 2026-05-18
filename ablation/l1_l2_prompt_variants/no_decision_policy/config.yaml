@@ -1,0 +1,38 @@
+# Variant 2: B-L1 with NO precision-prior decision policy.
+#
+# Identical to canonical config_b_l1.yaml. The decision-policy block is
+# stripped at runtime by ablation/l1_l2_prompt_variants/no_decision_policy/scripts/run.py,
+# which monkey-patches build_cot_block() to return the CoT block WITHOUT the
+# "Default to a single dominant emotion / Assign 1 only when compelling" rules
+# (but WITH the language-specific reasoning bank and bare CoT instruction).
+#
+# Tests: is the precision-prior decision policy responsible for the
+# all-zero abstention rate on vmw/zul? Does removing it net-improve F1
+# on those languages?
+
+topology: "width"
+level: "l1"
+num_agents: 3
+
+sampling:
+  temperature: 0.7
+  top_p: 0.95
+
+max_tokens: 512
+
+aggregation:
+  primary: "majority_vote"
+  secondary: "confidence_weighted"
+  majority_threshold: 2
+  confidence_threshold: 0.5
+
+agents:
+  - name: "agent_1"
+    seed: 42
+    bias: ""
+  - name: "agent_2"
+    seed: 123
+    bias: ""
+  - name: "agent_3"
+    seed: 456
+    bias: ""

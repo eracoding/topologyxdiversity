@@ -1,0 +1,61 @@
+{
+  "language_name": "Emakhuwa (vmw)",
+  "script": "Latin",
+  "family": "Niger-Congo (Bantu)",
+  "seed": 42,
+  "language_instructions": "Target input language: Emakhuwa (vmw). Do NOT translate the input. Family-transfer rules: all examples/rationales use related Niger-Congo languages (e.g., Swahili, Kinyarwanda, Xhosa, Yoruba), not Emakhuwa. Use short, cue-based reasoning (≤25 tokens): exclamations, emojis, intensifiers, sentiment phrases, and negation. Handle negation/sarcasm; prefer precision over guessing. Output exactly once: Final: { \"labels\": [\"...\"] }",
+  "reasoning_examples": [
+    {
+      "id": "anger_disgust_example",
+      "emotion": "anger+disgust",
+      "src_lang": "swa",
+      "text": "Huduma hii ni mbaya na chafu kabisa! 😡🤢",
+      "reasoning": {
+        "cues": "complaint + 'chafu' (dirty) + 😡🤢",
+        "tone": "Hostile, revulsion",
+        "interpretations": "Anger from complaint/hostility; disgust from dirt/repulsion",
+        "critique": "Dual cues clearly present"
+      },
+      "final_labels": ["anger", "disgust"]
+    },
+    {
+      "id": "fear_sadness_example",
+      "emotion": "fear+sadness",
+      "src_lang": "kin",
+      "text": "Mfite ubwoba… twatakaje byose mu biza 😱😭",
+      "reasoning": {
+        "cues": "'ubwoba' (fear), loss 'twatakaje byose', 😱😭",
+        "tone": "Anxious grief after loss",
+        "interpretations": "Fear from danger; sadness from loss",
+        "critique": "Both emotions explicitly cued"
+      },
+      "final_labels": ["fear", "sadness"]
+    },
+    {
+      "id": "joy_surprise_example",
+      "emotion": "joy+surprise",
+      "src_lang": "swa",
+      "text": "Siwezi kuamini—tumeshinda! 😮🎉",
+      "reasoning": {
+        "cues": "disbelief + 'tumeshinda' (we won) + 😮🎉",
+        "tone": "Elated shock",
+        "interpretations": "Surprise from disbelief; joy from victory",
+        "critique": "Canonical joy+surprise pattern"
+      },
+      "final_labels": ["joy", "surprise"]
+    },
+    {
+      "id": "disgust_surprise_example",
+      "emotion": "disgust+surprise",
+      "src_lang": "xho",
+      "text": "Ndothuke—ivumba limbi, iyanyanyisa! 🤢😮",
+      "reasoning": {
+        "cues": "shock 'Ndothuke' + bad smell 'ivumba limbi' + 🤢😮",
+        "tone": "Startled revulsion",
+        "interpretations": "Surprise from shock; disgust from smell/repulsion",
+        "critique": "Distinct cues for both labels"
+      },
+      "final_labels": ["disgust", "surprise"]
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+id,text,anger,disgust,fear,joy,sadness,surprise,emotions,split
+vmw_dev_track_a_00003,eua ohinteererya mukwaha wa  blinken oorowa oxiina nookhumelela epalawu mixiteriyoosu vamontaana,0,0,0,0,0,1,['surprise'],dev
+vmw_dev_track_a_00004,maniniixituru mayili ookhalayi a stf aalakela omuthanla lula,0,0,0,0,0,1,['surprise'],dev
+vmw_dev_track_a_00005,braziili oniira taata wa ekoopa ya olumwenku nuuloliya woowereya.,0,0,0,0,1,0,['sadness'],dev
+vmw_dev_track_a_00007,"ahihukhumwa aka omosampiikhi , onilaleerya muhupi wa erelatoriyu yoluluwana ni ihakhi sa apinaatamu olumwenku",0,1,0,0,0,0,['disgust'],dev
+vmw_dev_track_a_00008,"elapo ya mosampiiki, helder muteia onnihoolela nikhuru na fao elapo ya afirika senteraale.",0,0,0,1,0,0,['joy'],dev
+vmw_dev_track_a_00009,schumacher oolavula ratta mwaha woovona.,0,0,0,1,0,0,['joy'],dev
+vmw_dev_track_a_00012,okaapu veerti: jose joaquim kabral  otthuviya mwaha wa sosoma sawe arnaldo frança,0,0,0,1,0,0,['joy'],dev
+vmw_dev_track_a_00013,estaatu unitu ni exilovenia akwerekhwa mwiwanano mmosa wa muuke monkoni mwa mukettelo musya wa 5g,0,0,0,1,0,0,['joy'],dev
+vmw_dev_track_a_00015,ruusiya: setempuru a 2020 waari ootepexa oviha wa miyaakha 130 sivinre,0,0,0,0,0,1,['surprise'],dev
+vmw_dev_track_a_00016,alipa ohimya ihapari anitumererya owananiwa epewe yaanamalepa,0,0,1,0,0,0,['fear'],dev
+vmw_dev_track_a_00019,nahapari ni ativiixita tixitaale luis carlos díaz orimeela ovenesuweela,0,0,1,0,0,0,['fear'],dev
+vmw_dev_track_a_00020,"muthokiho"" oomwareya"" opattuxa woova wiikuxererya wabitthaya sa omosampiikhi",0,0,1,0,0,0,['fear'],dev
+vmw_dev_track_a_00022,mukukutta  wa  alipo  olaleerya  ihapari  ohoopeliwa  muttetthe oriiyu  ti  caneero,0,0,1,0,0,0,['fear'],dev
+vmw_dev_track_a_00023,elapo ya noruweeka enorowa okhalana epaasi navaale ya omosampiikhi wiira owananiwe mukhalelo wa piratariya.,0,0,0,1,0,0,['joy'],dev
+vmw_dev_track_a_00025,"mosampiikhi: oohokwa  zeca tcheco, taaporo otepexaovuuwa a elapo.",0,0,0,0,1,0,['sadness'],dev
+vmw_dev_track_a_00029,anamuteko omosampiiki orootthukasiwa mwaha wootumiha maluku yaale anikhwa musurukhu wowaatta.,0,1,0,0,0,0,['disgust'],dev
+vmw_dev_track_a_00030,ilapo soowiiraana sinikhomaalela othoriha onwanana eretta wovihexa erutthu.,0,0,0,1,0,0,['joy'],dev
+vmw_dev_track_a_00031,ohookhwa mukhulupale  hugo chávez,0,0,0,0,0,1,['surprise'],dev
+vmw_dev_track_a_00032,"eporoxeetu sosiyaale ennirowa waavarelela ni waasomiha atthu aalupale mmuttettheni wa kaapu veeriti, alumaata ni porutukaale.",0,0,0,1,0,0,['joy'],dev
+vmw_dev_track_a_00033,anamuteko akhalayi ooteximokhi  aniwala nipuro nle ni anoopopiha ni sootutuxa,1,0,0,0,0,0,['anger'],dev
+vmw_dev_track_a_00038,"atoropa anivara  miteko saya elapo ya mosimpwa ta paraaya aniphwanyaneya athukumanneene, onnaakanyerya mukhulupale wa elapo yeele.",0,0,1,0,0,0,['fear'],dev
+vmw_dev_track_a_00040,"mithali soovahiwa sinirowaniwa munakosoni mwa omekha, onilaleerya mwene a esintikaatu ya wankoola",0,1,0,0,0,0,['disgust'],dev
+vmw_dev_track_a_00045,yoowurya ya mmawaani yotanyerya okwa mmosampiikhi,0,0,0,0,1,0,['sadness'],dev
+vmw_dev_track_a_00046,"musuweli ole a nlaka nba, kobe bryant, okhwiiye wa ehasara ya ntteeke.",0,0,0,0,1,0,['sadness'],dev
+vmw_dev_track_a_00047,"ifaapirika sa maluuxu ammaasini a opaanama: "" sinimmanela natiiri wuunuwiha, masi apakasa ehasara emosa""",0,0,0,0,1,0,['sadness'],dev
+vmw_dev_track_a_00049,soowakhela sootepaxa oyeva sinirowa waacereriwa omosampiikhi,0,0,0,1,0,0,['joy'],dev
+vmw_dev_track_a_00051,"othawali wa mwapoophe owanana koviit-19 oputaawi ti "" eraayu ya nroromelo"" nniireliwa osuuli wa asiiya",0,0,0,1,0,0,['joy'],dev
+vmw_dev_track_a_00052,neeve nookhumelela olixipoowa noovira miyaakha 50,0,0,0,0,0,1,['surprise'],dev
+vmw_dev_track_a_00053,' onikiivaru': esepweere munterineetini awankoola enivanyiha kuveerunu,0,1,0,0,0,0,['disgust'],dev
+vmw_dev_track_a_00055,"okhala mwaha wa ekoma omosampiikhi etthu ehinkhweya, oohima muxuttihi ooreera murima",0,0,0,0,1,0,['sadness'],dev
+vmw_dev_track_a_00056,mohooleli a mwalaano opacerya purutukeexi onixukurya elapo ya ankoola ni  siniimana mivaanyiho muhina mwa reeti sosiyaale,1,0,0,0,0,0,['anger'],dev
+vmw_dev_track_a_00057,“tiyoohi oteene ahu ”: sowuupuwela sa wookotthaniwa wa opinyeriinyu,0,0,0,0,1,0,['sadness'],dev
+vmw_dev_track_a_00058,kwaaturu ases onooreowa olaalerya murupa wa masipo  soowiiraneya sa olumwenku,0,0,0,1,0,0,['joy'],dev
+vmw_dev_track_a_00059,alipo awiipa metiiyope anihinyaniwa teroriixilu mwaha wa mukhaleelo wa eleepeliwo 'yoothupwa',0,1,0,0,0,0,['disgust'],dev
+vmw_dev_track_a_00061,ankoona ni mosampiikhi anithoonyiwa wi onyohola ihukhuumu mmatataani  koreeya onooroti.,0,0,0,0,1,0,['sadness'],dev
+vmw_dev_track_a_00063,mosampiikhi: wookhalamu okhuruwa wa nroromelo na okumi,0,0,0,0,1,0,['sadness'],dev
+vmw_dev_track_a_00064,ilatarato: etooroni enimukuxa mwaapomphe emurowihaka mwikisiiro wakhalayi ya ovanuwaata,0,0,0,1,0,0,['joy'],dev
+vmw_dev_track_a_00065,"ohincerereya mwattelo wanookhwa wo owiixe, ohimya namakhalela miteko samuxipiritaali",0,0,0,0,1,0,['sadness'],dev
+vmw_dev_track_a_00066,afikanixitawu: ohookhwa mulipa ompaka reeti a materoriixita haqqani,0,0,0,0,1,0,['sadness'],dev
+vmw_dev_track_a_00070,'  ninyoho nimoosa noowutuwanyerya mukhalelo wa waxeetta wa ilaleeryo': pakixitaawu ottiyela voowikuxererya esayiti slater. com,0,0,0,0,1,0,['sadness'],dev
+vmw_dev_track_a_00074,"athiyana anipweteyasa okathi wooyara wiitiya moono otaiwani, weeyiwo woothowa mameetiku muxipitaali",0,0,0,0,1,0,['sadness'],dev
+vmw_dev_track_a_00076,makhuru na matteeke a elapo ya mosampiiki onirowa opacera weetta arowaka nttetthe wa uniyaawu ewuropeeya.,0,0,0,1,0,0,['joy'],dev
+vmw_dev_track_a_00079,exiripitaali taya wankoola inuuleliwa,0,0,0,0,1,0,['sadness'],dev
+vmw_dev_track_a_00081,minixituru akhalayi paulo zucula ovolowa tho muntaphani mwa makhwankwa,1,0,0,0,0,0,['anger'],dev
+vmw_dev_track_a_00082,"voorumela esiipo ni eviitiykiliipi, alipo ottwawela anixikhurelasa elapo ya oparasiili mwaha owakhapelela sa",0,0,0,1,0,0,['joy'],dev
+vmw_dev_track_a_00084,sohapaala nnleelo sinithikela  wiiva omaniika,0,0,0,0,1,0,['sadness'],dev
+vmw_dev_track_a_00086,atthu a elapo ya omosampiikhi ammoopopiha mwa wa mukhalelo wooreera wa elapo.,0,0,1,0,0,0,['fear'],dev
+vmw_dev_track_a_00088,"kuveerunu venesuwelaano onithoonyerya muthokiho nlamulo nikhupaarela areeti sosiyaale ni ohukhumu "" ekhirime ya onyokha""",0,0,0,1,0,0,['joy'],dev
+vmw_dev_track_a_00090,mulipa oowereyiwa a neeraru ookhalana hiv onikhala ntoko oovonihiwa aids,0,0,0,0,0,1,['surprise'],dev
+vmw_dev_track_a_00091,mamperesaariyo omosampiiki anunlaseya othowa wookopha musurukhu,0,0,0,0,1,0,['sadness'],dev
+vmw_dev_track_a_00093,"ivinreene iyaakha emiiya emosa, namiipiya oniphavela exariya ya alemaanya mwaha wa mukutho opacerya awe",1,0,0,0,0,0,['anger'],dev
+vmw_dev_track_a_00094,mulipo ahapaari ti wakiritiriwe ni mapuliisiya militaari noomala mukuthaano a mphira oparasiili,1,0,0,0,0,0,['anger'],dev
+vmw_dev_track_a_00097,prism ohalaanyeya oruusiya ni soohoveriha vamosa wa ekhotto emosa siperineetika,0,0,1,0,0,0,['fear'],dev
+vmw_dev_track_a_00098,imperensa ewuropeyiya ennixeliha mutthikelo wa cr7.,0,0,0,1,0,0,['joy'],dev
+vmw_dev_track_a_00101,mosampikhi oohimya ephoole mwaha wa ophitanyihiwa sa ikartawu atm,0,0,1,0,0,0,['fear'],dev
+vmw_dev_track_a_00103,okwa axexe variyari wa myaaha wa ataake asya ota wa muttetthe wa mosampiikhi,0,0,0,0,1,0,['sadness'],dev
+vmw_dev_track_a_00104,bunker king a niparari khorina tho niparari; mwiiweleleke,0,0,0,0,0,1,['surprise'],dev
+vmw_dev_track_a_00108,"ya ovara, moopopiho muulupale a wiixeetta mwa moolumo a waameerika latiina",0,0,1,0,0,0,['fear'],dev
+vmw_dev_track_a_00110,"mothokelo ohiniiraneye, piliisa oniirowa omare osuwelihexa vooluluwana ni mwapoophe wa cuunyu mwaakha wa 2013",0,0,0,0,0,1,['surprise'],dev
+vmw_dev_track_a_00111,anawiiye a mpahari: ekalawa ya omosampiiki vano eri osomaaliya,0,0,1,0,0,0,['fear'],dev
+vmw_dev_track_a_00116,can 2021: maxokatore  athanu ookine-pisawu arina covid-19 anihala vate wa mphirya oopacerya a weeheririwa,0,0,0,0,1,0,['sadness'],dev
+vmw_dev_track_a_00117,ilapo soowiraana sa w'ameerika (eua) sihittottopela ni ehapari enihimya wiira mosampiiki soomaala ikapwitthi.,0,0,0,1,0,0,['joy'],dev
+vmw_dev_track_a_00118,kuruxi veremeelya aniphavela ikonto 700 sa itoolari owiirela aka alipo okhume mmuttettheni mwaha wa epwepwetthe ya wosarya maasi omosampiikhi,0,0,0,0,1,0,['sadness'],dev
+vmw_dev_track_a_00119,n'tumpuluuku onivela ophareya ya okatempe,0,0,0,1,0,0,['joy'],dev
+vmw_dev_track_a_00121,kiinepisaawu: muhooleli a elapo ohookwa okathi wa manyakunyaku a itumereeryo,0,0,0,0,1,0,['sadness'],dev
+vmw_dev_track_a_00122,mukhaleelo: ohataana onitthikela orepuupilika temokaraatika ya okhooko,0,0,1,0,0,0,['fear'],dev
+vmw_dev_track_a_00123,"mutumihiyo wa inena sa atthu ti ekeekhayi enikhumelela mmosampiikhi, oolavula cemirde",0,0,1,0,0,0,['fear'],dev
+vmw_dev_track_a_00124,"oromoleeliwa waawoka anamwane, mukhulupale iraniyaano ohinya muttetthe oparasiili",0,1,0,0,0,0,['disgust'],dev
+vmw_dev_track_a_00125,"atthu anli asyaa amuranve mwaaxiitthu a korona aapacerya ""okathi muulupale"" para manfurumeero ankolaano.",0,0,0,0,1,0,['sadness'],dev
+vmw_dev_track_a_00126,"aripileera: arumeelaka akwilya ni nliinya, athiyana anittottha ihaatisi sa oveyihasiwa mapuuro onitekasiwa eparaaxi ya oparasiili",0,1,0,0,0,0,['disgust'],dev
+vmw_dev_track_a_00127,pakixitaawu: vowiiraka 20 sa anaakwa mwaha wa ophuuwa wa mukukutta- poopa opeshawar.,0,0,0,0,1,0,['sadness'],dev
+vmw_dev_track_a_00128,eviitiyo enithoonyerya inamuna sa oowali orumeela amakhaanya a kuveerunu vooluluwana ni omalamalihiwa ataake ota wa elaapo ya mosampiikhi,0,1,0,0,0,0,['disgust'],dev
+vmw_dev_track_a_00129,mosampiikhi  anitthuna  oreerihela  mukhalelo  wa  ekhiitta  ya  miteko  soosomiha.,1,0,0,0,0,0,['anger'],dev
+vmw_dev_track_a_00132,ayiitu: opwanyaka iphiiro yolanana etala yanamwane,0,0,0,1,0,0,['joy'],dev
+vmw_dev_track_a_00134,mooro wompaha alumasiya a mirette omanika,0,0,0,0,1,0,['sadness'],dev
+vmw_dev_track_a_00141,"sa okhumelela okaapu telekaatu sinnixenkeriha elapo, annihimya anamaweha-weha",0,0,1,0,0,0,['fear'],dev
+vmw_dev_track_a_00146,muratti a wankoola hildebrando de melo ontthokihererya sa miteko,0,0,0,1,0,0,['joy'],dev
+vmw_dev_track_a_00147,porokarama ookhuveela opitikwa onaakumiha ikonto xexe anamalima wa murukureryo wa ohaawa omanika,0,0,0,1,0,0,['joy'],dev
+vmw_dev_track_a_00148,aximaayo  voohikhala  musurukhu  wiira  ipwanyiwe  mithali  awiirelaka  anaaya  oxiripitaali  ya malaace,0,0,0,0,1,0,['sadness'],dev
+vmw_dev_track_a_00150,okhwa wa anamwane muxankiho muulupale wa mosampiikhi,0,0,0,0,1,0,['sadness'],dev
+vmw_dev_track_a_00153,"axitokweene"" anikhuneelela"" okurumuuliwa ni mwaattelo wa anaakwa ikuluuttu ya poorutu riiyu",0,0,0,0,1,0,['sadness'],dev
+vmw_dev_track_a_00154,biden ohaakhula muvekelo wa zelenskyy  ni oolaleerya mukhaliheryo wa imilyawu 800 sa itoolare wi okhaliherye mpantta wa anakhotto.,0,0,0,1,0,0,['joy'],dev
+vmw_dev_track_a_00155,ilatarato sa nasa sinooniherya maasi aphempaka mmaariti,0,0,0,0,0,1,['surprise'],dev
+vmw_dev_track_a_00156,joseph blatter ni michel platini ahoomolasiwa mmuphirani  mpakha sivire iyaakha thanu na tthaaru.,0,0,0,0,1,0,['sadness'],dev
+vmw_dev_track_a_00157,poliitiku intiyaanu ookhalayi ookhalayi okhwaale woopeliwa wooniwaka muhina mwa tv,0,0,0,0,0,1,['surprise'],dev
+vmw_dev_track_a_00158,okontaari woomaliherya wa owehaweha wa mwaathanle wa olola wa nyusi ni frelimo,0,0,0,1,0,0,['joy'],dev
+vmw_dev_track_a_00159,"ohookhwa  kirk douglas, wa soowothiya wa esineema ya waameerika",0,0,0,0,1,0,['sadness'],dev
+vmw_dev_track_a_00160,othowa yoolya enatakiha ovikana emilyawu emosa ya atthu a muttetthe omosampiikhi,0,0,0,0,1,0,['sadness'],dev
+vmw_dev_track_a_00161,mutthenkeso a wameerika onkhaliherya miteko sa etakhwa ekhulupale yo koronkosa ni musurukhu omphiyerya imilyawu piili sa euros.,0,0,0,1,0,0,['joy'],dev
+vmw_dev_track_a_00162,mwaha wa exeeni apinatamu mantiixina pemom yiitikitheeryase aya vowanana kuveerunu a nicolás maduro?,1,0,0,0,0,0,['anger'],dev
+vmw_dev_track_a_00167,ohokhwa nawipe eelapo yo kapu-verti jorge neto,0,0,0,0,1,0,['sadness'],dev
+vmw_dev_track_a_00168,moonenelo ootikiniha wa muumiya a oloko onnooniherya makhalelo oohisuweliwa a mavithelaniyo a wiixiipitu,0,0,0,0,0,1,['surprise'],dev
+vmw_dev_track_a_00171,kuveerunu omosampiiki omphela wamaliha anamwane anampeetteni,0,0,0,1,0,0,['joy'],dev
+vmw_dev_track_a_00173,mosampiikhi oxintta etthuvo ya mphii paralimpiku.,0,0,0,1,0,0,['joy'],dev
+vmw_dev_track_a_00174,atthu yaakhala waameerika wa osulu wa miyaakha soophiyeryaka 26.500,0,0,0,0,0,1,['surprise'],dev
+vmw_dev_track_a_00176,"clinton:xiina ti ""namapottha musyaa"" a w'afirika",1,0,0,0,0,0,['anger'],dev
+vmw_dev_track_a_00179,mphira wa cooku olimpiku onnirowa ohiyereriwa mpakha wuumalani wa eyaakha.,0,0,0,0,1,0,['sadness'],dev
+vmw_dev_track_a_00180,"opuro wamuharooye oluluwana ni opotthiwa olipuliiwe walikaarive"""" wiira ohikhale wuukuttheyaka iye sootthikela""",0,0,0,1,0,0,['joy'],dev
+vmw_dev_track_a_00182,apinaatamu amwaavano o waafiriika aniinuwa ohiweha ottuli.,0,0,0,0,0,1,['surprise'],dev
+vmw_dev_track_a_00183,"jorge soares silva, namalolo wa ntthuvelo literaariyu arnaldo franca ni onnoonaneya avaraka muteko muulepani.",0,0,0,1,0,0,['joy'],dev
+vmw_dev_track_a_00184,wanvekeliwa ikettelo wophavela othoriha nihasu oparasiili.,0,1,0,0,0,0,['disgust'],dev
+vmw_dev_track_a_00185,"koviit-19: kaasa, ohitto wa mosampiikhi, ni ookasoopa",0,0,1,0,0,0,['fear'],dev
+vmw_dev_track_a_00187,koveerunu omeexiku oniirumeela ekhotto oniwanana nakoso owoona ntoko okhoottela wiira othurumelekd alipo a ihapari,0,1,0,0,0,0,['disgust'],dev
+vmw_dev_track_a_00188,"ankoola: hoothe ni eepola ooxeremmwa saaneene, mikano soowaliwa",0,0,0,0,1,0,['sadness'],dev
+vmw_dev_track_a_00201,anmwiipi a elapo ya ankoola annivekela ''travao'' wi iipe ecipo enilavula namuna soothelaana.,1,0,0,0,0,0,['anger'],dev
+vmw_dev_track_a_00202,maspesiyalista anitumererya wa muhaawo musiya omosampiikhi,0,0,1,0,0,0,['fear'],dev
+vmw_dev_track_a_00203,wa atthu oophiyeryaka 29 anikhala ovoliwa elapo ya omanika.,0,0,0,0,1,0,['sadness'],dev
+vmw_dev_track_a_00205,"liipanu: muloko ni mmosa maapuru a ekapineeti ahiya muteko, nomuxintta kuveerunu",1,0,0,0,0,0,['anger'],dev
+vmw_dev_track_a_00207,"kovit 19 : meeka- operasawu ya imilyawu muhina mwa eua ""onimwattamela mwapoophe vahinatthi omala mwaakha",0,0,1,0,0,0,['fear'],dev
+vmw_dev_track_a_00209,fmi ohaakhulela wuncareriwa isisapo ya kompoxitiivele omosampiiki,0,0,0,1,0,0,['joy'],dev
+vmw_dev_track_a_00210,mirutthu siphpwanyiwe muhina mwa ilokalitaate sa omeexiku khahiyo sa asoomi arimelaase,0,0,0,0,1,0,['sadness'],dev
+vmw_dev_track_a_00211,lula oniilikanyiha ni yeesu ni onihimya wiira onoomuxintta mwaathanle,0,0,0,0,0,1,['surprise'],dev
+vmw_dev_track_a_00213,maasi ooreera ninlelo etthu enoolohiwa wamphula,0,0,0,0,1,0,['sadness'],dev
+vmw_dev_track_a_00214,ekiipa ya pasiketi ya elapo ya exiipitu yoolola mphira yoola woopacerya wa afirika league.,0,0,0,1,0,0,['joy'],dev
+vmw_dev_track_a_00215,"mwaha wa ekwerere, voophova ikonto 34 sa akhupela otuupha mikano mavenesuwelaano anikhanyereryasiwa otthikela elapo aya",0,0,0,0,1,0,['sadness'],dev
+vmw_dev_track_a_00217,libertem nganang:muleepi kamaroneexi otthukiwa ekhatteya ya nroromelo noophova ya olawiitte,1,0,0,0,0,0,['anger'],dev
+vmw_dev_track_a_00218,vulukawu kalupuuku oopacerya opinyuwa mukano wa oxile noovira miyaakha 43,0,0,0,0,0,1,['surprise'],dev
+vmw_dev_track_a_00219,brexit anamuteko ootimorlexiti aavelavelasa ni omeelo aya oreyiinu uniitu,0,0,1,0,1,0,"['fear', 'sadness']",dev
+vmw_dev_track_a_00221,"""muhaaruuhe tho anooriipe mumphirani mwaka"", oolavula sterling",1,0,0,0,0,0,['anger'],dev
+vmw_dev_track_a_00223,cip a covid onnikhupali wiira sookhala itthu sooreerela omoothererya bolsonaro,0,0,0,0,0,1,['surprise'],dev
+vmw_dev_track_a_00226,"ameerika latiina:"" aniroowasa omaleela vayi ale orimeelasa?""",0,0,0,0,1,0,['sadness'],dev
+vmw_dev_track_a_00227,kine- pisaawu: oxaaka mwa soothokela noomala wookotthiwa wa ikwaha piili,0,0,0,0,1,0,['sadness'],dev
+vmw_dev_track_a_00229,"ankoola onlavula paahi- ""ixipital soohiya okhala mapuro oreerela owakhela atthu"" oohima namwiwa a oluwanta",0,0,0,0,1,0,['sadness'],dev
+vmw_dev_track_a_00231,ehasara ya anamathipa maluuku ooparasiili onooniherya wii muroromeliho wa bolsonaro owakuviiha oreheriwa ikettelo sa mpantte omaleleene toohilipaneya,1,0,0,0,0,0,['anger'],dev
+vmw_dev_track_a_00232,"parasiili,: ohukhumu viiraneyaka ekoopa ya ikonfeterasawu oriiyu",1,0,0,0,0,0,['anger'],dev
+vmw_dev_track_a_00235,mulaleeri sawutiita loujain al-hathloul otaphuliwanmukhatteya ni onitthikela otuwiieri,0,0,0,1,0,0,['joy'],dev
+vmw_dev_track_a_00236,"soopahiwa miiri ,99 sa epikaata yoovuwexa ya parapaatu ya omakaaxikare",0,0,0,0,1,0,['sadness'],dev
+vmw_dev_track_a_00239,"malepa, ikoma ni osuwela opaka itthu sinooniherya elapo ya parasiili.",0,0,0,1,0,0,['joy'],dev
+vmw_dev_track_a_00241,elapo y'omosampiikhi: ahinnuwa mammaru aatthu ookhwa mwaha wa mwanamukhaya xalani.,0,0,0,0,1,0,['sadness'],dev
+vmw_dev_track_a_00242,yoohiliwa empa ya wakhapelela ale anxohiwa mmawani omaputu.,0,0,0,1,0,0,['joy'],dev
+vmw_dev_track_a_00243,chungui: wuuhulaka woopiha wa teroriixilu opeeru,0,0,1,0,0,0,['fear'],dev
+vmw_dev_track_a_00245,ehasarea ya mmaasini ennaahiya  okwa atthuu thanamosa mmuro sampeese,0,0,0,0,1,0,['sadness'],dev
+vmw_dev_track_a_00246,kankuru a nipele tonihoolela eliixita ya iretta sa kansere okaapo veerete,0,0,0,0,1,0,['sadness'],dev
+vmw_dev_track_a_00247,vamosa ni koviit-19 onattiheriwa soohiloka siniiva variyari va parasiili ni xiina,0,0,1,0,0,0,['fear'],dev
+vmw_dev_track_a_00248,blatter ni plantini aahihiwa,0,0,0,0,1,0,['sadness'],dev
+vmw_dev_track_a_00250,reepi cardi b ookhaliherya orehererya moota wa osuka muhakhu okaana- masi sayi?,0,0,0,0,0,1,['surprise'],dev
+vmw_dev_track_a_00253,ankoola: ipa sowaarya saalipo ari athawali ni sootepa wattha esisapo siniireliwa amasikhini,0,0,0,0,1,0,['sadness'],dev
+vmw_dev_track_a_00256,"mantiixina aniirwa yoopopihaka woopola oturaatu, muhina mwa etakwa wootikana ya osuuli",1,0,0,0,0,0,['anger'],dev
+vmw_dev_track_a_00257,materoriixita a opariixi aatthukwelasiwa opeelixika,0,0,0,1,0,0,['joy'],dev

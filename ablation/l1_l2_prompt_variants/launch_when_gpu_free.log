@@ -1,0 +1,4 @@
+nohup: ignoring input
+[lun. 04 mai 2026 22:41:00 CEST] A12 launcher started — polling GPU every 120s
+[lun. 04 mai 2026 22:41:00 CEST] Will launch when free memory >= 40000 MiB
+[lun. 04 mai 2026 22:41:00 CEST] GPU free: 48522 MiB >= 40000 MiB — launching A12

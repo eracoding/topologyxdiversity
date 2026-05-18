@@ -1,0 +1,73 @@
+{
+  "language_name": "Chinese (chn)",
+  "script": "Han",
+  "family": "Sino-Tibetan",
+  "seed": 42,
+  "language_instructions": "Target input language: Chinese (chn). Do NOT translate the input. Proxy-transfer setting: exemplars primarily from English, with some Russian/Ukrainian; plus a small number of emoji-only items to reduce script bias. Use short, cue-based reasoning (≤25 tokens). Prefer precision; output one label if only one is strongly cued; otherwise at most two labels. Output exactly once: Final: { \"labels\": [\"...\"] }",
+  "reasoning_examples": [
+    {
+      "id": "anger_disgust_example",
+      "emotion": "anger+disgust",
+      "src_lang": "eng",
+      "text": "I hate this, it's disgusting! 😡🤢",
+      "reasoning": {
+        "cues": "hostile word + revulsion cue + 😡🤢",
+        "tone": "Hostile complaint",
+        "interpretations": "Anger from hostility; disgust from gross/‘disgusting’ cue",
+        "critique": "Dual cues explicitly present"
+      },
+      "final_labels": [
+        "anger",
+        "disgust"
+      ]
+    },
+    {
+      "id": "fear_sadness_example",
+      "emotion": "fear+sadness",
+      "src_lang": "ukr",
+      "text": "я не хочу тебе втратити.",
+      "reasoning": {
+        "cues": "fear cue + loss/sorrow cue + 😱😭",
+        "tone": "Anxious grief",
+        "interpretations": "Fear from danger; sadness from loss",
+        "critique": "Both emotions supported"
+      },
+      "final_labels": [
+        "fear",
+        "sadness"
+      ]
+    },
+    {
+      "id": "joy_surprise_example",
+      "emotion": "joy+surprise",
+      "src_lang": "eng",
+      "text": "No way, I won! 😮🎉",
+      "reasoning": {
+        "cues": "disbelief + positive achievement + 😮🎉",
+        "tone": "Elated shock",
+        "interpretations": "Surprise from disbelief; joy from success",
+        "critique": "Canonical cue combination"
+      },
+      "final_labels": [
+        "joy",
+        "surprise"
+      ]
+    },
+    {
+      "id": "disgust_surprise_example",
+      "emotion": "disgust+surprise",
+      "src_lang": "univ",
+      "text": "!? 🤢😮",
+      "reasoning": {
+        "cues": "suddenness punctuation + disgust + astonishment",
+        "tone": "Startled revulsion",
+        "interpretations": "Surprise from suddenness; disgust from revulsion cue",
+        "critique": "Both emotions directly cued without language-specific tokens"
+      },
+      "final_labels": [
+        "disgust",
+        "surprise"
+      ]
+    }
+  ]
+}

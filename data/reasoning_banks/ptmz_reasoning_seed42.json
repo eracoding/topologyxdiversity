@@ -1,0 +1,61 @@
+{
+  "language_name": "Portuguese (Mozambique)",
+  "script": "Latin",
+  "family": "Indo-European (Romance)",
+  "seed": 42,
+  "language_instructions": "Target input language: Mozambican Portuguese (ptmz). Do NOT translate the input. Family-transfer rules: all examples/rationales are from related Romance languages (e.g., Spanish, Romanian), not Portuguese (Mozambique). Use short, cue-based reasoning (≤25 tokens): exclamations, emojis, intensifiers, sentiment phrases, and negation. Handle negation/sarcasm; prefer precision over guessing. Output exactly once: Final: { \"labels\": [\"...\"] }",
+  "reasoning_examples": [
+    {
+      "id": "anger_disgust_example",
+      "emotion": "anger+disgust",
+      "src_lang": "esp",
+      "text": "¡Qué asco! Me engañaron otra vez, odio esto 😡🤢",
+      "reasoning": {
+        "cues": "“Qué asco”, “me engañaron”, “odio”, 😡🤢",
+        "tone": "Hostile complaint with revulsion",
+        "interpretations": "Disgust from ‘asco’; anger from deception/‘odio’",
+        "critique": "Clear dual cues; best fit is anger + disgust"
+      },
+      "final_labels": ["anger", "disgust"]
+    },
+    {
+      "id": "fear_sadness_example",
+      "emotion": "fear+sadness",
+      "src_lang": "esp",
+      "text": "Tengo miedo… perdimos todo en la tormenta, qué tristeza 😱😭",
+      "reasoning": {
+        "cues": "“Tengo miedo”, “perdimos todo”, “tristeza”, 😱😭",
+        "tone": "Anxious and mournful after loss",
+        "interpretations": "Fear from ‘miedo’; sadness from loss/tristeza",
+        "critique": "Distinct cues support both labels"
+      },
+      "final_labels": ["fear", "sadness"]
+    },
+    {
+      "id": "joy_surprise_example",
+      "emotion": "joy+surprise",
+      "src_lang": "ron",
+      "text": "Nu pot să cred! Am câștigat bursa! 🎉😮",
+      "reasoning": {
+        "cues": "“Nu pot să cred!”, “am câștigat”, 🎉😮",
+        "tone": "Elated shock at unexpected achievement",
+        "interpretations": "Surprise from disbelief; joy from winning",
+        "critique": "Canonical joy + surprise pattern"
+      },
+      "final_labels": ["joy", "surprise"]
+    },
+    {
+      "id": "disgust_surprise_example",
+      "emotion": "disgust+surprise",
+      "src_lang": "esp",
+      "text": "De repente olía horrible; qué asco 😮🤢",
+      "reasoning": {
+        "cues": "“De repente” (suddenly), “olía horrible”, “qué asco”, 😮🤢",
+        "tone": "Startled reaction to something gross",
+        "interpretations": "Surprise from suddenness; disgust from smell/‘asco’",
+        "critique": "Both emotions explicitly cued"
+      },
+      "final_labels": ["disgust", "surprise"]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "text": "Ambek pisan atuh, pelayanan na goréng teuing! 😡",
+    "labels": ["anger"],
+    "rationale": "Cues align with anger.",
+    "src_lang": "sun"
+  },
+  {
+    "text": "Geuleuh, dahareun na basi jeung bauna nyengat 🤢",
+    "labels": ["disgust"],
+    "rationale": "Cues align with disgust.",
+    "src_lang": "sun"
+  },
+  {
+    "text": "Waduh, aya sora bedil, sieun pisan 😱",
+    "labels": ["fear"],
+    "rationale": "Cues align with fear.",
+    "src_lang": "sun"
+  },
+  {
+    "text": "Bungah pisan, ahirna lulus tés! 🎉",
+    "labels": ["joy"],
+    "rationale": "Cues align with joy.",
+    "src_lang": "sun"
+  },
+  {
+    "text": "Kacida sedihna, gagal deui ayeuna 😭",
+    "labels": ["sadness"],
+    "rationale": "Cues align with sadness.",
+    "src_lang": "sun"
+  },
+  {
+    "text": "Reuwas atuh, tétéla datangna peuting pisan 😮",
+    "labels": ["surprise"],
+    "rationale": "Cues align with surprise.",
+    "src_lang": "sun"
+  },
+  {
+    "text": "Ambek jeung geuleuh ningali tempatna jorok kieu! 😡🤢",
+    "labels": ["anger", "disgust"],
+    "rationale": "Cues align with anger, disgust.",
+    "src_lang": "sun"
+  },
+  {
+    "text": "Teu nyangka meunang hadiah, bungah pisannn! 😮🎉",
+    "labels": ["joy", "surprise"],
+    "rationale": "Cues align with joy, surprise.",
+    "src_lang": "sun"
+  },
+  {
+    "text": "Sieun ku banjir, terus leungit barang-barang... sedih 😱😭",
+    "labels": ["fear", "sadness"],
+    "rationale": "Cues align with fear, sadness.",
+    "src_lang": "sun"
+  },
+  {
+    "text": "Reuwas, tétéla laukna geus bau — geuleuh 🤢😮",
+    "labels": ["disgust", "surprise"],
+    "rationale": "Cues align with disgust, surprise.",
+    "src_lang": "sun"
+  },
+  {
+    "text": "Ambek sabab dibohong, tapi haté ogé sedih 😡😭",
+    "labels": ["anger", "sadness"],
+    "rationale": "Cues align with anger, sadness.",
+    "src_lang": "sun"
+  },
+  {
+    "text": "Tiba-tiba taneuhna gégéger, reuwas jeung sieun 😮😱",
+    "labels": ["fear", "surprise"],
+    "rationale": "Cues align with fear, surprise.",
+    "src_lang": "sun"
+  }
+]

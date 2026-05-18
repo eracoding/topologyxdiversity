@@ -1,0 +1,61 @@
+{
+  "language_name": "Makhuwa (vmw)",
+  "script": "Latin",
+  "family": "Bantu (proxies: ibo, kin, swa, yor)",
+  "seed": 42,
+  "language_instructions": "Target input language: Makhuwa (vmw). Do NOT translate the input. Use proxy exemplars from Igbo (ibo), Kinyarwanda (kin), Swahili (swa), Yoruba (yor); include one emoji-only exemplar to stay script-agnostic. Keep reasoning ≤25 tokens. Prefer precision; output one label if only one is strongly cued; otherwise at most two labels. Output exactly once: Final: { \"labels\": [\"...\"] }",
+  "reasoning_examples": [
+    {
+      "id": "anger_disgust_example",
+      "emotion": "anger+disgust",
+      "src_lang": "yor",
+      "text": "Mo bínú, ó ń run gan-an! 😡🤢",
+      "reasoning": {
+        "cues": "‘Mo bínú’ anger + smell ‘ó ń run’ + 😡🤢",
+        "tone": "Hostile revulsion",
+        "interpretations": "Anger from hostility; disgust from foul smell",
+        "critique": "Two explicit cue clusters → two labels"
+      },
+      "final_labels": ["anger","disgust"]
+    },
+    {
+      "id": "fear_sadness_example",
+      "emotion": "fear+sadness",
+      "src_lang": "kin",
+      "text": "Ndatinya, byose byagiye… 😱😭",
+      "reasoning": {
+        "cues": "‘Ndatinya’ fear + loss ‘byose byagiye’, 😱😭",
+        "tone": "Anxious grief",
+        "interpretations": "Fear from danger; sadness from loss",
+        "critique": "Distinct signals justify both labels"
+      },
+      "final_labels": ["fear","sadness"]
+    },
+    {
+      "id": "joy_surprise_example",
+      "emotion": "joy+surprise",
+      "src_lang": "swa",
+      "text": "Sikuamini—nimeshinda! 😮🎉",
+      "reasoning": {
+        "cues": "disbelief ‘sikuamini’ + success ‘nimeshinda’, 😮🎉",
+        "tone": "Elated shock",
+        "interpretations": "Surprise from disbelief; joy from achievement",
+        "critique": "Canonical cue combination"
+      },
+      "final_labels": ["joy","surprise"]
+    },
+    {
+      "id": "disgust_surprise_example",
+      "emotion": "disgust+surprise",
+      "src_lang": "univ",
+      "text": "!? 🤢😮",
+      "reasoning": {
+        "cues": "interrobang + 🤢 + 😮",
+        "tone": "Startled revulsion",
+        "interpretations": "Disgust from revulsion; surprise from suddenness",
+        "critique": "Script-agnostic explicit cues"
+      },
+      "final_labels": ["disgust","surprise"]
+    }
+  ]
+}

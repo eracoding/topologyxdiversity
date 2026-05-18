@@ -1,0 +1,104 @@
+[
+  {
+    "text": "@<username> bari kumurutsa cash yariye😂😂",
+    "labels": [
+      "anger"
+    ],
+    "rationale": "Prototype anger from kin",
+    "src_lang": "kin"
+  },
+  {
+    "text": "sifuna amesema mrape hawa watu😂😂😂",
+    "labels": [
+      "disgust"
+    ],
+    "rationale": "Prototype disgust from swa",
+    "src_lang": "swa"
+  },
+  {
+    "text": "nani ataoa hawa madem wa yunifasti🤔😂",
+    "labels": [
+      "fear"
+    ],
+    "rationale": "Prototype fear from swa",
+    "src_lang": "swa"
+  },
+  {
+    "text": "@<username> twasija kwa mpigo😂",
+    "labels": [
+      "joy"
+    ],
+    "rationale": "Prototype joy from swa",
+    "src_lang": "swa"
+  },
+  {
+    "text": "@<username> ikibazo ni umuriro waho😂😂😂💀!",
+    "labels": [
+      "sadness"
+    ],
+    "rationale": "Prototype sadness from kin",
+    "src_lang": "kin"
+  },
+  {
+    "text": "kuna mtu ametoa mita tisa 😭😭😭😭",
+    "labels": [
+      "surprise"
+    ],
+    "rationale": "Prototype surprise from swa",
+    "src_lang": "swa"
+  },
+  {
+    "text": "reba aya macandwe wujuje aha",
+    "labels": [
+      "anger",
+      "disgust"
+    ],
+    "rationale": "Prototype anger+disgust from kin",
+    "src_lang": "kin"
+  },
+  {
+    "text": "@<username> nukuri njyewe bingeze aha ngiye kwiyahura mu buriri😂😂😂",
+    "labels": [
+      "anger",
+      "sadness"
+    ],
+    "rationale": "Prototype anger+sadness from kin",
+    "src_lang": "kin"
+  },
+  {
+    "text": "hawa watu hawanaga kichwa mzuri",
+    "labels": [
+      "disgust",
+      "surprise"
+    ],
+    "rationale": "Prototype disgust+surprise from swa",
+    "src_lang": "swa"
+  },
+  {
+    "text": "kama bangi hushika hivi na ni blunt,sasa ingekuwa sharp je?🤔",
+    "labels": [
+      "fear",
+      "surprise"
+    ],
+    "rationale": "Prototype fear+surprise from swa",
+    "src_lang": "swa"
+  },
+  {
+    "text": "tutaambia watu nini #coyg",
+    "labels": [
+      "fear",
+      "sadness"
+    ],
+    "rationale": "Prototype fear+sadness from swa",
+    "src_lang": "swa"
+  },
+  {
+    "text": "unaamua leo utembee atleast uone venye kemsa inakaa 😂kidogo wewe ni millionaire. ##url##",
+    "labels": [
+      "joy",
+      "surprise"
+    ],
+    "rationale": "Prototype joy+surprise from swa",
+    "src_lang": "swa"
+  }
+]

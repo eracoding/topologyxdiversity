@@ -1,13 +1,8 @@
-import time
+"""Token usage and latency tracking."""
 
+import time
 from dataclasses import dataclass, field
 
-# Dataclass benefits:
-# automatic method generation - __eq__, __repr__, __init__
-# can make instances immutable with @dataclass(frozen=True) option
-# field param allows to have default values and factory functions
-# serialization with asdict method
-# ordering support with order=True
 
 @dataclass
 class RequestStats:
@@ -16,14 +11,11 @@ class RequestStats:
     total_tokens: int = 0
     latency_seconds: float = 0.0
 
-    def __post_init__(self): # runs after init
-        if self.completion_tokens < 0:
-            raise ValueError("sr must be postiive")
-        
-
 
 @dataclass
 class CostTracker:
+    """Tracks token usage and wall-clock time across an experiment."""
+
     requests: list[RequestStats] = field(default_factory=list)
     _start_time: float = 0.0
 
@@ -32,25 +24,25 @@ class CostTracker:
 
     def elapsed_seconds(self) -> float:
         return time.time() - self._start_time
-    
+
     def record_request(
         self,
         prompt_tokens: int = 0,
         completion_tokens: int = 0,
         total_tokens: int = 0,
-        latency_seconds: float = 0.0,
+        latency: float = 0.0,
     ):
         self.requests.append(RequestStats(
             prompt_tokens=prompt_tokens,
             completion_tokens=completion_tokens,
             total_tokens=total_tokens,
-            latency_seconds=latency_seconds,
+            latency_seconds=latency,
         ))
 
     @property
     def total_prompt_tokens(self) -> int:
         return sum(r.prompt_tokens for r in self.requests)
-    
+
     @property
     def total_completion_tokens(self) -> int:
         return sum(r.completion_tokens for r in self.requests)
@@ -58,7 +50,7 @@ class CostTracker:
     @property
     def total_tokens(self) -> int:
         return sum(r.total_tokens for r in self.requests)
-    
+
     @property
     def total_latency(self) -> float:
         return sum(r.latency_seconds for r in self.requests)
@@ -66,7 +58,7 @@ class CostTracker:
     @property
     def num_requests(self) -> int:
         return len(self.requests)
-    
+
     def summary(self) -> dict:
         n = self.num_requests
         return {

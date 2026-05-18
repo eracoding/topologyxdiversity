@@ -1,0 +1,10 @@
+{
+  "num_requests": 5925,
+  "total_prompt_tokens": 5936364,
+  "total_completion_tokens": 714330,
+  "total_tokens": 6650694,
+  "total_latency_seconds": 1448.59,
+  "wall_clock_seconds": 1480.54,
+  "avg_tokens_per_request": 1122.5,
+  "avg_latency_per_request": 0.244
+}

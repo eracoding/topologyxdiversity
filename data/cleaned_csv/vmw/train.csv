@@ -1,0 +1,835 @@
+id,text,anger,disgust,fear,joy,sadness,surprise,emotions,split
+vmw_train_track_a_00001,exiitu : mameetiku aalatha eviitiyu ya blecaute naakuvelihiwaka hoxipitaali,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00003,mosampiikhi: otupweeoiha ni waakiherya okuumibwa mpahari,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00004,"nikhuru nalipo ottwawela a wameerika senteraaleonirowa mpakha mikano wa exitaato uniitu ovekela mukhupaarelo, masi anamunceene nnakhala khonirowa wateeteriwa",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00007,wuutuwanyeya wa opuro onithipiwa maluku onitanyerya  15 myaha sookwiwa oteete.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00009,xiina oowalela mphwanyaneyo wa google mipantta sikinaku sa elapo,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00012,pcc onnipuhuweliwa 511% wa miyaakha 2 ni eriyari,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00015,palmas oomuthanla exitaranxeyiru oopacerya wiira weettiheryeke ekapitaali parasileyira,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00017,eua: onikawa lentaariyu siyentiixita a ekomutasaawu dennis ritchie,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00020,musukho wa mulaponi mwahu ti wootepa olimitareya: limitada.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00022,"parasiili : okwa wa sócrates, nthoonyeryo mmosa parasileero",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00023,"kami rita, onepaale, onilutteleela mukhaleelo musya mwaha woothanla ikwaha 22 o mwaako everest",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00024,eeiyari ya atthu a olumwenku anrowa omwiiwelelaka imphira a muntiyaale.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00026,amphiira oliipiku: koviiti 19 onaalanya ohiloka variyari va ameerika latiina ni ilaapo sikinaku sootepa othawali,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00027,"miyamaari,: ehasara yohiweha ottuli etanyeriwe ni mwanankhaya",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00033,#freeamade:otthukiwa wa nahapaari oniphattuwa onyonyiwa mmosampiikhi,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00034,mwaattelo wa anamatthapa imiya piili okaana anvekela ovahiwa opuro wowipitha oparasiili.,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00037,"exitaato uniimuthoonya  ruusiya wiira ""nahasara""a muttetthe wa siiriya.",0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_00039,"okumihiwa atoropa akhalayi a renamu oniira wiiraneyaka okathi ola omosampiikhi ookhala oopakeya eporosesu yohisuwanyeya saana ni ehinrowa okhaliherya wii okhale osamihana elapo yootheene, wakhala wii otthikiheriwa wa wataaneya wahikhale wa exariya ni wa okhalela wa atthu ale.",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00040,woopopiheya wa ithuutu siiri vowoopiha okweela onepaale,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00042,"leonel messi, mulipa a omusuwelaxa mphira wa ikwaha thanu.",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00043,muhooleli a poliisiya omosampiikhi vathi va mooro,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00046,"kovit-19: opaceeriha mukhalelo wa emukaakuve onoorowa okhala muteko ohikweya, anihinya alipo aniweha myaaha",0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00047,mukukutta wa fao waatakanri osofala,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00052,nahapaari kinenxi orumeela voohisuwanyeya wankoola,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00056,"ankoola faala so- fernando kawendimba onoovelela  ehukhumu"" okwa etaala wala okwa mwaha wa koroonaviiru""",0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00058,"manyakunyaku apakinwe ni asomi, epooma ya omaputu khaasivenle, yaala apakasa mwaha anamuteko oparamentu olinvwa musurukhu wowaatta.",1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00059,ukaraaniya: eporoceeto ya nlaamulo na mahomofoopiku niroohiwa vapaawutani mwathanle ohinatthi,0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_00060,kuverunu a omosampiikhi oopaka axensiya enwana ni esuruma.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00061,mosampiikhi  ookhalana wuuraana wa interneeti eniiwananeya.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00062,ehisapo ya patarooya yoowelihiwa,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00064,mapuutu onikhupaarela muthukumano olumwenko mpantta wa muretteli,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00065,alipo ookhalana aviixitu h4 anikhoottihiwa opwanya muteko muhina mwa ilapo sa eua,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00070,mosampiiki: peresitente nyusi onilopola wiira wikhanyaanya wiireliwaka murettele,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00071,"munepaleesa sapana roka magar, okhale toniloopa moothokoreryani mirutthu sa ayiitu ohinisuweliwa mukhalelo aya, ovoolowa muwarakhani mwa masina athiyana 100 a eyaakha ya 2020 a bbc",0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00073,"makhulupale mamosampikaano aamutthukwa mulipa waaniheriwa omuhela evenene phompe, oxitima",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00076,"soothapeliwa msiterineeti i, asoomi ookhuma osomaali apwantasa voophovaka ekonto 80 yavitoolari wiira wpyawananiwe etala waafirika",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00077,mosampikaano onireherya miriira wokhoottela vowanana ipuuheryo sa amahooleli ookhuma,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00079,mosampiiki ennirowa olempwa exariya yoowaarulela erutthu wala iphatte sa erutthu  atthu yaale oniwereyiwa,0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_00080,otikiniihiwa wa meexiku mwaha wa ohiloka wookothasiwa wanasoomi a sineema araaru,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00082,"messi olavula iiraka "" khanirowa wiira mpantta"" muselesawuni.",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00089,mulipa ovava ohookhwa waapheela awe opaka nniya na olimpiiku,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00091,matakaaxikare: polokeero malakaaxi ofaraasa onivaanyiha epuliitika otuupha mikano wa sarkozys,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00092,mwasuwele pmaparasileera athanu anipheeta ele anivara aya ni anipaka elle anipheeta aya,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00094,okhwa wa muhooleli omalawi pooti opwapwaneeliha mukhalelo ni mosampiikhi,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00096,etetere yoopacerya okhumeleela eyaakha ela yomosampiikhi.,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00097,mapheresu a omalawi aanomeyariwa ni grammy 2015,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00098,"olumwenku wa ihapari, makhwelo a mulopwana yoowo mwa mithinto miili soovirikana",0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00099,"aafirika: manyaala a,"" mireerelo soohisuwanyeya iphwanyeriwo saya""",1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00102,koviti-19: uniita onnimutumererya kurunu wii ohiime  efase ya muttetthe wa orava eretta,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00104,muholi a mwalaano okumi a afirika tu suuli vathi va mooro onamuvirikana,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00105,ekuluttu ya ewuuru ni othoyiwa: waakhula mmiitiyani anamuyariwa a 2011,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00108,"asuphayi wa o riiyu  awiva ""anceene, osuweliha namuhupi wa nikhuru aminixitiya iterenasionaale o parasiili",0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_00110,atthu athanu a ilapo sokhopela avariwa mmosampikhi akinxeene ikaruma sa khotto.,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00111,anivara muteko woosomihoni wamphula aathonyiwa ovetiha ifuntue,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00113,onaacimola ni  muteko  wenamwane woxankiha wamphula,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00114,"nlaka  na  ankoola  faala  soo- ""pilisa  khaarumeela nlamulo,  onivara  mitumereryo""-osvaldo  caholo",1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00117,"(covid-19) kovite-19: emerekaato y'oxipamaniine ni imerekaato ikina sa epooma ya omaputo sinoorowa owaliwa, okathi ene.",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00118,amuusi aniroweela osuka sowuupuxerya sa namuteko ookottiwe okathi wa evaraakaka ya oparasiili,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00120,"amasooniya exitereema, mihuuru nophovo o sinaakhamela okumi wa miratti",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00121,"mwaaha soluluwana ni tarafiku wa atthu onuncerereya, masi siiri vakhaani iye silaleeriwa, ohimwa mulipo axariya",0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_00122,maxineexi ari mukwarenteenani muhina mwa oteeli a omaputu aakumiha mwaha sa koronaviiru.,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00123,mukhulupale eelapo oniira wii anamurwa aninyanya elapo aawoonyokola mamempuru aawe atthanu olumpu,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00125,enoonaneya nikhuru na moody's nenla nimphwanyaneya ela'po ya mosampiiki  nikhuruwaka ni miniixituru opacerya onirowa elapo ya waxintto.,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00126,itiripunaale sa omosampiiki sookhotta solempwa saavekeliwa wiira ewehexexiwe saana enamuna yiiraneyalyaawe mwaathanle.,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00127,ekhotto ya oxeyoorixiya: mammeru aanaakwa otshkhinvali,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00129,"muratti onikaxari ni onitthikela oveyiiha "" ekiliinika yowavoniiha makeeyi"" ni ensaayu ya ilataraato",1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00131,ettekuuxa yooruuha ookwa wa atthu ikonto piili woopaceryani wa miyeeri mithanu ni mmosa soopacerya wankoola.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00134,"ni nikhuuru na isiipo n'a fikuriinya  nootepa oxakama, maperuwaano anitthapela othapeeliwa waya wii yiirele mpantte wa ekoopa noovira iyaakha 36 voohikhala",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00135,axeensiya iinterenasiyonaale onimuthonya  wiira kuveerunu ompikaano ovonyola ihakhi sa apinatamu mwaha  otthuukiwa atthu okhopela muhina mwa okathi wa miyeeri 18,0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_00136,covid-19: eparalamento ya mmosampiikhi yoolamula murweelo mukina wa niinaano wa  esitaatu ya emerexensiya.,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00137,unicef  oniira anawaane oophiyeryaka imiilya 700 tootthyawiya mwaha wa etala,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00138,ephantte ya osuuli elapo ya mosampiiki enoorowa woonaneya othowa maasi  ni enerexiiya mpakha mwaakha mmosa.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00141,koviit-19 onaakuxa amusi arimeenika   waroohamosikhinini,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00143,mwanamukhaya itaayi ni etala ehaahiiha osoma anamwane oophiyeryaka 250 ixikola sa omanika.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00145,dhlakama ohiiniha epaala  mmukumaaneloni musya.,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00148,netizen report: kuveerunu parasileero onitthuna mukhaliheryo a kuukele wiiranotzpanyeryr miyoonelo sanamunceene,0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_00150,ikweeli sa mwaaha sinattwawiha atthu ekuluuttu ya wontuura,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00153,elapo ya mosampiiki yoopwetheyiwa musurukhu woophiyelela imiya miloko miili sa metikaali mwaha wa  namuna yeela yoovekela musurukhu woohiphwanelelavo.,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00154,parasiili/ palexitiina:cokatoore amphiira ottipihiwa mufesipuukhini ni okwelihiwa eselesawu mwaha womukhaliherya palexitiina,0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_00161,anamalapeleli makinense annihima wii okati ti okathi annincerereya amiravo ni axiruuxi ampaha esuruma,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00166,onu ophavela okhaliherya mapuuto wiira okhale epooma emosa wowixeetta ni nnroromelo vireliwaka athiyana.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00167,mwaha xeene mekhuulu opakeleliwa amphiira okathi worikrya a eyaakha ya 2022 anipattuxa sowothereriwa?,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00169,nteeke  na  lam  nokwanyeereriwa  wunteererya  ekwaha  noovira  okathi  wophasuwa  eloola  ya  ohoolo,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00171,"elaapo ya afiriika o suuli okhaale okumananaaka"" nihasuulo noxaakiha""",0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00172,isisapo soowela inyampaani,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00174,saawu toome piriisipe: mukhaleelo a epheeyo owoopiha mwaha wa  oheephiwa wa patarooya,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00176,cine holliúdy: ekomeetiya mwa “cearês”ti mwiriira a epilyetaariya ya oparasiili,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00177,mapuluusiya annivanyiha wonaneya otthekulela oponta wo rastinka,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00181,palexitiina: walikela sootthikela ottuli owooka okhottoni vowanana iraawu,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00182,xipaanya okarakanyuula nthaavi nathoothela athiyana wi aroohiwe mmatataani mwa exitaato ixilaamiku.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00183,iilya ya koowa ni seena sootthuka mikhora saya mwaha wa nkutakutho yoola wiiranen'ye.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00187,namuteko a epuruceeto yuulupalex ya ekaaxi okaapu telekaato ohiiviwa ni atthu oohisuweliwa,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00189,caapawu: tsunaami aniiphiya mmpantte okerekhere ya ephareya ni onipuurula soteene,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00190,moomolano wa anakoso onniphwanya ikuru sa maxoronaliixita mmosampiikhi,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00191,miloko sa ikooto sa atthu opwanyiwa ni epula omosampiikhi,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00192,mitumereeryo wa esupereemu kooriti yookhala ohela enoopopiho etthaya ni ihaakhi sa alipo owareliwa muttetthe  oparasiili,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00193,oteete: opatta wa mukukutta wa etanke yoowivakasa atthu oophiyeryaka 43,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00194,"nthekeneke: ""mutakhali owiximaaliha""onopopiha oraala wa mutthetthe a  waafiriika.",0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00195,eteerusu emosa ya athiyana annivarela muteko internet (intereneeti) omosampiiki,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00197,nthona na othuna okhala saana ninnimulipiherya nanakoso a omosampiikhi ovara ithu soorera.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00198,"trending: psg eroowa o semi-finaale ya""champions"" noovira iyaakha 25 ahireele mmpatte.",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00201,faransa: le pen oomuvikana munyokhanano awe fillon mwaha wa exikantalu,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00202,""" kiriotupheliwa ikwaha thataaru' woova ikhirime oniittikiherya ottuli oleepiwa wa oxikoola suulupale sa weeli salvatoore",0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00204,voovukuwa mwattelo wa 10% wapinaatamu anikhala waafirika othi wa osahaara akhalana maluuxu. taani eniira yiiraneyaka wiira yeeyo erukunu?,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00205,"trending: lakers axintta ekwaha ya namuloko ni thannapiili, lebron ti mvp 2020",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00206,"okheeniya, manyaku-nyaku oluluwana ni mwapoophe owanaaniwa ni koviit-19 onilipiheerya makuute variiyari va aliipo othawali ni asikhiini",1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00207,exipaanya onilipiherya okhala oolikana wiira ovahe mukhaliho awe natoropa wiirelaka ekhotto yomalamaliha miriira sa alipo onoopopiha muttetthe omosampiikhi,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00208,""" nroromeelo ninimala mwaha wolipelelaxa vanceene"", wixiinliha wa alfa thulana",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00209,onu: siiriya wokhala muxankiho mulupale wa alipo ottyaawela a olumwenku,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00211,renaamu onoopopiha omaliha mooro oomaleya,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00213,"oparakwaayi, osiikhini opattuxa esiikulu yaathiyana anaakhapelela anaaya athiyana okinaku",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00214,anamathokoca a wiixirayeeli ahoonenela etinta piipilika yoorikarika  mwa epittula ya ekuwo,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00218,athiyana anihimya makhwankwa mmateenitaate ni ya wamphula,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00219,sida oovukuwa eriyari y'amwaavano mamosampikaana,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00222,ikuru s`oosiiriya soowiiva atthu miloko miraru ni axexe okhuma enamathanu,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00223,mosampiikhi isabel novela onkonkorrer aritiixita oopacera a waafirika wa sama.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00225,aafirika a okuusini oorwaana ekampaanya enikhottiha otumihiwa atthu.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00226,guterres omosampiikhi ni otekiwa tho nuuvira amwanamukhaya mwacentani,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00227,muratti a muthinto onitthaniwa kospele a wankoola omphavela wahuluxa amwaavano owurya sohapala ni wakhuveelihe muloko.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00231,xiina:  750.000 mwattelo ookwiwa vamwaakhani onitanyeriwa ni ohononiwa mukhuruuru,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00232,soophwanyiwa minuulu sa ipuri mukano wa ilapo soowiiraana,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00234,"alaleerya ihapari anihoolela mikuthakutho yiirelaka olaleya sa amwaathanle mmosampiikhi, enihinya entitaate",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00235,nakhootto  transgenero opaaka ethale nmuuxinttani mwawe woopacerya   owana mwamuteko,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00237,"moono wa aafori kolompiyaano, othaanyana mwaha wa nikhuli  a mapuuro onivariwa miteko tevemoosa ya ekeekha wa nihiku tiniihiku",0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_00240,koloopiya: woopoliwa wa alipo ovaariwz sotanyerya mikuthakutho,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00242,nyusi ni dhlakama aathukumana mukwaha wanenli okathi wa mahiku manli.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00244,pilisa mosampiikaano onihaya miruuthu anamphira wiiviwe  ni ekonya.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00246,amiraavo athanu omosampiikhi a owokootthina ocuhaanexipurukhu,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00251,amusi a atthu yakhumelenle yotakhala ya uixe annivekela exariya,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00252,wankoola mwaakha woheetthu oophiya namasivela a meera a cannes,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00255,ohononeya wa ekaruma onninanariha mwaarepele a muthanlo wamphula,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00256,koviit-19: kaapu veerete  oolepa  mwaattelo  otepa  waatta  nihiku  nimoosa  paahi  ni  ohaala  mittetthe  enilavuliwa  akunya  sirina  myaaha  soovikana.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00259,anamwiira mpantta a ikonkereesu sa waameerika annilakelela okhaliherya mapuro a mukhapelelo wa mmosampiikhi,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00261,muhooleli ogaza oohimya weettakasa wa alopwana a renamo.,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00262,"muviitiyuni ya yurhuupi, maayi onilaleerya munamuuna woopiha wa mukhaleelo oxipitaali wa anaxikhaani ya ovenesuweela",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00264,nnakhala ni malamuulo masya parasiili okhalanamikacamiho s wakhapelela athiyana ni wokothasiwa watabonuncerereya,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00265,mwaakha onipacerya ni milattu sa khalayi siniphaveleya omalihiwa,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00268,fda onemereerya mureette oniwananabkanseri oxamaayiika oliipiheriwa ni esuruuma,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00270,ukaata: mulaleeryo onooniha wokottiwa attu wukaanta,0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_00271,kheniyaanu kipchoge omana arekoorite ya elapo sotheene ya mphira yoola ottikhiwa operilim.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00274,omaputu ni othowa wa kaaxi a onaapeeliwa,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00275,maamerikaanu aamuxintta mutiyaali a neexexe a mphira.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00279,""" amuulupale"" oosawu tome ni piriisipe ahuuraaniha ilapo sa okhopela voorumeeliwa raatiyo olaayini",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00280,2017:eyaakha emoosa yoowunuuheriwa axithiyana waameerika latiina,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00281,dhlakama ommotherya kuveerunu wa elapo ya omosampikhi wiira ootthukula inuupa sanookhwa.,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00284,tirintaate ni topaaku : anamwane ni axiitthu hiv,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00286,"omosampiiki: ""sootthumwa sa khula mahiku"" sinoolokihiwa",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00289,unkiriiya: nivekeelo na nlamuulo na ehapaari ninoopopiha wixeetta wa ilavuleelo,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00294,owerya wa exariya vakhaani wa anamalaleerya yookotthiwe okoloopiya,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00295,maxoronaliixita aromanasiwa ni atoropa a renamo.,0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_00300,ikwaasuni omosampiikhi siniholela mixankiho wookhala alipo oheettela ikettelo muhina mwa elapo ya afiriika ti suuli.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00301,woothikileliwa opakhiriwa atthu ni kampoyi variyari ya mosampiiki ni w'afirika y'okusini.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00302,parasiili: nakhuulu a emiiya omaliherya yooloherya awe otuupha orumeelaka iparakeeta,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00304,"namavaha ihapari a mmosampiikhi oolakaseya: ""hata mphito aya khonooneya"",  mapuliisiya anivekela mukhaliheryo.",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00306,furasawu alema onnimukumiha porutukaali,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00309,epikaata emoosa ya opankalateexi  wowaarya mwaha wa ekoopa ya olumwenku,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00310,parasiili: ekampaanya yowikhupaarela mwa aids wapinaatamu lgbt yottipihiwa mu tv,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00311,mwapoophe a tteeke onoopopiha okumi wa ikootosene sa anamwane ofilipiina,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00313,"ohookhwa nlattana a ""nikhuru"" naararu a makanariinyu.",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00315,nyusi onisuwela okhala woovila osuwela exeeni eniriha mutuphelo wa okaapu telkaatu,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00316,"cristiano ronaldo, , the best 2016",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00317,"oparasiili, epakhira sinaalovola anamunceene siri sootepa owalamela esisapo ni manyakunyaku onikhoottelexiwa ni exiilo ya piliisa",1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00320,"ekwaha ekiina, opoopa ikapwitti omosa wa puliisiya militaari  otanyerya ookwa va ""ehasara"" oparasiili",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00321,"oviraka okathi wa ekwereere ya koronaviiru musya, oleehanana amuusi ovira etuniiya onahaka okasoooiwa oparasiili",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00322,eviitiyu anti-lula yoopaka esuseesu noomala okottihiwa,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00324,eriyari ya anookhwa a anamwane eniira mpantta wa ohica saana,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00326,ankoola: okhwakaru meetiku kuverunu omaliha ni owariwa wa maxikara mmukukuttani mwa mutthu,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00330,anamulevelela interinasiyonaale:evutuka vuttuka ya manyooho ti woopiha wa mukhalelo a ihakhi ovenesuweela,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00333,bill kosby okukhumuliya mukhatteya iyakha tthaaru mpakha iyakhu nloko mwaha wo otuphela,0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_00342,parasiili: vooluluwana ni ohukhumwanwa vatikaano muhina mwa mulatto okurumuuliwa ihamela waxiruusi orupihasiwa,0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_00343,#withsyria oniphavela omaliha woopiwa wa akapwitthi soohathaala apinaatamu osiiriya,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00346,"filipe nyusi  ni ussufo momade annithukumana wiira ""otaphuliwe"" manyakunyaku oolamulela",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00347,etíope almaz ayana ti ewooro ya imeeturu soophiyeryaka ikonto 10 ni ankoola onnihaleela masi onivira wa okathi mukinaku wa antepooli,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00348,"jupp heynkes, tereyinatoore a mwaakha.",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00350,"drogba, toure ni mikel aathonyiwa ntoko oopacera omusuwela muchuva afirikaano a 2013",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00351,ekarakaasa sakareera ntoko isaala soosoma? iterineeti omosampiikhi tonikhoottela muruku yoola,0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_00352,olaata: athiyana ayili otthukiwa okoopa ya olumwenku mwaha omulaleya sereveeca ohikhala tiyoowo,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00353,sekeretaari muulupale a renamo ookumihiya  mpakha okiliinika yo wafirika wa osuuli.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00355,efoorumula 1: alemão sebastian vettel ooxintta etthuvo yuulupale ya omoonaku,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00357,nikhuru n'a mphira nooparasiili noovonyerya ekampaanya yowanela othaanyana mwaha wa nikhuli n'a mutthu,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00360,mosampiiki: xayi-xayi mwaha wa woopopiha wa osareya maasi,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00365,manfirimeero opoopa noova kiine athupelaasa eiheereve mwaha wa oohikhala mireerelo sowixaakihana mwa axiitthu koviiti-19,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00366,ohookhwa bra hugh masekela,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00367,"ixilantiyaa, elapo yoopatthanana atthu a ilapo sikinaku ookhala ""mwiithanelo"" wa muntiyaali",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00368,omora wa oviyatuutu obeela orizonte mwaha wookhwa waatthu enli.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00369,angoola ni mosampiikhi onrowa wuraana mwaha wa kamintifero.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00371,anamaphavela a waafirika  anikhala ooxenkereya mwaha wa mutotheliwo wa inama sookoottihiwa.,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00372,"mukumano wa nyusi ni dhlakama woovukula waaniheryasa, nnya sookhala sinireerela ophuka.",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00373,kiine pisaawu: anoorowa awaatakarisi apinaatamu muhina mokhoottelani,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00375,ankoola: josé eduardo dos santos tonootheriwa ohonona exitaato wa okhuma wawe,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00377,freliimu oniwehaweha ololiwa mmwaatthanle wamphula,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00382,maporofisionaale a w'ankoola ni mosampiiki ni ivixitu sookhweyiheriwa,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00383,etiripunaali italiyaanu enookela olaleerya wakhala wiira yeesu waatoko okhala wala hooye,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00389,etiyoopiya ohootheriwa ovela nikoto mwaha wa woomola muttitthi wa amhara,0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_00391,mamosampikaano ahaatthikiherya masuuli afiriaano,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00392,ankoola: ohasariwa teputaata a eparitiitu eri omweene,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00393,"xankaayi onikeleela ohoolo nibekonfinameento epooma yotheen nnamwi wixiiliha anamunceene ori siisaale, othoowa yoolya ni ohilokasa",0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00396,funtasawu fernando leite yoopakiwa omaputu,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00399,kuveeruno omosampiikhi onilipiherya ovanyiha sohimwa soluluwana ni koronaviiru ni onalalerya wiira vahaana nikhalaka ni ookasoopa.,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00401,"mulaleerya otthikia anihinya wiira:"" "" kiiniryz kikhalaka osooniyaxa wa mmosa muulupale ni yonanara woopoliwa saka muhina mwa itumereeryo",0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_00402,ilapo sowuraana sinikhaliherya omalamalihiwa othelana vowakuveya .,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00403,ilapo soowiiraana anikhaliherya miteko soolima ni ipakhira sa mittetthe soohikhala sa mpooma omosampiiki.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00404,elapo yo wameerika enikhaliherya omwaleela ixipiritaali miloko mithannamixexe ni piili osofala.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00405,ahincerereya mpakha muloko ni athannamosa anookhwa wa ikhotto okataluunya.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00406,mwaana otthukweleliwa vanipottoni: otakhala woolipiheriwa mwaha wa nikhuli vathuruvene mapuuro owooneyaxa o riiyu ti caneero,0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_00409,covid-19: okhwiya ni oraviya wa ilapo sa omosampiikhi ni wangoola,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00410,"efiilime ya mmosampiikhi ""piipi tesanoove ni esiiri ya soviyeetiku"" yooxintta etthuvo okheeniya.",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00411,"sahle-work zewde, ovahinwe nsina na muthiyana oopacerya okhala mukhulupale eelapo oetiyopiya",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00413,covid-19: mosampiikhi onnooniherya ikhomo  sa otthikela okhalana mavekelo,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00416,koviit -19 : parasiili ovoolowa muwarakhani mwa msiina a ilapo thanu ni moosa ni manamuuno ookwa owaatta ni sowanyiheriwa kahiyo sooreera .,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00417,"muruweryo amolumwenkuni: athiyana oovarelana ni osiikhini,muteko ni sookopha",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00418,reepi onnaalipiherya amiravo oomosampiikhi wiira ahiye ohapaliwa ni ompaha soona,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00419,zurique: aakonxelariwa alakhu oophiyeryaka imilyawu imilyawu sene a osuwiisa masi aniira mpantta ni fifa,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00420,iraakhi:mutharuxase wookottha mmpooma ya sadr...,0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_00421,"mwaruusi ariisa ootteliwa erooho noopaceriwa wa niira na olumweeku, nnaamwi ni woopiha wa soorukunuxiwa sikweyiheriwe ni siniliveliwa",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00426,alumasiya a ohitto wa afiriika ovahererya mihokhorookho sohiloka owaliwa omosampiikhi.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00427,ovirikana ipheeyo:oniiranwuncerereyaka noomwareelihaka ikwereere?,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00428,esquerda oomuxintta mwaathanlo peresitensiyaali mukano wa el salvador,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00429,maama awe taraviixita iiviwe oparasiili othatuxa mulaala khikhala epanttera ya mulala,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00430,blatter onnimuloiha eua  aaniphavela namathanla wa fiifa  okhale ntoko saaphavelaawe.,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00431,masetooniya: mapolokeero anitthapela oxiitta sooluluwana n mafasiixita eyaakha ya 1945,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00435,"kiine-pisaawu:exipitaali yohaawa"" okarakanyuwa"" mwaha wa ekoolope ti estaato",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00438,okhanyereriwa wonanara wa athiyana oomosampiikhi ennikhumiha muxankiho,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00439,mmusiwele paatiri parasileera onaakhaliherya ale anikhala mpikatani- ni anihaawamwaha sa waatakariwa ni woopopihiwe mwi vaavo,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00440,athiyana maxileenobopattuxasa ikumunitaate ninoleelo woreera amurumeelaka raatiyu,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00442,"variyari va ohikhala maasi ni ohisuwa.nyeya mukhalelo wa epheyo, muttetthe mexikaano ya keretaro enihoolela mukacamikho ani wiraneye opirivatisariwa  maasi",1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00443,muxovo wa otaaka oniixiiliha mwaha waekwerere ya chikungunya,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00445,"mário machungo, miniixituru mosampikaanu oopacerya a khayi, okhwaale ni miyaakha 79",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00446,el-nino ookuruxa yooruwerya wa 25 imilyawu sa anamalimi wa afrika awustrali,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00447,maativixita ni kuveerunu annivirikana mwaha wa muthinto wa siita wankooxi,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00451,anakhotto asya avelaveliha  wa ilapo sovirikanya wa ohiitto ya elapo yo omosampiikhi.,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00452,mosampiikhi: oovukula wahaaxa alipo otthukiwa  mukhatteya,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00453,francisco onimaaliha ovekela exootte ni onakiha okhotto yowanana makwankwa,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00454,namphira ole onaakhula nsina na ibrahimovic olola mwaha wa ekoolu yeele mwaakha.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00455,rosa roque: anamapaka oowiiwanana pooti ohela osulu wa elapo woolimalela ya wankoola,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00456,onuunuwa moonelo wa ukaanta vooluluwana ni mwaha sa ettekuxa yoopattuxa ni axiitthu aniiva,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00457,"mmosampiikhi, atthu anceene aniphwanyaneya ahikhumaka mpaani mwaha wa omwiinanela koronaviiru.",0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00458,"tayilaatiya, kampooca: ohiwanana  mmukanooni oniilipiheriwa",0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00459,olumwenku akhiyaarabu: weyiiwo ale khamosa khamosa ari ni mulala mwaha wa osama bin laden,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00460,"soohinya sa spyware pegasus indica sinithoonyerya wii iitiya onathurumela alipo a ihapaari, mativiixita ni mapuliitiku",0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00463,"ni mukhaliheryo a maafa, azagaia oopwanya mureerelo wiira wooperariwe viipale awe wiitiya",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00465,"anamalatha owiraana ni a ilapo piiliw othoonyerya  "" iwarakha sa niphento n'a parasiili owoniheriwa iraakhi"" oniphavela otuupha muhupi sa murettele",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00466,guterres onivekela irefooruma wa onu ni wiira amahoolela yiiwe okhuwela w'apoovu,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00467,anammuttettheni anniixinla ni ohikhaliwa omuro wa oxaneyiru,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00468,exipaanya enimalela okhalana epiixita yoopacerya yoorukurereya moolumwenkuni enimorela ntteeke,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00471,funai onnilaleerya moonenelo wa nihimo nipheya mukano wa aakere,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00472,iitiya oniwateeriha tiikhi tooki ni ikinaku 58 siiri ikaruuma variyari va wuunuwa moonilo anti- xiina ni ohiiwanana mmukanooni,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00473,araatiyo komunitaariya omosampiiki aniwanana othelaniwa vahittokotthiwe,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00474,"tripunali piritaniku othikela mulattu ""sookopha soottukuttheriwa""",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00476,owaali sootthikela okhosoovo noomala kuveeruno akhanyereriha ihukhumu soluluwana ni elapo ya ruusiya,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00478,ohooneneliwa pika-paawu orikarika mukano wa eua,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00479,"variyari va epuula ni ephovoovo, peeru onilipiherya ntoko #unasolafuerza",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00481,ereetta yothoowa  yomwarela mmittetthe  piriisipe,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00485,ine oovirikaniha mwaalakanyo wa atthu oorepeliwa owooniheriwa muttetthe yookaasa,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00486,netizen report: empereesa ya itekonolooxiya nooroti -amerikaana sinihimya otthuli ivolowelo munikhuruni etokweene ya akunya mwaha wookupali “papaaka”,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00487,muthiyana mmosa anaakhula nsina na tatiana lima ohiya wiira mpantta oriiyu - 2016.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00489,manimatoore awaafirika ahoopola mattaava aya ephattu ni ilatarato sinamutheyiiha,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00492,mamosampikaano khanirowa okhalana tho oweereya woopwanya okumi onikhottiwa mwaha iwareelo saya,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00493,etthaya eroohunyuwela ephiyelela ewiivaka anamathipa athanu na tthaaru epooma ya maniika.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00494,mawuritaaniya: ohoolo wa opotthiwa waninaano,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00498,ateeptu ovonnye enika elapo ya espanya ori mmilatthuni.,0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_00499,onu anitumererya imiilyawu 254 sa mukhaliho othunku oniireliwa muttetthe omosampiikhi,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00500,wa'angoola: lini athiyana anrowa ottittimihiya vooliikana?,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00501,mosampiikhi: mwaha wa exeeni amakhulupale ahunahinirumeela aya ixipitaali sahu?,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00503,anamuteko mamosampikaano waafirika ya okuusini anoopiha okhuma muteko,0,0,1,0,1,0,"['fear', 'sadness']",train
+vmw_train_track_a_00505,"mosampiiki ""ooxipheeleliwa"" ni muritti woolemela wa yookopha y'atthu ootheene",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00506,"maativiixita mankolaanu anitthukelasa owaleeliwa ni wiitaphula waya, mpakha o ekathi onirowa olokeela  yoolemeleela?",1,0,0,0,1,0,"['anger', 'sadness']",train
+vmw_train_track_a_00507,itorooni waameerika sootuphela olemen nihiku noottikhiwa muhooleli,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00509,"tayiwaani: elaapo yootepa othapa ya waasiya oriyentaali, ntoko vanithoonya erelatooriyu yamuntiyaale ya ethaapa ya eyaakha 2022",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00511,"ohookhwa joão de sousa, mmosa wanamonaxixeya wa namalaleerya ihapari mmosampiki.",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00512,"""o brasil está tendo alguns problemas, não há dúvida sobre isso""",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00514,namalamula ni renamo aathipelela owalameliha ovaanelela myaha siluluwanne ni epoliitika,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00515,coluna opaxari ekumi awe yootepa.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00516,tani ori muhooleli  a kokhola sowaatta siiwiive  atthu 16 mmosampiikhi?,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00520,mphira: yooyariwa etthineeri ya mphira ni musivelo wa okwine pisawu,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00521,atoroopa a wamphula anithoonyiwa okhala alipo omana ni orupiha,0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_00522,repper ankolaano mck owaterihiwa okhuma wankoola,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00525,ettekuuxa yoowiiva ikonto 600 sa atthu iyaakha soteene,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00530,iretta mwiikhoo athiyana wokiserani sinlavuliwa muri atthu anceene.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00531,iraa: empayixaata piritaanika oteeraa wootupheliwa,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00533,athiyana a ekontineeti thaanu anaakhela etthuvo mwaha woovaha mukhaliheryo aya mpantte wa amphiira,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00534,parasiili: telekaato apiliisa amwatakari mulopwana ari ni erikiixo,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00535,wiiyiwa onnitepa ni onnithaniha muttetthe wafirika ositentaale,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00536,mantiyaano ni mapakixitaneexi anilipelelaka wiira ilaapo saya ikhaale sowataana,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00537,ong ookine onnaaphuka atthu eelapo anilima irutthu soolatta soovirikana,0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_00538,eviiyawu emosa vamosa ni atthu axineene elapo athanu ni ayili  aarimeela mutakwani  waamasoonika ni oparasiili khonilavuliwa mwaha ola,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00541,kiine ekwatoriyaale: muleepi ni ekhereve ya etala,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00543,anamathokoca ahoonanela mananna makinaku a mweettelo wa inowa sipheya,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00548,"covite-19: anthony faucy onihimya wiira nummaru n'atthu akhwiiye noovikana ninne nihimiwe ni ""wootepaxa nlelo khevirenre"".",0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00550,nikhuru na macamayikaano na mphira reggae girlz ' ninatakari ni ikuru' wii nipake ethale,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00552,dhlakama oniira wiira onirowa weettiherya iporovinsiya mweeri wa maarusu,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00553,"kaapu verte muttetthe woreera wa nttaava na ekunya waafirika ovariwa miteko sa nakoso, aahimya amahoolela epanku ekhulupale ya molumwenkuni.",0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00554,"efiilimi xineexi"" mukuthaano wa laaku changjin” ennipittikuxa ethale yohiirya ya ekhotto ya okoreeya ni oxintta woowaarya",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00557,"owiiwa okopihiwa musurukhu kuveerunu wa elapo ya mosampiiki onnitepiha ohaawa elapo yeela, nilavulaka nikhuru na teeni yeela epakiwe elapo ya mosampiiki.",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00558,ofalyari wa muupuwelo wa ororomeleya eri wa opacerani wa yootakhala ya uixe.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00559,mário coluna oviira etuniya,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00560,"anamwane mamosampikhaano ""annikhuwela""  mwaha waa okhapelela",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00564,saawu toome ni piriisipe: omalamalihiwa etaakwa onoopopiha mireerelo soovirikanasa,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00567,"parasiili : wixilihiwa wa neeraru contrat isisapo sa epasagi yaari yoohiwali, masi epaale ni ipoopa muhina mwa meetoro",1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00568,nahapaari ni anamalaleerya mamosampikaano tanooneyaxa mowoopopihiwani mwaakha wa mwathanle,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00569,ohookwa shimon peres,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00570,faransa: atthoro anilyihiwa nakhuwo oopittikuxiwa onninnuuherya wiipiwa vanceene,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00571,afiriika ti suuli: woopola wa afrikaans,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00572,"fmi ""onimuttottopela"" mosampiki",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00575,atthu eriyari ya maparasileyiro ari oohittuna olimpiiyata.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00576,"nakhuru sa ophaka isukhiri anninuw, nave nto mixankiho sinceene, anahima anamoona.",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00577,musareyo wa maasi woowiiva atthu athanu ni oopwanyula impa sa atthu oophiyeryaka 1800 elapo ya oteete.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00578,atthu ariina hiv akhalana oweerya voviriha né ekuumi yexikhaani ni mukhaleelo owilipiiha wakhuleele milooko.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00580,eliivuru ya ungulani ba ka khosa eliivuru emphwanyaneya eriyari ya 100 sootepa sa iromanse sa waafrika ya eseekulu. xx,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00581,amwaavano athukumana oxiina wiira aruuhele exikhaani mwa sooyeleela sa mireerelo sovirikanaasa ni aninuuherya wuraana vamoosa ni ephaattu.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00582,covite-19: mosampiikhi ni kaapu veerete ohaarepela atthu asyaa a eretta,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00585,"koronaviiru: atthu owaatta yaphwanye eretta yeela elapo ya ameerika ari anooriipe, maxipaaniku, masiyaatiku ni aneene elapo yeela ya ameerika.",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00586,atthu omosampiikhi wafiriika ti suuli vohiroromelo mwaha wa ewarakha ya erumeeliwa ekwaha ya okhopeela,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00587,akohikohi wa senturu interenasiyonale ya kharaka yotthuveliwa ya eyolya ya olumwenku,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00593,mosampiikhi onnireeriha  epareke nasiyonaale ya arikipelaku ya pasaruutu,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00594,xooku olimpiku wa eyiita : namphira wa elapo ya kanata onnaanyeriwa wiiya mukukutta wa elapo ya koreeya tu suuli.,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00595,matunisiyaano ahiiwa ni eparkha aya muhina mwa ekhotto yowanana koviit-19,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00597,vicente ramya okhwiye mpuwa mwa mukukutta awe olelo omaputo,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00598,mosampiiki exitaatu emosa ya waafirika erina ehaali yoowalamela mwaha woowaattanela sookophiwa s'atthu otheene.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00603,ong owoopolaa anamwane asithiyana ovikana 100  mothelanani mowaakuveya omanica,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00604,onu onihimya wiira aphiyaka emilyawu emosa ya  atthu anihoolela ohikhalana eyoolya omosampiikhi,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00607,niceeri: atthu okwa 12 ni 12 mortos e 27.000 othamihiwa mapuuro aya mwaha wootothowa,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00611,woova ni ohikupali: okhala wa maceyoriciyaano okaali,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00614,mukhalelo wa  muhakhu wookophiya enoohoona empereesa yuulupale ya itorokarponeetu,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00615,"anamatholathola ahoonenela ehimye yookhalana miyaakha ikonto 1,5 yaari ya muluku kereku okisirwa ya opulukaariya",0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00616,"alaleerya araaru anti- koopa animuthonya parasiili mwiriira otharatharana mulattu wa itumereryo ni, vohiithu, anihaayasa woottwawela ekosnsulaatu ya wuurukwaayi",0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00617,athiyana anitthikela ohooneliwa vatthu munkoni woopwanya muteko.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00619,"alipo anaakiherya soohala siivili anitthapela wakhuleliwa wa "" nlamulo na interineeti""",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00624,mosampiikhi: wa anamwane vakhaani aniyariwa ni sida anikhwa ahinatthi opaka miyaakha miili.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00625,ukaata: eporoceetu ya nlamuulo anti- keeyi yootthika,0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_00630,"ni ohikhala murettele ni wiilyiha, asiiya senteraale onimwireherya wiirelaka mwaha sa muteko okhanyereriwa ni opotthana wa mukhoveni",0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_00631,maankoolano amphavela otatuxa ekontentoore wa miteko soopakiwa,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00633,anamataphuliwa internasiyonali nnaalevelela atthu ninvekela okhupaareliwa nyusi wa namuwehaweha moothiyana ootuthuwa.,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00635,barack obama: olamula elapo ni inamuna soohireerela siirinhe ehasara ya muhakhu ozimpaapwe.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00636,messi ti mphiira a eweero  wa ekwaaha yanethaneeli,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00637,"masu anipacerya wakiherya exariya ya ""esuruma"" omosampiikhi",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00638,"""renamo onivekela omala mituphelo sa kuveerunu""",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00639,"dos santos khoniwere'iwa, mukumi, onhimya kuveerunu awangoola",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00640,kuveernu ni ipartiitu kaapu-vertiyaanu sihoonela epaphelo ya dhlakama wa wuunuwiha mosampiikhi,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00641,enoota yooreerela wa koverno awankola woowikasopa koronavirus,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00642,anamwaane anli wa araaru anikwasa wa khuta nihiku oxiripitaali ya munisiipiyu wa openkeela.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00643,polooniya: sowaakhula sopaceriha mwa okwa wa muhoolel kaczy?ski,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00644,muteko wa anamapaka itthu soopwatthiwa ooparasiili annikhala osulu omaputu,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00646,"ankoola: annihala maasi, maluuxu, novileela?pusiina paahi!",1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00649,wamphula: misa onyohola woopopihiwaa alipa oohimya ihapari ya raatiyo enkonturu.,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00651,fidel castro ookela muliivuruni kwinensi ni mikhumelelo soowaatta sa mpaceliyo awe,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00652,mapoliisiya sul-afrikaanu oparisiwa wa iyaakha 15 sa otthukweliwa mwaha  wookwa mamosampikaanu.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00653,miaatte sinceene sa ninyoho wa khutamahiku onaapwanya athiyana,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00657,"parasiili mulipo ohaawa mwaha wa othanyiwa mulattu wa nikhuli nawe oxikoola, mwaruusi onikhanyereriwa wavekela muswamiho wa alipo ari yamwakaneele",0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_00658,atthu owaatta onaariipa mirima mwaha woosareya maasi mwaha wa epula yeela yonanen'ye epooma ya wamphula.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00659,eteparatamentu ya  mwaakiheryo wa eua onootthikela omukhaliherya kuveerunu a mmosampiikhi mwaha wa ikhotto sa opaaluma.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00660,"""ohookhwa mwene"" moniheryo wa okhwa wa kobe bryant ni mwanawe gigi",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00661,vamosa ni malamulo  mukhaleelo etakwa sookhala oruuhela muraarelo anamawaani ale omaleela oweva opwanya ekuluttu ya okalifooriniya.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00662,"""mutthenkeso wa visao mundial"" ni anamakhaliherya ontthokiherya maasi muttettheni mwa wamphula",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00666,wamphula  okhala  ipurusento  55  sa  mwattelo  ohilokasa  mikhalelo  anamwane  wootepa.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00667,othoowa wa mithali onoopopiha okumi wa anamunceene wankoola,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00669,nasa onnilaleerya moonenelo wa epalaneeta enikhaleya,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00673,mosampiikhi: anamahiihiya ekhotto aatthikela opaka emanifexitasawu,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00675,koolera onniwiiva atthu thanu omosampiikhi,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00676,exipitali ya lupanko  yoonhimiha wooperariwa mwaha wa ohikhala maasi,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00677,kwatemaala anikhupanyeryabokwa wa milookosene sa aximwali noovira muhuru opuro owikhupaarela wamwavano,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00678,blatter ohiisoomola.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00680,aneelapaha anihiya owurya murette omosampikhi.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00681,mureero ni omuhela ohoolo metrobus omaputu,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00682,"namitthaka artistiku awankoola onni liyaliwa, anhima anamwiipa oovuwiheya.",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00685,anriwa ole omphavela okuxa eletoroniku a russiya: anoowoloweliwa,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00686,aleepi arumeela nttaava na ekunya anivuwiha  jaime de figueiredo,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00687,"enoonaneya owela wa nkacamiho yoola woovekela musurukhu woohiphwaneleleya'', alavulaka nikhuru na senturu ya itekiritaati puupilika.",0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_00688,"eteyaaturu ya elapo ya mosampiiki yookhweliwa: ohookhwa namalepa ni taramatuuruku, henning mankell.",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00689,okapu- telekaatu: muttetthewookeliya naanakhotto ni khekhanlemo orepeliwa.,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00691,vano ohanle 20 macoco omosampiikhi,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00693,kasakixitawu onookela omwaatotari alifapeetu latiinu vavinraaya miyaakha 70,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00695,onu onnilamula wi elapo ya mosampiiki ennirowa ohaawa ni onnivekela musurukhu woophiyelela 254 sa itoolare wi akhaliheriwe atthu a elapo yeela.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00697,"niira na mphiira olumweeko oparasiili, ohisuuwela wa apiliisa onaapwanya anamakhoottela ni anamalaleerya ihapari",1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00701,venesuweela: ilataraato soowaliwa muhina mwa tuwiiteri anaamwi manyakunyaku atthikelaka,0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_00703,"ntoko ekhootto ya wafikanixitaawu eni yiiraneyaka, mixankiho sa iyuupuwelo sinincerereya",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00705,mirukuuxo sa ekixitituwisawu ni ohoverihana sinoonaneyaxa mmulaleeryoni mwa amwathaale waankoola,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00706,onu oothikilela miteko omalawi mwaha wa mavampiiru,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00710,nipuro ninvariwa muteko wa mateus zimba ookweyihera mulivo wiiya wa embraer wootumihoni wa matteekes lam,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00715,netizen report: matuuruku aniixiliha vowanana nlamulo na othaleliwa ni anikumiha watteliwa ekaruuma ya tuwiiteri a muhooleli elapo,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00719,muhupi: nipuru na kim jong-un onookela ohalana murokorawe,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00720,kovit-19: mosampiikhi owaakhela alipo okwa okumihiwa muttettha wa afiriika ti suuli,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00721,anamathokoca ahoonanela esiiri ya 'pirimu' alemaawu a stonehenge,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00723,ramos horta onihima virra muthanle a elapo ya okine pisawu ihoceliwe.,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00724,okwa wa sinekaraafika eriyaari va manyakunyaku omattiwa muvanyihano oluluwana ni nlamuulo na “maawu tuura” oparasiili,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00727,kovit-19 ophuleya wa evaaka ya neexexe wohiya mukhalelo wa okumi vamosa votepa oyeeva atthu ni vootepa myaaha.,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00728,meeka-seena oottotteliwa onivaha olelo etthuvo ya imilyawu 100 sa r$,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00729,"ilapo soohaaweya sinootepa sihaaweyaka, enihimya wa yoolempwa sa ilapo soohirowa ottyaawene.",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00731,arapeeye: manamuna a mapalexitiinu axittiwa aya mwaha wiyaawosa!,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00732,imiya imiya sene sa mamosampikaano ohisooniheryasa omaputo,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00734,"othoowa maasi muttetthe osawu paawulu, masi amakhulupale anikhootta otthuneleya okasoopa vowiitthokela",1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00735,"othowa wa mameetiku, onkhala okacamiha olooliwa eretta yoovyaluwasa wamphula.",0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00736,exitaatiyu yohikela mmpuwa': piliisa parasileero omuwaleela ativiixita anti- koopa,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00737,""" vanaamwi tereem ohiviraka"" esinyaalo enilaleerya iphiiro sokhopanasa sa maluuku owaarya oparasiili",1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00738,"xonesipuurukhu: nahapari simião pongoane waahikhanyererihiwa omuvaha ""refereexiku"" poliisiya.",0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_00740,ferroviyaariyu a omaputu ooxinttiwa ni patiriyotisi wa ruwanta ni ookusya orowa ohoolo wa meyiyas-finaale,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00743,maxeyooloku maxineexi ahoonenela esupuxityansiya orikaaniku mwa meteyoriitua omaariti,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00747,xapawu onimutthukwela voosuweliwa ukaraaniya mwaha woomulattaniha mweene a ekhotto ya hitler ni mussolini,0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_00751,miira othapela  olattana mmphira muhina mwa nlaka na mphiira kan otnyerya opweteya wa atthu 3 o kine-pisaawu,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00752,wootta ohapwanya variyari va anamwane a elapo ya omosampikhi.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00754,"koviti-19: mukhalelo wa kalamitate waankoola ""tiyowoo""piha, aahima ale ansuwelaxa",0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00755,muxintaano wa 2014: atthu oparasiili anninyohola elapo ohitthokiha,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00757,muraano wa ipiliiyaw20 sa itoolari variyari va xiina ni kiine opattuxa mixaakiho,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00760,onasusukhi ohuncerereya oximooyu,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00762,mwalaano anamunceene awankoola oniphavela  mukhatteya nahapari rafael marques,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00763,kenneth otanyerya ookwa mmosa ni imiiya sa ipa sookurumuliwa ni nnakhala vakhiini 15 sohikhala mpantta otthunyeliwa omosampiikhi,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00766,mapuro ale yaakhaliwa khalayi a moolumwenkuni animalela wooneneliwaka elapo ya oturukiiya,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00767,"anamuteko a ekaafirika enittottha ya okampooca enaakhanyererya h&m, walmart ni zara mwa esalaariyu emoosa yanttitthimiho",1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00768,ikokhola siniira sooneyaka muramphani wa wamphula nnaamwi olaphiwaka.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00772,manchester city ooxintta eliika inglesa,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00774,"cristiano ronaldo, poola a ewooro wa 2013",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00775,muthokiho ohikhala akuveerunu wa ekolooxiya yoothuku eniphuweka ithut opoorutu riiyu,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00780,eu ti elapo yoopacerya okhumelela myaha ipheya soophiyeryaka ikonto 100 mwa nihiku nimosa,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00781,"girão onihimya wiira impeachment de alexandre de moraes, wa stf, ookhalana imilyawu 3 sa asinatuura a mukhaliheryo",0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00783,namaphuka milathu a waafirika wa okuusini ohinyererya mahiku oophuka milattu sa mosampikaano wiiviwe.,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00784,muthiyana trans mukaafirika mwa osaselana waserpeyiicawu: othalavomosa wootthuna nnakhala paahi soothereriwa othanla?,0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_00786,lipeeriya: eporoceetu ya nlamulo“mate os gays” nomwareeleya,0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_00789,"maakhuleliwo oluluwana mi okwa wa mandela:eduardo dos santos ""ootepeene  yiiniwa muriima""",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00790,"alipo ohiya mittetthe saya  wala atuuphe mukano  atthu omosampiikhi  ari afiriika ti suuli, ari vathi va ilataraato ya okhanyereriwa olovoliwa attikiheriwaka owaani.",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00795,ovolowa wa exitaatu uniitu enaakanyerya ikumi sa mukuwoni a makupaano,0,1,0,0,1,0,"['disgust', 'sadness']",train
+vmw_train_track_a_00797,alipo ari maxipesiyaliixita anikaasopa yoothananiha eri ekanaale ya oxitapuuli enookarakanyula mukhaleelo wooreerela ni enoohula ekaaxa ya epantoora ya xeyopuliiitika,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00799,"""nuula ephome""  onniruuha ekhotto wamphula",1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00800,"cristiano ronaldo, namattikhexa muulupale molumwenkuni wa ikwaha ttaaru",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00801,ekamiyawu yoowiiva atthu 11 mmosampiikhi ni namweettiha khonooneya.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00803,eua ootteeliwa ni wakhaliherya aretta arina siita omosambiikhi,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00805,xiaomi oomuvikana apple omerekaatu muntiyaali ya smartphones,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00806,ehapari etokweene ya oparasiili yoomuhiya feyisipuukhi ni enamootherya olaleya   ‘fake news’,0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_00807,mosampiikhi ohapoopha anamwaane ikonto 700 oluluwana ni namaretthe .,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00809,"alemanha: ""alemaanya"" onnoopopiha onyohola wala wunteererya miteko sikina sa elapo ya rússia: ""oruusiya"" mwaha wa oheleliwa evenenu  navalny.",0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00811,anamphira a elapo ya olanta ahaalolosa anamphira a elapo ya xile ni ''atthwawela'' oparasiili.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00814,moopopiho wa epompa oseeti wa fifa,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00815,fixitula opixiteetirika muxankiho wa ekumi ya atthu ootheene wamphula,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00817,wikinotícias ni ekunya onnivikana wikinotícias ni exipanyooli,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00819,sonta ruusa oomorela opasiifiku ovonyenle mukwaha a omaariti,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00822,meexiku: mexiixilu ni onyokhana muhina mwa ipartiitu puliitiku.,0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_00825,ohookhwa augusto matine,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00826,ekwatoore: ophulaka miyataano seemuttuttimiho vamosa ni kolooppiya,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00827,"kaaza: elapo emosa enoonaneya othowa eyoolya, atthu ophiyelela 250 emiyasene annikacamiheya mwaha nkhalelo yoola.",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00828,eua oolaleya inokusawu koviti evinreene vasina ya ovareliwa emerexenciya,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00830,ankoola elapo emosa enooniherya  evukuwa    mwattelo wa  freedom hause.,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00831,soowuriwa siniruuhela ikuru sinniwereeha mayino,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00836,ohokhwa diego maradona,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00837,ferroviyariyu a omaputu oomuxintta as towuwanes ni onnithurumela okwalifikariwa ekwaha ya nenli ya pal,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00838,owokaniwa nikhuru na amasupayi oomosampiikhi oniiriwa khonooneliwa vatthu osoma.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00839,koviit19: alipo anikhala mitttetthe sa oluwnta  ni  osumpe khanisuwela mutumereeryo  wa  owanela ekwerere.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00840,"""amusi amosa aakhala omwaakakhanya mwanaya, ooyeva, mwaha wa eliituru emosa ya makhura"" omosampiikhi",0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_00843,"mosampiiki ""ephiro yuulupale"" ya heroyina",0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_00844,"cr7 oomuvikana pelé ni maradona, hoothe, mwaha ikoolu ophwanyaawe muselesaawu.",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00845,interpol onaaphelasa anamwiya wa elapo ya omosampikkhi mwinternetini,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00846,moopopiho musya mwa wiithalapwa wuuluma othi wa aasiya eyaakha ya 2017,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00847,iyaakha 50 wa weettiherya wa nameekhaawe oparasiili: matata ni mmayithoni mwa mafaranseexi  mohaxiwani moparasiili,0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_00849,aretta ni ohiwerya okhalana mirette osuuli wa ankoola,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00851,michael schumacher ookhuma oxiripitaali wenno ahaaro okhala,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00852,muraano a telekumunikasaawu onihooleliwa ni atthu ohisiliimu onixiitta ekhotto ya ehantiisi ya exariya omeexiku,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00854,ankoola: mapereso puliitiku anitthikela owananela okumi aya,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00855,soowateeriha  interneeti eyaakha ya 2019: iitiiya onikeleliiha ohoolo eriyaari sa iilapo siiri sootepa omuwateeriha interneeti,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00857,"okhuma osuweesiya orowa omeexiku, atthu ephattu anithalakaserya mulattu xiini onimalamaliha mattaava ayasa",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00860,mwiinano wa oresaanu karisiya enitthukuliwa wa iwoora 24 wa khula mahiku mpakha mahiku yeettaka 6 mweeri wa mayiyu.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00863,axunku anceene anivava aakhuruwela mipantta sikinaku sa eua,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00864,"enama parasileyira ti yootepexa osiva olumwenku wootheene, onihimya temer",0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00867,mosampiikhi: onu onpheela ikonto 30 ya etoolare woowira  yakhaliherye atthu ale oohaawa wa epheyo ele evinre.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00868,donald trump onorowa okhwaranya ewarakha enikhottiya othamela eua.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00869,"“ orupihiwa wiirelaka oxinttana"" oruuhela okwa wa axiiwali anli oparasili",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00874,benjamim netanyuha ohootheriwa opaka ekiriki ya ekhotto,0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_00875,mahiku  ari  19  mweeri  wa  netha  ni  miraaru:  olumwenku onattittimiha ikonto  sa  anamuteko  oothunku,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00878,ankoola: othapelakamweeri wa athiyana awankoola ni ipowesiiya,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00880,mpantte mulweene omeexiku onihawa ni miriira sa iteetere piili variyari va mweeri mmosa,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00881,kovit-19: oms oowerya wiiwanana wa miili imilyawu ithanu ni iraru sa toolare wa  vasina ya eretta,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00882,etala ehaakuxereriha anamwane imiya imiya sene para opetiyatiriya ya oxipiritaale ya openkeela,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00883,alipo oohiiyara ookhanyereriwa operu annirowa waavya exariya,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00884,yosoomwa sinikasoopa miyopoopiiho wyowaatte ihamela okathi wa omwaruusi omosampiikhi.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00885,josina machel  variyari waari athiyana 100 otepeexa ottittimiheya a  eyaakha ya 2020,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00887,"mosampikhi: albano carige, muhooleli musya opooma wo peera, onlemeliheriwa oyense wa ekhulupale meelo",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00889,covid-19: pooti okhwa namwane imiya thanu ni mosa nihiku nimosa sa miyeeri thanu ni mosa sinirwa,0,0,1,0,1,0,"['fear', 'sadness']",train
+vmw_train_track_a_00891,itaari soolikanasa soluluwanyiwa ikereeca ni oteeli sotanya yowoopiha o siiri lanka,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00893,epaariki ya nasional ya koronkoosa eniphavela wunteererya miira otheliwa anamwane.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00894,"alipo aneettiha ipakhiira a wankoola ohiya oliviha nimwaleyo mukhalelo wa kovit-19, okhanyereriwa""oliva ikonto thana moosa sa ikwansa .",0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_00895,mário coluna oniphwanyaneya onari nkoomani,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00896,feroviyariyu o mapuutu kampiyawo owafiriika muhina mwa  pasikeeti axaana axithiyana.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00898,mosampiikhi  omphela ovasinar atthu mpkha imiilya 16 wa eretta ya covid-19,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00899,manyakunyaku mmamikukuttani sa opooma wa omosampiikhi,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00902,ohokotthiwa tho mukweyihero a mukhaleelo etakwa mmosa muttetthe wa amasooniya,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00905,ewuroopa: ethowa muhakhu onnivenxa ipuliitika siniwateeriha ovolowa wa atthu,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00910,axensiya nasiyonaali a patarooya ohoonanela ereserivatooriyu epheya,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00911,mwiiha sa evyaluwasa ni oraphiya  omapuutu soovukuwa.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00912,namalepa mia couto namamalela wa ntthuvelo wa sawu  paawulu ya literatuura.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00913,kuveerunu wa elapo ya mosampiiki  okuruxa ihisapu ya ephaawu.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00916,filipe nyusi omphavela okumanasa ni dhlakama masi omphavela wonaneya mureerelo,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00917,mwavano mosampikaano ophwanya ekwerere yohoona novira miiriira ole okumihiwa mayitho ni alipo ari anamatumiha a mireerelo sa eruutthu,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00918,parasiili: kuveerunu ohikittha esalaariyu ya mameetiku a mukhaleelo enamunceene wa ekumi,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00925,"alipo a miruuku athanu okathi wa vaano mafirikaano anithokorerya omutthu, nttaava ni ekuluttu yoyareliwa",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00926,"mukhumelelo wa niinaano: cartucho de super mario 64 onitumiha wa emilyawu 1,56 ya itoolare",0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00927,alipo othaleleya anithoonya othoowa ntthitthimiho ni waamini wa apinaatamu oluluwana ni  maphattuwelo wa nihasu orupihiwa athiyana wankoola .,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00928,weettakasiwa mwaha wa otumihiwa wa  atthu omosampiikhi,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00930,etakwa maaya omeexiku teeri enithoonyeriwa variyari votumereriwa wa mireerelo sa ephattu mahala a muraanyo a etaakwa,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00931,"akoola faala soo-"" anaaka kharowa nnakhala osikola""- tr. adriano manuel",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00932,"okuumi wa luaty beirão, mulaleeryo ankolaano ori ni epwepwetthe ya etaala, owuumaseya vanceene noovira isuumamana tthaaru ohiilyaka nnakhala etthu",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00933,onaaniheriwa otuphela wa anawiiye omosampiiki.,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00934,mitikiniho sa ohelelaniwa evenenu sinootepa wuncerereya mmosampiikhi.,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00936,masiviili ookwa mwaha wa ohaaxiwa mmekhuuluni waninaano yaarisa alipo ohaaxiwa ni makaari masya a trump muttetthe wafikanixitaawu?,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00937,ohooneneliwa muxovo wa niinaano wa sentopeyiya elapo ya oromeeniya,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00938,exiitu:mubarak onahukhumu apoovu ni owaaliwa wa ipaako ni othowa eyoolya,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00940,mosampiikhi  ti  palop  ntoko  opweteya  wa  kovit-19  nnamwi  ankoola  okhalana  mwattelo  wa  mwaattelo  wa  makwelo,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00944,covite-19: mosampiikhi aaphiya atthu 606 ookhwa ni sawu tomee ni pirinsipe orina atthu acexe akhwiiye nihiku nimosa,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00945,epaako yoopacerya ya eleeti ya opankalateexi enooniherya mixankiho vahinatthi opaceriwa,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00949,"mulopwana mmosa wa kine ohookhwa okathi amonaawe mphira aattikhiwa ni porutukaale - irawu, mutelevisawu",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00950,michael schumacher wahitthikela mukhaleelo exikhaani masi mukhalelo awe onitepa okhala wohisuwanyeya.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00953,nasa onookela orihela nsipo na beatles osulu,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00956,axitokweene akapu-verete anthola-thola myaha sa eretta sa malaariya,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00957,"zé du, muhooleli ankolaano anitthikela okhalanvoomweneni wa iyaakha 38, ohookwa oxipaanya",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00958,alipo a wankoola oxaka eene vamoosa ni yookhala othoowa wa  mireerelo siilyiiwa soosukiwa.,0,0,1,0,1,0,"['fear', 'sadness']",train
+vmw_train_track_a_00962,"okuxa muhakhu wa ekaaxi woowira mulive  muhakhu waanene, opheela omuhaaxa ole onkhala elapo ela ya omosampiiki, ohimmye cip.",1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00966,boom imopiliyaariyu olosanxele anoopopiha ihakhi ya okhala wa alipo ottyawela a atokweene ohikhalana etthu,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00967,feroviyariyu omaputo owana  masi omora ni  zamalek wupaceryani wa bal,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00968,kaana: elatarato ntoko ekaruuma yooxuttihiwa manamuna amukhalelo,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00969,nakoso eriyari ya faransa ni mosampiiki pooti ophiya imilyawu 600 sa iweero.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00970,"omala sowoopiha wa opuro khiserya wa irukunuwelo, ephattu oluwanta",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00971,"elapo yo wameerika ni oturukiya aniwanana ovukulela owana-wana muttetthe wa ankara, osiiriya.",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00972,raatiyu owixeetta onihooleliwa ni mmiravo capuneexi oninuuherya opwanyiha muraarelo muttetthe wa amasooniya parasileera,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00974,reyinu uniitu onimalela ohiya itanki mwaha wa akapwitthi siperineetika,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00977,anp onilaleerya muupululo wa ekampu enitthuna okhala yoowinnuwexa olumwenku wootheene,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00980,ruusiya: nvaanelo owiiva mwahawa soowurya sinihapala ni oviiha,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00982,itumereeryo ya osiiriya sinittiyela ekhotto ya iwarakha soowanana apinaatamu,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00984,ukaraaniya: ohaawa wa mataarutaru o kirimeeya,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00987,mutthenkeso wohikhala oofalume onnathoonya aweri opisiha okhalela wa mitthenkeso sa mulaponi wahu wa miteko sa nakoso.,0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_00988,kuveernu ni mapanifikatoore anihaavyasa wiiwanana mwaha wa esisapo ya phawu,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00991,mosampiikhi ahimananiiha omoomola nahapaari okhopela nuumala orevokaar nemereeryo nawe,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_00992,washington redskins oohiya nsinana awe mwaha wa miwehaweho rasiixita,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00993,""" niirisi vootepa okhala ntoko vahinakhale ahu"": coral herrera ni ekhotto ya mwaha wolikanasa wa alopwana ni athiyana",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00994,"wamasooniya parasileera, ovarihaniwa mihuuru ni ekwerere enihooleliha miriira sa ehasara",0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_00995,evasina emosa yoolola oretta wa ettekuxa ehehereriwa elapo yo purukina faso,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_00997,oxinttiwa parasiili wa mixinttano sa molumwenkuni onmalela ni manyakunyaku,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_00998,"wa mukhumelelo woopacverya, minupi sa atinasoowuru ni munupi wa nrattha soophwanyiwa owaafirika",0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_00999,aximaayi anamalaleerya tthukwelisa wankoola aniwateerihiwa wixuuliha,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_01000,ekonya yuulupale yookela mukampu mwa koolife mukano wa ofoloorita,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_01001,"woopopiha wa ekhotto siviili enitthikela omosampiikhi, apinaatamu ottyawelasa",0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_01007,anamuteko akhalayi awavíkola ya wamphula aniisoona owokiwa ni kuveerno,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_01010,ankoola: namalaleerya omanakasiwe waattamela epuruma puruma,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01011,pilisa  omosampiikhi  oniirela  mpantta  wa  orimeela  wa inyaka a  erinoserooti.,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_01012,ithaatuwa annikhumelela mwa ananakoso a mapantta,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_01013,kuverunu a wankoola omphavela olikanyiha musurukhu ya waakhaliherya martixita.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01014,nttetthe wa uniyaawu ewuropeeya noovaha musurukhu woophiyelela 734 imiyasene sa ewuuro elapo ya mosampiiki.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01015,marooko: muttetthe ya tanger oonihoolela oosareyiwa  woophova,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01016,nasa ohoonenela epalaneeta ya namuloko ya esixiteema solaare,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_01018,ilapo soowiirana sa waameerika ni wiiraana weewuroopa aninyohola yoolakela ya niceeriya yoomuthikilela twitter,0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_01020,wamphula: anamarakala  oohikhalana muteko woovara,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01021,anamahooxiwa mwaha wa mutaseke itayi annivoliwa etala omanika,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01022,mwanamukhaya kenneth ookela omakomiya ni omusimpwa wa ephareya ni oopacerya ohamanya.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01023,"kanata:"" orimeela"" wa athiyana mantiixina",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01024,"frank paco: ikwaha sootheene ikwaha sootheene kiniiwaaka mitthaka soohirrera mwaha wa ikhotto, muupuwelo ni mavekelo anrowa wa atthu a mosampiikhi.",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01025,anamaxaya oowiiya aareeriha muteko aya omosampiikhi.,0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_01026,joseph blatter ti otthikela othaliwa vasya ni mukhaleelo wa nfalume a  fifa,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_01027,owela wa esisapo ya oliwerya wa ikhokhola ennaxankiha athu a wamphula.,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_01034,mosampiikhi anniwelela orukunuwasa wa epheyo,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01036,mosampiiki eriyari ya ilapo sootepa oweriyiwa ni vih,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_01038,"mosampiikhi: anamurwa aninyanya elapo, anitthikela akhalaka omakomiya ni avenxa epantera ya okhala wamwiisilamu.",0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_01039,areeti amihupi wifi  annikarakanyulasiwa wa avaana,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01041,miteko soolima oparakwaayi anoonaneya owalameela ni aliimi anikhanyererya wii kuveerunu opwaanye iphiiro saya,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01042,covite-19: miyaha sa oretta wa oretta sinnincerereya mmosampikhi mpakha imiya xexe ni thannaxexe ni okhumelela miloko mithanu ni thanu wa iwoora miloko miili ni xexe sokhiserya.,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_01045,piyamwene elizabeth ompaka bill gates okhala kavaleyiru,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_01046,noveleelihiwa wa top moteeli  oniireliwa opuro othokoreeriwa olipo ari naanepa asaawu viseeti anoovelela wii itumereeryo ni mapatiriyaaraka taani okhale mmpuwa mwamphiira,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_01049,anamurwa mamosampikaanu wafiriika ti suuli anookhalana epilyeti yoowasuweliha,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01051,afalume a wafirika tusuuli anvekela muswanmaha wa samanyala sivariwe wa mukhalelo atthu a ilapo sokhopela,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_01052,kheeniya: onyokhana maloko ohaapaka ohaawi oopacerya muhina mwa iterineeti,0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_01053,muhooleli a mwalaano opaceerya awuxtaraliyaano anikhaseeyiha sohinyalasiwa sa ninyoho muhina mwa elapo ya siiri laanka,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_01055,mwaattelo wa mwaatakareliwo a matakisiixita onivukula miteko epooma ya wamphula.,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_01056,anamaxaya owiiya aniivasa 200 itthomottho abatem omosampiikhi,0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_01057,' muthiyana - oorumeela: nikhuru na solemphwa sothaleeliwa' onihinya ninyoho nowanana athiyana ohisilimu ôta - wameerika,0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_01058,mapuutu : othipeliwa nluku noopacerya oniireliwa otekiwa exiripitaali yooluluwana vamoosa ni hiv,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01059,mulipa onikhala eua oothuma ipilyeti 20 sa elotariya ni ooxintta ivaara 20,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_01061,carlos agostinho do rosário miniixituru-oopacerya vasyaa,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_01064,porokarama sa wataaneya sinnakhaliha athiyana akhweliwe ayiya wamphula,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01065,marooko: opweteeya wa karniseero basri,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01067,elo oorimeela mmwirini xeneyalooxika wa pterossauros ohoonaneliwa,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_01070,"""okhwa etthu anlipelelaya atthu ootheene, maxi okhala okathi ohanle na nihiku nanyu khahiyo,"" vanessa bryant",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01072,guinness: parasileyira ooxintta mulapuwelo wa muro wa lava,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_01076,opuro oneemela akareera mohitthunyeliwa nnakhala moohireeriheliwa ahooniherya ivirikaneelo variyari va ikuluuttu sa osaaw paawulu,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01077,amahoolele a w'afirika anipaka nikhuro na nakoso ootthukuliwa,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01079,ixipitali sa malanxe khasirina musurukhu wii elive anamuteko,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01083,covid 19: nikhuru na athu anceene  aniwana ni omalamaleiha ohuila.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01087,repupilikaanu ti othanliwe eua nookhwa,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_01088,mmorelo wa epereetiyu ya wintiya woowiiva atthu 4,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_01092,anamihupi akhalayi ni muhooleli a musurukhu mamusampiikhi oruusiya arootthukiwa mwaha wa okuxa mihakhu sa omutekoni.,0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_01093,epanko yoomosampikhi enincererya etaaxa ya ixuuru,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_01095,atthu muloko ahookwa mmosampiikhi okathi wa manyakunyaku variyari va epaanca ya frelimo,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01096,"mwiriira  wa  nteeke na  lam,  natanyiwe ni ohilokasa variyari va ekaruma emosa .",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01098,ameerika ankhomaleela mwiwanano sotthokiheya ni muttetthe wo afirika.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01099,top ten nsipo wameerika: beyoncé tori namathanliwa okaramy,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01100,koreeya ti suuli ni xiina:  soohisuwanyeya soluluwana opweteeya wa mukhulupale koreyaanu,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01102,“musoro owuutta” onatanya apinaatamu aroowaka mpikatani ni  ni khiyakhma murukureeryo o dans toome,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_01104,axiitthu siika aniwoopopiha alipo ari ni ehamela oparasiili,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_01105,elapo ya ankoola oomala mwaapoophe wa eretta ya feepiri amareela.,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_01107,okapinta wookhumelela mwaakiheryo wa ihakhi sa atthu.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01109,mosampiikhi: otharathariwa mwaha soophavela otthukiwa reeper azagaia,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_01111,obama oomuvaha muteko wa supereemu a ilapo soowiirana latiina oopacerya,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_01112,al shapaap aaphutula erexitawurante ni aawiiva atthu 10 osomaaliya,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01113,kuveernu ni renaamu aakhala ookwerethasa olelo wiiwanana osya ohikhala ekhotto,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01114,romário oovariwa wa antidoping,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_01116,muteko mpeya wa banksy wootumihiwa mwa iminuutu 10 mweesihiwaawe,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_01119,sinaatta myiha sa kaakuru sinaaxakiha amakhulupale mamosampikaano,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01120,ankoola: wixiiliha wa amiiravo voowanela ikhacu wokurumuliwa ni nnyooho,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01121,kuveerunu ni renamo aneetetela mivaanelo voohikhala alipa olapelela,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01122,ohookhwa george michel.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01127,hrw pnyohola othanyiwa wa atthu a nikhuli na ethatuwa mmosampiki,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01130,mateus esteita onnilokiherya ni wiirela mpantta webinars soovirikanasa wiira osuweleke ni waalipiherya amiravo,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01131,' wiikawa wa wiliipiherya' ti yowiiriwa mpantte wa maruraliixitz wiira okhalihiwe miriira siniwaneliwa mantiixna,0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_01134,porokaarama muntiyali wa malyelyo onnilaleerya wiira wankoola onikhaliwa woohaawiya mwaha wa muumelelo wa etthaya okhuma mwaakha wa  1981,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01135,anamulevelela a elapo yootheene anikaxari ohaaxiwa wa masupayi  oomuro wa oxaneyiru,0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_01137,esosiyetaate siviili anikaxaari otthukiwa  matelekaato puliitiku 18 mmosampiikhi,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01140,aafirika: axiruuxi anceene amuranve hiv,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01144,palexitiina: mapolokeero okaasa anilaleerya woopiha,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_01145,ncoco nookonxelariwa ni permafrost wa miyaakha soophiyeryaka ikonto 50 ti noowooneneliwa oruusiya,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_01149,inep onookela okuruxiri eporova ya kantitaatu onikela oliyala nuulumo na ekateerunu ya enem,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_01150,"manyala a "" inuuku"" aniiphiya mipuurulo sa makwankwa muhina mwa nlakana ekampaanya ya operesiteeti a okooxita riika",1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_01152,okupariwa wa ovenesuweela onihaawa ni woopopihiwe okumuhiwa mpaani oparasiili,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_01153,google oomoomola enxinyeyiru olavunle wiira intelixensiya aritifisiyaali yookhalana muupuwelo,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_01154,"nikhuru na onu, nootthapela ovahiwaka mphurelo mulopwana anaakhula nsina na  aldo marchesini, yoola meetiku ni nlupa  wa tiini (phaatiri).",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01155,"miyo namasuwela, elenta enirimeela.",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01158,"kathoowa akfuuko a muhaakhu wookhala otanyerya miteeko solooliwa ekwereere a sida, omosampiikhi.",0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_01160,epwaro ya milattu ya kapu telekatu eniira ennasuwela anakhotto a omosimpowa,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01164,elapo ya oxapawu yovaha murette wa eretta epola.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01166,mosampikaanu ohaapaxari mwaha ataaki a munyokhanano a omuxikoovu,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_01170,arakwaayi: othanyana sa omiitiya iternasiyonaale iraneyaka ekoopa ya olumweenku,0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_01171,kuveerunu wa elapo ya mosampiiki owala misikitthi seyiya mwaha wi aniswali anamatakhali yaala awiivasa atthu epooma ya mosimpwa ta paraaya.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01174,mosampiikhi: oroyiha ota woohisuweliwa matera nlelo mulattu,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01176,"nikhuru na mphira anmeneni wankoola nimpacerya ni ""moono wolopwana"" orio-2016",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01179,muhooleli a epooma yokelimane  ammotherya pulisiya ophula epenewu.,0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_01181,"nikhuru na fifa nipattuxinwe ni aana oo...""",1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_01182,woova ni owehawehiwa waankoola : esenteraale 7311,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_01183,milaleeryo 5 sa alipo ottukiwa mapuliitiku'' wiira vahikhale mahove wii vahoonaneya miriira sohukhumwa ni evaraakaka yatooropa oparasiili,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_01187,"ithaatuwa sinitthikela woova , masi mwattelo mwa wakameliwa okhuruwa wamphula",0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_01189,onyoonyeya othuumwa ettikitti yoovolowanaborooka niira na amphiira a ekoopa 2014,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01190,namupakelela orina iyaakha 23 oopakelela esinali ya raatiyu ni televisawu orumeela ikaruma soovonyiwa mukokhola.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01192,kaapu telekaato:  atakhali awiivasa atthu owaatta ni amakasa epooma yeela ya makomiiya.,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_01196,wuumalani wa esumana ela ennirowa olamuliwa moonelo wa nlikwiti nenla niwiivale atthu ophiyelela 73 elapo ya oteete.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01198,mwaaxiitthu a korona we rdc ookumiha mulopolo owiice,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_01199,covite-19: peresitente oparasiili oolivihiwa muuluta mwaha woohinwara nancaca.,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_01200,"yaya touré, othaliwe ni mukhaleelo wa muliipo amuttikha mphira othaleleya afirikaano a eyaakha ya 2013",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01201,' paahi othamihiwa wokhanyereriwa!': alipo oleveleela a ilapo sookhopela onilaleerya niira na olumwenku na oparasiili,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_01202,ankoola: anahapari ohasariiwe  ni mwaaha sihinisuweliwa,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01205,kamarayu owala ixikola  mwaha  wa  wakameliwa  ni  nikhuuru  pooku  haram,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_01208,"koreeya: ohookwa tiratoore nooriti- koreano, kim jong ii",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01209,32% wa mamosampikaano aavolowekiwa wa mmawani,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01210,axiteroyiti wa mwinnuwelo wa ttattaaxi a osulu onookela ovira vakhiviru wa elapo,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_01213,xiina oniimana natiiri wokhaliherya alipo osoma mamosampikaano o wuuham,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01217,mwaniini a opuro enisukiwa anamwane ni ixaariiti sanamwane anilaleerya ohikhalana musurukhu muttetthe o wiila,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01218,"mosampiikhi onoopwanyaneya okhalana ""mikukutta suulupale  sooxikola""",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01219,epanku muntiyaale enookela omukhaliherya mosampiikhi wa soopaka sooreerela noovira ixeeyiya.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01221,dhlakama otthuna wiira murettele ori vakhiviru.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01222,anamuupuweli oomosampiikhi anhima wii exariya eneetta yoopuruliwa ni owerya wa poliitiku,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_01223,owaani wawe biden soophwanyiwa itokumentu ipheya sa isiiri,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_01224,parasiili : siyentiixita oimeele niwiraneya ataake o flotila,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01227,ikwaha sa iphareeya sa walupaaniya inihoolela okathi saanamexekurya wa eliimwe woovirikana mukhaleelo,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01230,mawuritaaniya: ikuuru sa alipo olipiherya ahaatakari alipo aniixilihasa voohitupa a moono woothiyana,0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_01231,mmiraavo onihasariwa ni xofeeri okapiify ya omeexiku,0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_01233,amiravo oomosampiikhi onvara muteko ni nthiti wii atatuxere ekekhayi wa oloha wa okhala estiliixita muulupale.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01234,ataaki a ikamiyawu ohaavulaliha atthu axexe mmosampiikhi.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01235,omwiiwelela telefoone oopacerya otthunuhiya elapo ya mosampiikhi,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_01237,"ohookhwa nadine gordimer, ntthuvelo nobel ya literatuura.",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01239,venesuweela: piliisa ohaavaracaelefooni alipo ovaanyiha,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_01240,vookhala isiipo sinikhoottihiwa ni maasu orimeela wankoola,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01241,mosampiikhi ovonyerya nlaka na ekampaanya onaakiherya otheliwa okathi ohinatti,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01242,"""omukumiha khilimani  mmwiitheni oniphwanyaneyaawe"" oolavula muhooleli a emunisiipiyu a niinaano.",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01245,exiitu: okwa wa mmiiravo mukalapusu mwa masupayi,0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_01246,eteteere yoohinya otansaniiya ni nlamulo nisya ninawateeriha apinaatamu ovaha  moonelo aya onlayiini,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_01247,atthu oowaatta anonyakula oparaseloona mwaha wa moopowelo wa okataluunya,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_01249,nakoso khonilola mumphiryani a waafirika,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01250,xookwè ninlelo mukhalelo awe tiyokheya osareya maasi,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01251,voomaliha  ohilooka wamapuliisiya oniceeriya: niira na waarya voovuwihiwa alipo ookwasa,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01252,nikhuru na anamavirikanya nihaahiya okhwa atthu araru ni anamavulala axexe epirisawu ya wamphula.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01253,mosampiikhi: ekumi ya samora machel  eri mpanta tesenyaata.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01255,a) atenke empa mmosampiikhi;,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01256,niceeriya: imiiyasene sa alipo ookwa muhina mwa manyaku-nyaku onimalaru mwathanle,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01258,masurutaato oniceeriya awoopola asomi imya ttaaru (300) yattyawihiiwe.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01259,ethale ya muthokiho mmosa okhale tokurumuule okume wa muttetthe a wankoola,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01260,wunuuwa wa othoowa nroromelo okiine-pisaawu onixaakiha makhuru a onu ni  cedao,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_01262,"olaleyaka mireerelo sa omatakaaxikare: epooma ya ikonto enimoovya, soohiimwa sinthonya ottyawa wa muhooleli",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01266,ahokotthiwa namarehererya athola-thola orumeela wa asomi a ayotzinapa.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01267,"mamosampikaano onikhupanyerya okwa wa naamphira mutokweene, , mário coluna",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01269,"alipo awivahererya oxiooniya, macetoniya ni oseeriviya anivaanyiha ikuru sowiirela otthikela oteka noovira ephovoovo  ni ehasaara",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01270,"afalume khamphavela owehawehiwa wa miteko saya, aahimya mateputaatu a nlaka na mmuttettheni mwa afirika.",0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_01272,xiina elapo yoopacerya wooniherya mpantta woovitheya wa mweeri,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_01273,ikokhosa sa palaaxitiku: mixankiho ekeekhayi wuukaanta,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01274,ohisuwanyeyasa iyyhu onnipwatiya 2900 impereesa sa omosampiiki.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01276,ole animutthara namalokiherya a muthinto amalaariya wankoola onnikhootta wootheriwa okalapusu,0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_01277,woopiha wa epompa wa oteeli rostov-on- don,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_01279,mmiravo poweeta a omosampiikhi onvara mueko wii olaleye eliivuru awe yoopacera.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01281,aafirika:uniyaawu afirikaana othatuuwa nikhuuru nimoosa na alipo a isepweere?,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01282,simão mendes: exipiritaali  eniyeleela mwa sootheene,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01283,"efuntu ya mapuro anivariwa miteko ya wataana portukeesa yoopwanyiha 10,6 imilyawu sa euro wa mapuro anivariwa miteko wa mamosampikaana.",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01286,manyakunyaku wiyeemeni onaapwanya vekeekhayi anamwane a elaapo,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01287,kapo veeriti: muuraano wa omiiserya vamosaru ni uniyaawu ewuropeeya,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01288,epheyo yophova wilipiha ehathaamiha  ikonto 120sa mamosampikaani ni yowiiva  44,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01289,olimpiiyata a otookiyu mwakha wa 2020 onookela muhantisini mwaha wa okhalana aniixoona okhala lgbtqia,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_01290,wottaseya wanamwane mwaha wohilya saana onnipwahererya mmosampikhi,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01291,namwiwa mosambikanu onhuwa ekipa ya  mphirya  weera  ovahe yothanla yamahala ni ekumi  yothweeliha para  amwaavana.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01292,esisapo samukhora seephiro sihiincereriwa omaputu,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01293,kiine pisaawu : nakooso ohitharihela ehakhi onilaleerya osikhini,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01294,axitokweene mosampikaana ahaatthukwela alupa ahapari okaapu telkaatu,0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_01295,mwaha sa exeeni akuveerunu mafirikaano anirwaaya othatuxaka okhala onakhiriime wuuluma vowithalapwa on- layiini? maana anoovelela mutumereryo aya,0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_01299,"araatti animukokhorela cláudia, ookotthiwe ni opuruleliwa mpikataani mwiriira apiliisa",0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_01302,masipo a adn a paulo flores annipkhwanyaneya mwa apple music,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01304,iya awe josina machel yoola akhalayi otthukeliwa mwaha wahooxa athiyana.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01305,muhoolele a kuukele onixukurya vootutuxerya elapo ya okuupa wiira olaleerya wixeetta wmuhina mwa iterineeti,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01306,afonso dhlakama onnilavula wi eparitiitu renamo yohoona ekoyi mmwathanle  yoola ovinre elapo ya wamphula.,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_01308,mosampiikhi: vohikhalana sinceenewiira othapeele nihilo noopacerya na mweeri a maayu,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01314,okhala wiira athiyana aniiliverya ekhotto ehimanle ohiyara annikhanyereriwa  wintiya,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01315,eminixiteeriyu ya otthariha milattu sa atthu owaafirika wa okuusini enivekela mutthukweliyo woohimala wa alipa aniwiivakasa mamosampikaanu.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01322,koviit-19 : koveerunu o saawu toome ovonyerya muthokiho a mukhaliho wa alipo anivara muteko sa omeekha ni pr onivekela mulimalelo wooneya.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01323,parasiili onimuula woonana mireerelo sawe sa ekhalayi sitthatuwxiwaka ettuurya  noopatta opuuro amuha rooye weelapo,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01327,ministuru mosampikaanu wa mpuwa onitthunela mukacamiho woowonela anamurwa aninyaanya elapo okaapu telkaatu.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01328,"ntteeke na vueling nokoteela vemukaakuvele muttetthe o pareseloona mwaha wa""eyuutte woovya""",0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_01330,"aana a muhooleli ankolaano orumeela 500ikonto sa ewuuru opuro weesihiwa, wooniherya othawali wowaatta ya amuusi dos santos",1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_01331,"mosampiikhi, ophova  okhaala  muttetthe  anuuluma ekhunya  a  mwattelo  ohiloka  wa  mukhaleelo  a  othawaali  apinaatamu.",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01332,"mosampiikhi: ettekuxa yoowiiva vowiiraka atthu 400 muhina mwa okathi wa miyeeri mithana ni miraaru , anihinya mwalaano wa okumi .",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01333,chanceler awaalemanya oomwiira asiteenti wa eski osuwisa.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01335,mwapoophe owanana ettekuxa yookhala ovahaka exikhaani mwa ohaawa wabmukhalelo okumi sanamunceene aafirika,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01336,"trending: ohookhwa malik b, yoola iira mpantta wa the roots",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01337,turukhiiya: omaalihiwa wa eparitiitu dtp onipacerya wixiiliha vowaattiwa okurixitawu  tuuruku,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_01339,mosampiiki ohaafetariwa ni kovite-19 ni otupheliwa ohitto ni eriyari ya elapo,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01340,anamarwa ari mavenesuwelaano annithaniwa ni ohithokoreryana onirowa nsuwa wa oparasiili,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01341,kartuniixita latuff ohopopihiiwa wiira onimookotthiwa mwaha owavaanyiha apiliisa militaari,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_01342,mukhulupale a elapo ya hayiti ohookhwa mwaha wa woopeliwa mpaani mwawe,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_01346,"""muthukumano opacerya""okhomoni wa okatti wa obama""",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01347,"matias guene, ookanaale ya mocampiikhi, oolola e peremiyo internasionaale ya woopowa wa imprensa",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01349,athakhali a nlaka namamwisilamu ahimya wi awokottha masurutaatu okaapu telekatu,0,1,0,0,1,0,"['disgust', 'sadness']",train
+vmw_train_track_a_01351,"masul-afrikaanu tari ootepa okhala maxenofopu waafrika, enthoonyihera muwehaweho",0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_01352,kirikxiitawu: anamuttettheni anisiliiha voowanana ikuuro sa mapuliisiya a osce,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_01353,parasiili oomooniherya noovela a wankoola wa ekwaha yoopacerya,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_01354,"mawiipi ni ipheeyo sa akaaphiyaka a palaaxitiku aphiiye openiisula ya parakwaayi, ovenesuweela",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01355,oxaya inama sineettakasiha ikonto 72  ya etoolare,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_01356,wa otthara ya waafirika: oraruwa evitikeleliwe vapapheloni ya ovaha,0,1,0,0,1,0,"['disgust', 'sadness']",train
+vmw_train_track_a_01357,"maayi onithalapwawii omookotha mwanawe muttetthe otirintaate ni topaku, oniphattuwa mwaha ovaanyhihana vooluluwana ni ninyoho, oloosowa, osikhinini mukhaleelo wa okumi wa mminepani",0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_01359,ohiiviwa namakohaxaxa ohimmwe okunyariwa omphiryani waafirika,0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_01360,"cristiano ronaldo, poola a ewooro 2016ya franse football",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01361,"mooniheryo emaani ohelereriwa: parasiili ovolooha ekoore "" ekoopa ya oolumwenku ya interineeti""",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01362,mwiri wa othowa omosampiikhi onnikhoottiha iseelula sa kankoru ya esiyo,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01366,"iraa : ihukhumu sinniphunya, ni musurukhu a wiirayiina onnimora",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01371,anamaweha amwaathanle animuloliha okwampa,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01375,otupheliwa wa isixiteema onnikuttumula esayiti ya @<username> ya nihiku na mwathanle omosampiikhi,0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_01377,#niñasnomadres: maricetiinu anivaanyiha vowanela ihamela wokhanyereriwa sa axiruusi,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_01379,metalyiixita a weetiyoopiya oniira wiira onnoova otthikela elapo awe,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01382,"anamwane""ahinooneya""  anookwasa mmatatani mwa elapo ya maxileeno",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01383,kovi19: wanyiheriwa othikela miteeko sosomwa onaxaankiha axitiithi omosampiikhi.,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_01385,"oxiile, eyaakha yoosoma nleelo ori variyari ni amwixuttihi aya akhalanasa mixaankiho",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01386,ilapo soowiiraana sinilopola mwaha woopwaha wa hiv/sida wankoola,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_01389,inkalateera : elikooputuru yoola omukunxe nneene ekulupi ya  leicester oomora aphutuwa.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01391,"kara-peretaanya onaalopola atthu awe wiira ehirowe opaaluma,omakomiya ni onsimpwa ya ophareya",0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_01392,a imaayi yanomanimi aniwanela ehakhi yowavitha anaaya variyari va ekwerere oparasiili,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01393,"hope solo onniitthukaserya aphavelaka "" owanana"" ipwilimwithi siniraviha oretta wa zika.",0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_01394,ohookhwa eusébio.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01396,muleeheryo wa dhlakama woovelaveliha,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_01399,muupuwelo owiihopha woopiha wa ekhotto ota wa muttetthe wa asiiya,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_01401,amiravo mamosampikaano annipaka  sikina mwekumini wa anamwane akhweliwe ni axipapaya wa opeyira,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01402,anammawaani a oriiyu de xaneero anikukhulana vowanana tturuwa isisapo sa ikhaleelo sonopooma,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_01403,"namapaka esineema, mosampikaano licínio azevedo oophurela ntthuvelo miili elapo ya marooko.",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01404,"orumeeliwa oohireerela wa soohapala siniruuhela wa khuta mwaakha 2,5 imilyawu sa anookwa",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01406,mwaattelo wa ipurusento 20-40% sa mireerelo sa mpantte a maasi sinipereteeriwa mwaha wa makwaankwa waafirika,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_01408,mosampikhi ookhala okhalaka mwa nlaka oscars wa ekwaha yopacerya,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01409,koronaviiru « moopopiho» murutthu a iyoolya wa ankoola.,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_01410,mooro woopatthiha musewu  ihononeyamo itthu sowaatta saari  mmusewuni muumu.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01412,"okhoottiwa wa "" othaala ohukhuumwa"" otthukiwa wa mativiixita waankoola,"" eniwulihiha muru oteene"", anihinyasa alipo okhoottela",1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_01414,ipula sinnihooxa omukoni wa mmosampiikhi,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01416,"ookwa  muttetthe  elapo  ya  onepaali oviikana 2,500",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01417,polokeera kupaana okhalana viixitu okhaattiwa wii ovoloowe muhinamwa eua,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_01418,mosampiikhi: khathoowa muhina mwa ipuliitika epooma ya eriiya ya elapo opeera,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_01424,"tirintaate ni topaku, kiyana: muthokiho"" amateroriixita"" wa jfk",0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_01425,schumacher onrowa okhala okathi wotheene apaxanreene mukhalelo ohinxukhuriwa mutthu aapaxari,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01428,"ohookhwa celina pereira, mmosa wa aratti aalupale eelapo yo kaapu verte.",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01429,meexiku oomuxintta kamarawu ni onlikana ni parasiili wa ohoolela muloko a,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01430,bunker a waalemaanya a ekhotto ya nayili  oophwanyiwa opeelixika,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_01432,kim kardashian ohiiyeriwa imilyawu soophiyeryaka 10 sa ewuru,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_01433,justin bieber oothukweliya mwaha woowettiha mukukutta ohapaliyene,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_01434,atthu opweteya aanli variyari va woopwa akapwiitthi muhina mwa nipuuwa na univerisitaate  ya okalifooriniya,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01436,joe biden onihimya wiira ti oolikaneene wiira omureerihele ameerika,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01438,maasa a epheyo polaare yoomalamaliha itemperatuura wa ikapitaali thanu ni tthaaru,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_01440,alipo aniweha myaaha anithoonya makwankwa ntooko ntthu enikhoottiha owana muhina mwa wamaliha asoona alupaale omosampiikhi,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01442,yokhala nnakhala ethu yothananiha  ni yoreerexa mahiku yeettaka 5 mweeri wa nayiili- ronaldo ni neymar  athapelasa niira na iyaakha.,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_01446,opahuwa ennitutuxa miloko  sa exariya,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_01448,fiifa ommunya ntthuvelo na omutthapela pele,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01449,eparaakha yothakeeliwa orowaka wiirela mpantte wa ekoopa ya olumwenku opattuxa osiveeliwa eriyaari va maperuwaano,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01450,miri somosampiikhi wa opasari wa erepuupilika ya oxina.,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_01451,nikhuru na marepulikano alepa ewarakha ephaveleya wiira okhottiheriwe obama mwaha wa othamiwa.,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_01454,kiine- pisaawu: nihiku interinasiyonaale na anamwane owaafirika,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01455,ohisuwela anivaha mukhaliho awe wiira vancerereye oraaviwa axiitthu hiv owiila,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01457,"atakhali okaapu telekaatu ampaka itthu sootakhala ntoko owiiya axiruuxi, onnihima seyive the xilitere.",0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_01459,"ntteeke na lam, niira noluttelela variyaari epooma ya omapuutu ni oluwanta worimeela.",0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_01461,camaayika onilaleerya mwaha awe opacerya wa etthuvo yaakhole,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_01465,vitoiriya ti elapo yoopacerya ya awuxitaraaliya yoopacerya ohukhumu nlamulo noluluwana ni ookwa ukunuxiwa,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01467,parasiili : paariku onithoonya oraruxiwa voohiloka wa athiyana ntoko muswaamiho wa okurumula ehamela,0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_01468,wuncererya wa anakhwe ni orava eretta ya kovit-19 enrumiha onyakula wa huyíla,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_01471,mawuxitaraliyaanu aaxinttasa nobel ya metisiina,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_01472,tout i paanni omokontthe fabiane: ntoko yoxoothiwa ya mwiterineeti emokootthe muthiyana mmosa a vathokoni vawe oparasiili,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01473,ti volipa opacerya vasya wa alipo otthyawela omosampiikhi viira vari atthika arooka owaani,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01474,wootupheliwa tho ohitto y'omosampiiki - ahiiviwa atthu araru ni mireerelo sinceene soopahiwa.,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_01475,azagaia:  reepi onyakuliha mosampiiaano ohithamiha muwa noovira manyaka muhina ma televisawu,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01477,"mosampikhi: ohookhwa joão domingos, namoopa a marapenta.",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01480,namittompe a miyaakha 14 ohoopowa muntteekeni naamorenle owintiku,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_01481,meeka-seena ni lotofaasili animalela olivasa itthuvo soowaatta musurukhu nihiku nna na mutivela,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_01484,cristiano ronaldo oolola ni atthapeliwa ni mphira wa wooru 2013.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01488,namakatelela ana marcela cunha ooxintta ewooru ya oparasiili elapo ya otookiyu,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_01489,asoomi okoosya otthukwasiwa nuumala wookupari eseeti ya sakarataari a miteko soosoma,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01490,ikhotto sophiya musitati sa obrasil ohinatthi   ohuliwa mundial,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_01491,marefuxiyaato mapurunteexi anihoolela mulattu oovilaxe: okhala mukaapu mosareyiiwa wala otthikela moohisuwanyeya,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01492,ennincerereya ikuru sootakhala makampo wa imphira wamphula.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01494,uniao africana (mwiiraano wa waafirika woolaphela omukhaliherya mosampiiki wawanana atakhali okaapu telekaatu,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01497,venesuweela : rayiinya oopwaneliwa ohookwa mwaha wa itiiru siipwanye vaavale viraneya aya manyakunyaku,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01498,avayi ooxintta ekoolu emosa ya koleyiru,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_01499,iretta  soowipasopeya  sinniwiiva 320 anamwane khula mahiku omosambique,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01500,"mayena, nthu piitthu a iteseenyu animaato sikhaale sinirukuunuxa manamuna othooka vatananihiiwa ni inaama ohiittto a ikuluuttu sa aasiya",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01502,mweene a nikhuuru g7 olaleeya namathnau yeela ovaaha mwattelo ovikana imilyawu ekonto sa itoose sa mwapoopwe.,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01505,imiilyawu sowaatta sa rohingyas anittwawa nihaasu ni aniirwa anahiiwa mmukanoni variyari va opankalateexi ni miyamaari.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01506,okhwa wa anamwane onnimorela waafirika supusaraariyaana,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01508,ankoola: mureheeri a wiixinla oowanana osikhini otthukiwa vookhuveela,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01509,ekhotto wonwanana siita okaapu veerete okhalana iresulutaato sootthuneya,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01510,epula yowiilipiha  yowokotha  anamwane aanli opeera.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01512,ohikhala wa makhala enivonyerya wa ohikhala muteko wa atthu ikonto sene oteete.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01515,esakaariyo ni isupusiitiyu sa mateputaato okathi waepantemiya sinanyonyiha mankolaano ni mamosampikaano,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_01519,covid-19- akulukhana a elapo y' omosampiikhi amwaawulela oxipanya.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01526,"sokhumelela sa ikhirini oparasiili nomala oxinttiwa, dilma ohooniherya oriipiwa murima mutwitter",0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_01527,anche cabral  ti muthiyana opaceerya timoreese muhina mwa cross country oliipiku oriiyu ti caneero,0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01531,"ni isiipo, reeti sosiyaale ni ikhereeve sa etala, aratti  makupaanu aniwanana ohaaxana",0,1,0,0,0,0,['disgust'],train
+vmw_train_track_a_01532,ni mukuthaano owaneliwa oliiva itthuvo sahaleela omuwateeriha kamarwu omuttikha mphira oniirani,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01534,amwaavano omosampiikhi antthikela akhalaka oopwanyiwa vanceene woohikhalana muteko.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01536,mamosampikaano aahaleela muteko mmikotini sa waafirika ya okuusini,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01537,omwareya wa pataroya muttete wa teeleta ya niicere wophiiya  khukhala mwiriira  ophova woopiha wa mukhalelo ephattu.,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_01540,ekumi ya mutakhwani omosampiikhi okathi tokathi yootepa oxankiha.,0,0,1,0,0,0,['fear'],train
+vmw_train_track_a_01542,"idris elba onnooniha ekonsertu online ni anamwiipa aalupale a waafrika, eriyari wa awo ori c4 pedro",0,0,0,1,0,0,['joy'],train
+vmw_train_track_a_01544,mosampiikhi: nikhuuru na muhooleli erdogan okhala okhanyererya mutumereeryo muhinamwa ixikola sa oturukhiiya .,1,0,0,0,0,0,['anger'],train
+vmw_train_track_a_01546,kuveerunu a jair bolsonaro onimwittana otthaleeliwa ooxikaare wa puwaanivanti- parasiili,0,0,0,0,0,1,['surprise'],train
+vmw_train_track_a_01547,"little richard, ""arikiteetu a rock, ohookhwa",0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01549,atthu yaala otthyawasa elapo aya aphiyasa elapo ya omusimpwa ta paraaya.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01550,can 2021: kwine-pisawu ni mawuritaaniya ti ikiipa simosa paahi sihihenle ikoolu wa ikiipa 24 saamuttikha mphira.,0,0,0,0,1,0,['sadness'],train
+vmw_train_track_a_01551,anamwaane anoomiserya wiira yaavahe yoolya amusi aya okhuma mmuttettheni mwaya osofaala.,0,0,0,0,1,0,['sadness'],train

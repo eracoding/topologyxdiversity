@@ -1,0 +1,47 @@
+# Base configuration shared across all experiment configs
+
+model:
+  name: "Qwen/Qwen2.5-14B-Instruct"  # HF model ID for vLLM direct API
+  max_tokens: 512
+  seed: 42
+  # vLLM direct inference settings
+  gpu_memory_utilization: 0.90
+  dtype: "bfloat16"
+  max_num_seqs: 32
+
+data:
+  base_path: "data/cleaned_csv"
+  shot_banks_path: "data/shot_banks"
+  reasoning_banks_path: "data/reasoning_banks"
+  languages:
+    - pcm
+    - chn
+    - mar
+    - ary
+    - tat
+    - vmw
+    - ptmz
+    - zul
+    - ind
+  splits:
+    - train
+    - dev
+    - test
+
+emotions:
+  - anger
+  - disgust
+  - fear
+  - joy
+  - sadness
+  - surprise
+
+evaluation:
+  primary_metric: "macro_f1"
+  secondary_metric: "micro_f1"
+  seed: 42
+
+outputs:
+  predictions_dir: "outputs/predictions"
+  results_dir: "outputs/results"
+  figures_dir: "outputs/figures"

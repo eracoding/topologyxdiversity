@@ -1,0 +1,64 @@
+# A7: B-L3 with MINIMAL system prompt.
+#
+# Identical to canonical config_b_l3.yaml. The system-prompt change is performed
+# at runtime by ablation/b_l3_minimal_prompt/scripts/run.py, which monkey-patches
+# src.prompts.cot_enhancement.build_cot_block (as bound inside src.topologies.width)
+# to return a single-line CoT instruction instead of the language-specific
+# reasoning bank + decision policy.
+#
+# Goal: isolate how much of B-L3's gain is the engineered system prompt
+# (reasoning banks + decision policy) vs the LoRA adapters themselves.
+# Pairs with A1 (temperature) — together they neutralize both factors that
+# co-varied between B-L2 and B-L3.
+
+topology: "width"
+level: "l3"
+num_agents: 3
+
+sampling:
+  temperature: 0.3
+  top_p: 0.95
+  seed: 42
+
+max_tokens: 512
+
+aggregation:
+  primary: "majority_vote"
+  secondary: "confidence_weighted"
+  majority_threshold: 2
+  confidence_threshold: 0.5
+
+training:
+  base_model: "Qwen/Qwen2.5-14B-Instruct"
+  quantization: "4bit"
+  lora_rank: 8
+  lora_alpha: 16
+  lora_dropout: 0.05
+  optimizer: "adamw_torch"
+  lr: 1.0e-5
+  scheduler: "cosine"
+  warmup_ratio: 0.10
+  epochs: 5
+  batch_size: 4
+  gradient_accumulation_steps: 4
+  bf16: true
+  output_dir: "models/adapters"
+
+agents:
+  - name: "general_specialist"
+    seed: 42
+    lora_name: "b_l3_general"
+    lora_path: "models/adapters/b_l3_general"
+    lora_id: 1
+
+  - name: "ambiguity_specialist"
+    seed: 42
+    lora_name: "b_l3_ambiguity"
+    lora_path: "models/adapters/b_l3_ambiguity"
+    lora_id: 2
+
+  - name: "contrastive_specialist"
+    seed: 42
+    lora_name: "b_l3_contrastive"
+    lora_path: "models/adapters/b_l3_contrastive"
+    lora_id: 3

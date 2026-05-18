@@ -1,0 +1,56 @@
+[
+  {
+    "text": "Mo bìnú gan; wọn ṣe aṣiṣe lẹ́ẹkansi! 😡",
+    "labels": ["anger"],
+    "rationale": "Cues: ‘bìnú’ (angry) → anger; repetition complaint; ‘😡’ → anger.",
+    "src_lang": "yor"
+  },
+  {
+    "text": "Abincin nan ya ɓaci; na ji ƙyama, ba zan ci ba 🤢.",
+    "labels": ["disgust"],
+    "rationale": "Cues: ‘ɓaci’ (spoiled) → disgust; ‘ƙyama’ (disgust) → disgust; ‘🤢’ → disgust.",
+    "src_lang": "hau"
+  },
+  {
+    "text": "Anyị tụrụ ụjọ n’abalị mgbe ọkụ gwụchara; obi tetara m ọsọ ọsọ.",
+    "labels": ["fear"],
+    "rationale": "Cues: ‘tụrụ ụjọ’ (felt fear) → fear; night power-out amplifies threat.",
+    "src_lang": "ibo"
+  },
+  {
+    "text": "So happy right now—I passed the interview! 🎉",
+    "labels": ["joy"],
+    "rationale": "Cues: ‘happy’ and ‘passed the interview’ → joy; ‘🎉’ → joy.",
+    "src_lang": "eng"
+  },
+  {
+    "text": "Feeling really down today; missed the deadline and nothing seems to work.",
+    "labels": ["sadness"],
+    "rationale": "Cues: ‘feeling really down’ and failure context → sadness.",
+    "src_lang": "eng"
+  },
+  {
+    "text": "Ó yà mí lẹ́nu! Ṣe bẹẹ ni? 😮",
+    "labels": ["surprise"],
+    "rationale": "Cues: ‘Ó yà mí lẹ́nu’ (it surprised me) → surprise; ‘😮’ → surprise.",
+    "src_lang": "yor"
+  },
+  {
+    "text": "I just opened the email—OMG I actually won the placement! 😲🎉",
+    "labels": ["joy", "surprise"],
+    "rationale": "Cues: ‘OMG’ and ‘won’ → surprise/joy; ‘😲’ → surprise; ‘🎉’ → joy.",
+    "src_lang": "eng"
+  },
+  {
+    "text": "Na firgita sosai kuma na shiga ɓacin rai lokacin da suka yi min ha’inci.",
+    "labels": ["anger", "fear"],
+    "rationale": "Cues: ‘firgita sosai’ (very scared) → fear; ‘ɓacin rai’ (anger) → anger; betrayal context.",
+    "src_lang": "hau"
+  },
+  {
+    "text": "Ọ na-esi ísì ọjọọ; obi dị m nwute, anaghị m eri ya.",
+    "labels": ["sadness", "disgust"],
+    "rationale": "Cues: ‘ísi ọjọọ’ (bad smell) → disgust; ‘obi dị m nwute’ (I am sad) → sadness.",
+    "src_lang": "ibo"
+  }
+]

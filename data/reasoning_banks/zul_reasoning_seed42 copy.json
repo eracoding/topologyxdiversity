@@ -1,0 +1,69 @@
+{
+  "language_name": "Zulu",
+  "script": "Latin",
+  "family": "Niger-Congo",
+  "seed": 42,
+  "language_instructions": "Family-transfer setting for Zulu (zul): examples/rationales are drawn from related Niger-Congo languages (excluding Zulu). Keep reasoning micro (≤ 25 tokens): cite explicit sentiment words, interjections, emojis, and unexpectedness markers; handle negation carefully. Prefer precision; only assign labels when cues are explicit. Output strictly once as: Final: { \"labels\": [\"...\"] }.",
+  "reasoning_examples": [
+    {
+      "id": "anger_disgust_example",
+      "emotion": "anger+disgust",
+      "text": "reba aya macandwe wujuje aha",
+      "reasoning": {
+        "cues": "explicit sentiment words / emojis",
+        "tone": "Harsh complaint about dirtiness/standards",
+        "interpretations": "Primary: distinct cues support anger, disgust. Alternative single-label readings discarded due to multiple explicit signals.",
+        "critique": "Cues are explicit and consistent with the tone; best fit is anger, disgust. Conclusion: anger, disgust."
+      },
+      "final_labels": [
+        "anger",
+        "disgust"
+      ]
+    },
+    {
+      "id": "anger_sadness_example",
+      "emotion": "anger+sadness",
+      "text": "@<username> nukuri njyewe bingeze aha ngiye kwiyahura mu buriri😂😂😂",
+      "reasoning": {
+        "cues": "explicit sentiment words / emojis",
+        "tone": "Hurt and upset; grievance plus sorrow",
+        "interpretations": "Primary: distinct cues support anger, sadness. Alternative single-label readings discarded due to multiple explicit signals.",
+        "critique": "Cues are explicit and consistent with the tone; best fit is anger, sadness. Conclusion: anger, sadness."
+      },
+      "final_labels": [
+        "anger",
+        "sadness"
+      ]
+    },
+    {
+      "id": "fear_surprise_example",
+      "emotion": "fear+surprise",
+      "text": "kama bangi hushika hivi na ni blunt,sasa ingekuwa sharp je?🤔",
+      "reasoning": {
+        "cues": "explicit sentiment words / emojis",
+        "tone": "Sudden danger; startled and afraid",
+        "interpretations": "Primary: distinct cues support fear, surprise. Alternative single-label readings discarded due to multiple explicit signals.",
+        "critique": "Cues are explicit and consistent with the tone; best fit is fear, surprise. Conclusion: fear, surprise."
+      },
+      "final_labels": [
+        "fear",
+        "surprise"
+      ]
+    },
+    {
+      "id": "joy_surprise_example",
+      "emotion": "joy+surprise",
+      "text": "unaamua leo utembee atleast uone venye kemsa inakaa 😂kidogo wewe ni millionaire. ##url##",
+      "reasoning": {
+        "cues": "explicit sentiment words / emojis",
+        "tone": "Delighted shock at good news",
+        "interpretations": "Primary: distinct cues support joy, surprise. Alternative single-label readings discarded due to multiple explicit signals.",
+        "critique": "Cues are explicit and consistent with the tone; best fit is joy, surprise. Conclusion: joy, surprise."
+      },
+      "final_labels": [
+        "joy",
+        "surprise"
+      ]
+    }
+  ]
+}

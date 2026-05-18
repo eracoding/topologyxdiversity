@@ -1,0 +1,73 @@
+{
+  "language_name": "Tatar (tat)",
+  "script": "Cyrillic",
+  "family": "Turkic (proxy sources: Russian, Ukrainian)",
+  "seed": 42,
+  "language_instructions": "Target input language: Tatar (tat). Do NOT translate the input. Proxy-transfer setting: CoT examples/rationales are drawn from proxy languages (Russian, Ukrainian) due to missing Turkic siblings in the pack. Use short, cue-based reasoning (≤25 tokens): exclamations, emojis, intensifiers, sentiment phrases, and negation. Prefer precision; only assign emotions when explicitly cued. Output exactly once: Final: { \"labels\": [\"...\"] }",
+  "reasoning_examples": [
+    {
+      "id": "anger_disgust_example",
+      "emotion": "anger+disgust",
+      "src_lang": "rus",
+      "text": "позорище.",
+      "reasoning": {
+        "cues": "Short cue-based reasoning (exclamations/emojis/sentiment words)",
+        "tone": "Concise; focus on explicit signals",
+        "interpretations": "anger from hostility/negativity etc.; disgust from its distinct cues",
+        "critique": "Both emotions are explicitly supported"
+      },
+      "final_labels": [
+        "anger",
+        "disgust"
+      ]
+    },
+    {
+      "id": "fear_sadness_example",
+      "emotion": "fear+sadness",
+      "src_lang": "rus",
+      "text": "ужас((((",
+      "reasoning": {
+        "cues": "Short cue-based reasoning (exclamations/emojis/sentiment words)",
+        "tone": "Concise; focus on explicit signals",
+        "interpretations": "fear from hostility/negativity etc.; sadness from its distinct cues",
+        "critique": "Both emotions are explicitly supported"
+      },
+      "final_labels": [
+        "fear",
+        "sadness"
+      ]
+    },
+    {
+      "id": "joy_surprise_example",
+      "emotion": "joy+surprise",
+      "src_lang": "rus",
+      "text": "вау!",
+      "reasoning": {
+        "cues": "Short cue-based reasoning (exclamations/emojis/sentiment words)",
+        "tone": "Concise; focus on explicit signals",
+        "interpretations": "joy from hostility/negativity etc.; surprise from its distinct cues",
+        "critique": "Both emotions are explicitly supported"
+      },
+      "final_labels": [
+        "joy",
+        "surprise"
+      ]
+    },
+    {
+      "id": "disgust_surprise_example",
+      "emotion": "disgust+surprise",
+      "src_lang": "rus",
+      "text": "what? who is it?кто эта какашка????!1!1!",
+      "reasoning": {
+        "cues": "Short cue-based reasoning (exclamations/emojis/sentiment words)",
+        "tone": "Concise; focus on explicit signals",
+        "interpretations": "disgust from hostility/negativity etc.; surprise from its distinct cues",
+        "critique": "Both emotions are explicitly supported"
+      },
+      "final_labels": [
+        "disgust",
+        "surprise"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+# Configuration C-L3: Depth Topology with Learned Diversity (Sequential QLoRA)
+# 3 layers process the input sequentially, each using a different QLoRA adapter.
+# Unlike B-L3 (parallel), each adapter here was trained specifically for its
+# position in the pipeline:
+#   Layer 1 (initial classifier): text only → standard BCE
+#   Layer 2 (error corrector):    text + Layer 1 prediction → upweighted on errors (3x)
+#   Layer 3 (calibrator):         text + Layer 2 prediction → calibration loss
+#
+# Adapters MUST be trained in order (1 → 2 → 3) — see training/train_c_adapters.py.
+# See EXPERIMENT_SPEC.md Section 4.3.
+
+topology: "depth"
+level: "l3"
+num_layers: 3
+
+layers:
+  - name: "layer_1"
+    role: "initial_classifier"
+    temperature: 0.3
+    top_p: 0.95
+    seed: 42
+    system_prompt: ""          # CoT block only (no designed role)
+    lora_name: "c_l3_layer1"
+    lora_path: "models/adapters/c_l3_layer1"
+    lora_id: 1
+
+  - name: "layer_2"
+    role: "error_corrector"
+    temperature: 0.3
+    top_p: 0.95
+    seed: 42
+    system_prompt: ""          # conditioning comes from the user message (prior JSON)
+    lora_name: "c_l3_layer2"
+    lora_path: "models/adapters/c_l3_layer2"
+    lora_id: 2
+
+  - name: "layer_3"
+    role: "calibrator"
+    temperature: 0.3
+    top_p: 0.95
+    seed: 42
+    system_prompt: ""
+    lora_name: "c_l3_layer3"
+    lora_path: "models/adapters/c_l3_layer3"
+    lora_id: 3
+
+max_tokens: 512
+
+training:
+  base_model: "Qwen/Qwen2.5-14B-Instruct"
+  quantization: "4bit"
+  lora_rank: 8
+  lora_alpha: 16
+  lora_dropout: 0.05
+  optimizer: "adamw_torch"
+  lr: 1.0e-5
+  scheduler: "cosine"
+  warmup_ratio: 0.10
+  epochs: 5
+  batch_size: 4
+  gradient_accumulation_steps: 4
+  bf16: true
+  output_dir: "models/adapters"
+  # Paths for intermediate predictions (used between training phases)
+  adapter1_predictions_path: "outputs/c_l3_training/adapter1_train_preds.jsonl"
+  adapter2_predictions_path: "outputs/c_l3_training/adapter2_train_preds.jsonl"
+  # Error upweighting for adapter 2
+  error_upweight: 3.0
+  # Calibration loss weight for adapter 3 (penalty for overconfident wrong predictions)
+  calibration_alpha: 0.2

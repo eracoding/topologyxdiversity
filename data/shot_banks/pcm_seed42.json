@@ -1,0 +1,74 @@
+[
+  {
+    "text": "agụụ ga-egbu gị ##url##",
+    "labels": ["anger"],
+    "rationale": "1. Identified cues: 'ga-egbu gị' (threat to kill). \n2. Tone: Aggressive and threatening, common in Pidgin disputes. \n3. Mapping: The direct threat aligns with anger due to frustration or rage. \n4. Conclusion: anger.",
+    "src_lang": "ibo"
+  },
+  {
+    "text": "kurjin da ke bayansa ya fashe yana zubar da wani ruwa mai kauri, rawaya, kamar man zuma, sai ya lashe",
+    "labels": ["disgust"],
+    "rationale": "1. Identified cues: 'fashe yana zubar da wani ruwa mai kauri' (burst spilling thick liquid) and 'rawaya' (yellow). \n2. Tone: Descriptive and repulsive, evoking revulsion from bodily fluids. \n3. Mapping: Vivid gross description fits disgust. \n4. Conclusion: disgust.",
+    "src_lang": "hau"
+  },
+  {
+    "text": "this involved swimming a pretty large lake that was over my head.",
+    "labels": ["fear"],
+    "rationale": "1. Identified cues: 'over my head' implying danger of drowning. \n2. Tone: Anxious and tense, reflecting safety concerns in deep water. \n3. Mapping: Potential risk triggers fear. \n4. Conclusion: fear.",
+    "src_lang": "eng"
+  },
+  {
+    "text": "chukwu na enye aku na uba gozierem gi a zillion folds. ❤️ ##url##",
+    "labels": ["joy"],
+    "rationale": "1. Identified cues: 'chukwu na enye aku na uba' (God gives wealth), 'gozierem gi' (bless you), '❤️'. \n2. Tone: Blessing and uplifting, with positive affirmation. \n3. Mapping: Blessing evokes joy. \n4. Conclusion: joy.",
+    "src_lang": "ibo"
+  },
+  {
+    "text": "it's his reflection.",
+    "labels": ["surprise"],
+    "rationale": "1. Identified cues: 'it's his reflection' revealing unexpected twist. \n2. Tone: Sudden and revelatory, with a sense of shock from realization. \n3. Mapping: Unexpected discovery fits surprise. \n4. Conclusion: surprise.",
+    "src_lang": "eng"
+  },
+  {
+    "text": "fijilante yii ti daran o, afurasi ti wọn fa le e lọwọ lo dana sun",
+    "labels": ["sadness"],
+    "rationale": "1. Identified cues: 'dana sun' (burned) 'afurasi' (suspect). \n2. Tone: Tragic and mournful, expressing loss and injustice. \n3. Mapping: Burning suspect evokes sadness. \n4. Conclusion: sadness.",
+    "src_lang": "yor"
+  },
+  {
+    "text": "leave onye nzuzu",
+    "labels": ["disgust"],
+    "rationale": "1. Identified cues: 'onye nzuzu' (foolish person). \n2. Tone: Dismissive and irritated, conveying contempt. \n3. Mapping: Calling someone foolish expresses disgust. \n4. Conclusion: disgust.",
+    "src_lang": "ibo"
+  },
+  {
+    "text": "then the screaming started.",
+    "labels": ["fear", "sadness", "surprise"],
+    "rationale": "1. Identified cues: 'screaming started' indicating sudden alarm. \n2. Tone: Tense and chaotic, conveying urgency and distress. \n3. Mapping: Screams signal fear and surprise, with sadness from negative event. \n4. Conclusion: fear, sadness, surprise.",
+    "src_lang": "eng"
+  },
+  {
+    "text": "you know what happens when i get one of these stupid ideas in my head.",
+    "labels": ["anger", "fear"],
+    "rationale": "1. Identified cues: 'stupid ideas' and 'what happens' implying bad outcome. \n2. Tone: Frustrated and apprehensive, with self-directed irritation. \n3. Mapping: Stupid ideas lead to anger and fear of consequences. \n4. Conclusion: anger, fear.",
+    "src_lang": "eng"
+  },
+  {
+    "text": "ana tuhumar tsohon sufeta janar da yin damfara",
+    "labels": ["anger", "sadness"],
+    "rationale": "1. Identified cues: 'ana tuhumar' (accused), 'damfara' (corruption). \n2. Tone: Disappointing and accusatory, with a sense of betrayal. \n3. Mapping: Corruption accusation causes anger and sadness. \n4. Conclusion: anger, sadness.",
+    "src_lang": "hau"
+  },
+  {
+    "text": "muyiwa ademola: a ó jọ rọ́ọ̀kì ọdún 2021 papọ̀ ni lágbára ọlọ́run",
+    "labels": ["joy"],
+    "rationale": "1. Identified cues: 'a ó jọ rọ́ọ̀kì' (we will celebrate) 'ọdún 2021' (year 2021). \n2. Tone: Celebratory and hopeful, expressing excitement for shared events. \n3. Mapping: Celebration evokes joy. \n4. Conclusion: joy.",
+    "src_lang": "yor"
+  },
+  {
+    "text": "hondas are notoriously great cars for long trips for their dependability and great gas mileage.",
+    "labels": ["joy"],
+    "rationale": "1. Identified cues: 'great cars', 'dependability', 'great gas mileage'. \n2. Tone: Positive and appreciative, highlighting satisfaction with reliability. \n3. Mapping: Reliability brings joy in travel. \n4. Conclusion: joy.",
+    "src_lang": "eng"
+  }
+]

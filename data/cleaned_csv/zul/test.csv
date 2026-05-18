@@ -1,0 +1,866 @@
+id,text,anger,disgust,fear,joy,sadness,surprise,emotions,split
+zul_test_track_c_00001,kusolwa umkhuba ekhaya ngotholwe emotweni yakhe eseshonile esonakele,0,1,0,0,1,0,"['disgust', 'sadness']",test
+zul_test_track_c_00003,ubone afike ngayo ularsen exoshwa kwichippa,0,0,0,0,1,1,"['sadness', 'surprise']",test
+zul_test_track_c_00004,uzuma uhlawuliswe r60 000 ngenkulumo enokucwasa,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00010,kushone ozalwa abashonela enigeria,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00015,uvalo amabhubesi ebhubhisa imfuyo,0,0,1,0,0,0,['fear'],test
+zul_test_track_c_00019,umphakathi uhlomule ngamaloli amanzi,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00021,injabulo ukwesta ebopha ifindo lomshado,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00026,kugwazwe kwabulawa owayeyiphini likasihlalo we-anc etshwane,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00027,babhodla umlilo ngomholi we-anc obulewe,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00028,kushiswe ibhungu umphambili libulawa,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00031,ligqunywe esitokisini iphoyisa elisolwa ngokubulala,0,0,0,0,1,1,"['sadness', 'surprise']",test
+zul_test_track_c_00032,badidekile kubulawa umhlengikazi ekilinikhi,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00033,utholwe ehlahlelwe obenyamalele ekhaya,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00035,bacasulwe ukuhlehla kwesigwebo abagilwa,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00038,kulimale abane engozini yemoto emgungundlovu,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00039,livelile iphoyisa elidubule umabhalane oyithwasa,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00041,uboshiwe umfundi obulale uthisha,0,1,0,0,0,0,['disgust'],test
+zul_test_track_c_00042,'sijabulile ngabafuna ukuhola i-anc',0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00045,le mbiza icoba intlzyo ngathi imorning sickness 🤢🤮🤢,0,1,0,0,0,0,['disgust'],test
+zul_test_track_c_00047,uthisha usehole ur1m engasebenzi,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00051,ubathembisa injabulo abalandeli bamazulu,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00052,kugwetshwe owabulala intombi wayiphonsa esimobeni,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00053,ubaba ecaleni lokudlwengula ingane (14) yakhulelwa,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00056,umfana (13) ubopha umnyango,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00065,kuvalwe ngehlahla kubhubha umndeni engozini,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00066,batholwe befile benamanxeba okudutshulwa,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00067,ezothando: ngintshontsha umka mfowethu,0,1,0,0,0,0,['disgust'],test
+zul_test_track_c_00069,‘ubulawe’ abezokuphepha esolwa ngokudakwa,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00071,bakhala ngezulu elibacekele phansi,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00074,usazoqhinqa ejele umfundisi wabasindisiwe osolwa ngokudlwengula,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00077,kuboshwe intombazane (13) ngokugqenywa kwesalukazi (63) ngesando sashona,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00078,kubonwa ngokusa kubadlali abane abalimale engozini yemoto,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00080,'isiguli siklinye' esinye esibhedlela sashona,0,0,0,0,1,1,"['sadness', 'surprise']",test
+zul_test_track_c_00081,usolwa ngokuklabha uyise nomzala bafa,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00082,aphelele kubo amakhaza beshelwa yimijondolo yabo,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00085,kushiswe amabhasi kamasipala emlaza,1,0,1,0,1,0,"['anger', 'fear', 'sadness']",test
+zul_test_track_c_00086,#crimestats: sinyukile isibalo sokubulawa nokudlwengulwa kwabantu kuleli,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00090,kutholwe izidumbu esezonakele,0,1,0,0,1,0,"['disgust', 'sadness']",test
+zul_test_track_c_00091,ubabes wodumo ugqigqa kodokotela,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00092,unolwazi uyakujabulela ukulingisa kwi-ngane yami,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00096,bagxeka ukuhlaselwa kwethempeli,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00097,useyolingisa ehollywood uthuso mbedu,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00103,abamfuni abathi ubize abafundi ngezimfene,1,1,0,0,0,0,"['anger', 'disgust']",test
+zul_test_track_c_00104,umgungundlovu uhamba phambili ngababulawa yicovid-19,0,0,1,0,1,0,"['fear', 'sadness']",test
+zul_test_track_c_00105,isidumo kudutshulwa 'umalume' obelayishe abafundi emlaza,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00106,isililo isoka libulala umfundi maqede lachoma ngakho kufacebook,0,0,0,0,1,1,"['sadness', 'surprise']",test
+zul_test_track_c_00108,usola usomahlaya ngokumthelela ngesandulela ngculazi,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00109,released yesterday 28 jan mmm🔥🔥🔥🔥akudanswa ujuluke la engathi udakwe amadrugs unyakaza kamnandi nom uhlabe unyawo njengayo intokazi @lungyk https://t.co/bxvuqxeu5y,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00110,ugwetshwe udilikajele odlwengule ingane,1,0,0,0,1,0,"['anger', 'sadness']",test
+zul_test_track_c_00111,kushone abathathu kugingqika imoto yeyo! taxi!,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00113,usolwa ngokufunza unina utshani,0,1,0,0,1,0,"['disgust', 'sadness']",test
+zul_test_track_c_00120,isanef idumele kuhlukunyezwa izintatheli,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00121,kutholwe isidumbu sowesifazane ngaphansi kombhede womfawobo,0,0,0,0,1,1,"['sadness', 'surprise']",test
+zul_test_track_c_00126,umodiba ujabule efunwa upitso,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00127,kushone ona-13 izingane zishayiswa amaginsa,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00131,kulimale abangu-11 engozini yezimoto ezimbili,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00135,nashoke ukuthi ngoba sixoxela sihlekela la khona abangazwani nokushidaba 🙁 ay bandla https://t.co/1p4tp5dshy,0,1,0,0,0,0,['disgust'],test
+zul_test_track_c_00136,kuklinywe isalukazi esina-107 sashona,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00137,@cnehshuga ngiyabonga kakhulu ❤️ nami ngikufisela usuku oluhle nokuthi izinhlelo zakho zihambe kahle.,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00138,kusuke esinamathambo kubangwa umzila,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00139,isililo kuyise ogaye ingane yakhe ngeloli,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00140,kushone abathathu kwalimala abawu-8 kuginqika iveni,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00144,iyaqhubeka impi yamazwi kuramaphosa nolekota,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00148,kubulawe ngesihluku uthisha obesemncane,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00157,kufezeke iphupho leminyaka kowe-opw,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00160,kulimale abagibeli kugingqika itekisi,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00161,amadoda amabili adutshulwe afa emgwaqeni,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00164,indoda ishaywe yafa kade ihlaselwe wumphakathi,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00166,kusolwa abafundi kudlwengulwa owesifazane,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00168,bayaveva ngokujola kukathisha nomfundi ecomtech,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00169,ujezisa abafundi 'ngokubawashisa izingubo zakhe',0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00172,injabulo emphakathini ucele efeza isithembiso ngamaphoyisa amabharethi,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00173,baboshiwe abathenge usana ngo-r5 000,0,1,0,0,0,0,['disgust'],test
+zul_test_track_c_00174,umisiwe uthisha osolwa ngokudlwengula umfundi (6),0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00180,akakatholakali umshayeli weloli lesiphihli sengozi,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00182,ukhale ngabadlali abalimele kudliwa iqembu lakhe,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00183,lusandizela phezulu ukhozi fm ngabalaleli,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00187,uboshiwe owesilisa odlwengule isidumbu,1,1,0,0,0,0,"['anger', 'disgust']",test
+zul_test_track_c_00190,uvume elokuphihliza umnakwabo ngetshe,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00192,umasipala uxovekile sidinga usizo lwamasosha' - zandile gumede,0,0,1,0,0,0,['fear'],test
+zul_test_track_c_00193,bacikekile kunyamalala umdlali oyintandokazi kwithe queen,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00194,ubathabile dlamini ujabulela ukubuyela kuhulumeni,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00195,uvalo ngodlwengula abadala nabancane,0,0,1,0,0,0,['fear'],test
+zul_test_track_c_00196,ababenandisa bakhala ngokungakhokhelwa,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00198,injabulo kwidowns ngoricardo,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00199,kuxoshwe othisha abayisikhombisa ngocansi nabafundi,0,1,0,0,0,1,"['disgust', 'surprise']",test
+zul_test_track_c_00201,udle ushevu namadodana akhe amabili,0,0,0,0,1,1,"['sadness', 'surprise']",test
+zul_test_track_c_00202,senyukele ku-17 isibalo sabanecoronavirus kuleli,0,0,1,0,0,0,['fear'],test
+zul_test_track_c_00203,baphuthunyiswe esibhedlela abafundi kusha igumbi lesikole,0,0,0,0,1,1,"['sadness', 'surprise']",test
+zul_test_track_c_00205,osolwa ngokudlwengula nosolwa ngokubulala babulawe wumphakathi,1,0,0,0,1,0,"['anger', 'sadness']",test
+zul_test_track_c_00208,utholwe eseshonile onyamalale nosana,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00209,@zeeright 😭 ngyayisaba ke leyo. mina ngivele ngikhale ngokuba broke umuntu meke wakhuluma ngemali,0,0,1,0,0,0,['fear'],test
+zul_test_track_c_00211,injabulo udladla mshunqisi ethula i-albhamu yokuqala,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00213,imininingwane eshaqisayo ngokubulawa kuka-uyinene mrwetyana,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00219,kusolwa abemijondolo kushiswa ihhovisi lekhansela,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00225,ubenamanxeba okugwazwa ofele phezu komjondolo,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00229,iyashuba eyobukhosi bakwamaphumulo,0,0,1,0,0,0,['fear'],test
+zul_test_track_c_00230,umaskanda 'ujahwe ngesibhamu' eyoqopha,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00234,ukudla osekudliwa kunomthelela ekukhulelweni kwezingane ezincane,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00235,injabulo kwethulwa uhlelo lukagesi enquthu,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00236,kukhalwa ngomfundisi wempama nenhlamba,0,1,0,0,0,0,['disgust'],test
+zul_test_track_c_00238,atholwe esigangeni etubekile amantombazane 'abethunjiwe',0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00240,umyeni wami ufuna ngibe wumngani nentombi yakhe,1,1,0,0,0,0,"['anger', 'disgust']",test
+zul_test_track_c_00241,basongela imeya ngokuyiyisa kwagoqanyawo,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00244,uvele wafa yinsini enkantolo owesifazane osolwa ngokubulala intombi yakhe,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00245,isesheli (19) 'sibulale' ona-40 kuphuzwa,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00246,udinwe wacela bamdedele obekhuhliswa ibhentshi,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00247,inhlansi yethemba ngomnotho kuleli,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00248,uhulumeni uzogxila ekuthuthukiseni umnotho,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00255,ligwetshwe udilikajele iphoyisa elabulala intombi,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00258,lisatshiswe wumphakathi ikhansela elidutshulwe lafa,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00262,kushiswe imoto kusolwa umfundisi ngokuphinga,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00265,kuzosukunyelwa ukwesatshiswa kukazuma,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00266,babhikishele uthisha 'obudlonya' esikoleni,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00267,bashaqekile ngobulawe abemgibelise emotweni,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00269,bamashile befuna umasipala ubaqashe ngokugcwele,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00273,isidumo kuvulelwa ngenhlamvu erenki,0,0,1,0,1,0,"['fear', 'sadness']",test
+zul_test_track_c_00280,liyabuya futhi namuhla elosolwa ngokubulala isitshudeni sasemut,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00281,uginqe ibhasi wazibulala umshayeli kushona abangu-9,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00286,umax ufuna ukwakha ihhotela emlaza,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00287,uyakhala upitso ngomakgalwa olinyazwe ngesihluku,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00288,kusaphenywa obulele indodana yemeya emnambithi,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00289,uvalo kusocongwa amalungu amabili e-anc,0,0,1,0,0,0,['fear'],test
+zul_test_track_c_00291,uzuma usola izitha ngokushona kwendodana yakhe ngo-2018,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00294,kushone ababili behilwa imbawula,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00296,‘udlwengulwe’ umfundisi nabangani bakhe,1,1,0,0,1,0,"['anger', 'disgust', 'sadness']",test
+zul_test_track_c_00297,bahilane nenkosi ngodaba lwemayini endaweni,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00298,@madlala_tm @enca in the mean time babusy to pleases abanye abantu behlulwa ukusiza abantu babo(thina) ungafunga ukuthi khona okukhulu okufihlwayo esingakwazi thina it is soooo annoying to think about it😫😠,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00300,intatheli ibonga kwabayisekayo,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00301,kuboshwe ongqimuze wabulala unkosikazi ngesitini,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00307,umphakathi ubhekene nengwadla yamanzi,1,0,0,0,1,0,"['anger', 'sadness']",test
+zul_test_track_c_00309,buka: angene ngevosho ephalamende amalungu-eff,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00312,bakhala ngomlungu 'oshayise' owomndeni ngendiza washona,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00313,kuphume isidumbu izitshudeni zihlakazwa ngenhlamvu,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00317,ezothando: ufuna ngimuphe ur3 000 ngenyanga ukuze sibuyelane,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00319,bangqongqise umtapowolwazi bebhikisha,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00320,"@princeshadow_sa nkabi yam ngiyajabula ukt ucebisa ukwazile uyakugaya support, i hope awuzoyikhohlwa text yami ngimkhuthaza ukuthi akuphe indlebe last month or earlier this month 🙏🏽🙏🏽🗣... isifiso sami ukubona nisebenza now 2 one day",0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00325,"uzola wake wathi ""bamchith' amapop corn agcwal' istradi"" izolo ngibone leyonto💔💔💔. a motorist was brutally killed ubuchopho baphuma😭😭😭💔. aai pinetown mina ngi right ngayo, angifuni ukungasho😭🤞🏽 ngisayakhona kodwa hhai bandla. ngi right ngayo🚮",0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00326,bahleli lubhojozi kubulawa umshayeli wetekisi,1,0,1,0,1,0,"['anger', 'fear', 'sadness']",test
+zul_test_track_c_00327,unomlando wokuphazamiseka emqondweni osolwa ngokubulala indodakazi,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00330,bashise ibhasi nezimoto bebhikisha,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00333,kubhubhe 9 engozini yetekisi neveni,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00334,usinde ‘ezoqedelwa’ esibhedlela owe-glebe,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00336,isihluku kudlwengulwa isalukazi (84),0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00339,kumuke abafundi abathathu emandeni,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00344,kunconywa ovumbululwe yinedbank,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00350,umfana (13) udubuleke kuhlaselwa osomatekisi,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00352,kusolwa isoka ngobulawe ezithwele,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00353,kushone owesifazane kusha umuzi everulam,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00355,kuphenywa ngabathelwe ngezinhlamvu babulawa,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00356,kungqongqiswe isalukazi sisolwa ngokuthakatha,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00358,kuboshwe abasebenzi be-saa ababanjwe nezidakamizwa zikar45 million echina,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00359,isimanga 'evuka' ekufeni ofihlwe ngempelasonto,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00363,udutshulwe ngenqwaba yezinhlamvu wafa usihlalo wamatekisi,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00364,usinde egencwa ngocelemba nguyise,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00365,ufuna isinxephezelo ‘odutshulwe ngamaphoyisa’,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00369,uzodwa wabantu ucele umshado,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00372,ubulawe yisoka eliphuma ejele,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00374,utholwe ehhotela eshonile umculi we-kwaito,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00376,uboshiwe obhikishe efake iphenti,0,1,0,0,0,1,"['disgust', 'surprise']",test
+zul_test_track_c_00377,umbiko ucacisa ngamaphepha kamatric aputshuka,0,1,0,0,0,0,['disgust'],test
+zul_test_track_c_00378,badidekile ngendodana engatholakali,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00380,abazalanayo bafunwa ngamacala okubulala abesifazane ababili,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00381,"sekungaze kuvele ngelanga lomshado ukuthi makoti ubengasaphelele, kanti kwalotsholwa kanjani? nangu umama ekhihla islilo, ngomakoti wakwakhe🙆‍♂️🙆‍♀️🙆‍♀️ #ourperfectwedding https://t.co/sax75t6bxs",0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00384,bashaqekile ngesidumbu esitholwe esitamkokweni,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00386,kusolwa inyoka ngezelamani ezifile,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00387,‘abukho ubulungiswa ecaleni likamshayeli weloli elabulala abantu’,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00388,"kubalawe amantombazane, kwaboshwa umfundisi nonina wengane enkandla",0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00389,umampitsha uvulele ubabes icala lokushaya,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00395,isoka 'liklinye intombi layincisha umoya ngenkomishi' yashona,0,0,0,0,1,1,"['sadness', 'surprise']",test
+zul_test_track_c_00396,bakhathazekile ngekusasa labo kuswallows,0,0,1,0,1,0,"['fear', 'sadness']",test
+zul_test_track_c_00402,indoda idutshulwe amaphoyisa kwayo,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00403,osindisiwe ulingisa eyokuba ngumqwayizi,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00404,uma ningibona ngidakiwe ningathuki impilo yami inzima kakhulu 😒😢,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00409,ibhungu liklabhe abashana lababulala lona labulawa yiloli,1,0,1,0,1,1,"['anger', 'fear', 'sadness', 'surprise']",test
+zul_test_track_c_00413,"nikwi chillas lapho uqambe amanga nakwi thekeni,naboke ompilo sebenza ama live on facebook bajabuliswa utshwala, vele kuthi angiphahlaze ifoni yesfebe phansi🤦‍♂️🤦‍♂️",1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00416,owesifazane ushone elinde usizo esibhedlela ‘ezitshwa’ onesi,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00417,kulimale abagibeli itekisi eqhunyelwe yithayi igingqika,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00419,ugwetshwe odilikajele owabulala abasekhweni,1,1,0,0,0,0,"['anger', 'disgust']",test
+zul_test_track_c_00421,icasule abantu abaningi imbongi igxeka ukulingisa kukaconnie ferguson,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00423,"kushone umshayeli, omunye wanyamalala",0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00425,onompempe bavaleleke ekuhambeni ngenxa yecovid-19,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00426,uthisha ecaleni lokubulala uyise ona-70 bephuzile,1,0,0,0,1,0,"['anger', 'sadness']",test
+zul_test_track_c_00427,induna ishade nebhokisi ikhuzwa,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00428,ulibangisa phesheya uzahara osanda kwenekela izwe izinkinga,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00429,uvalo kothisha abahlaselwe ngamatshe,0,0,1,0,0,0,['fear'],test
+zul_test_track_c_00438,udedeliwe ‘odlwengule’ owajikiselwa isifonyo,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00440,abameli babhoka ngokushiwo ngabo,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00441,kushone abathathu engozini yeloli neveni,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00445,uramaphosa usolwe ngokuhlukumeza owayeyinkosikazi yakhe,0,0,0,0,1,1,"['sadness', 'surprise']",test
+zul_test_track_c_00446,uphume ngebheyili umshumayeli osolwa ngokudlwengula umshana,0,1,0,0,0,1,"['disgust', 'surprise']",test
+zul_test_track_c_00448,"uthena uyabuya😂😂😂, kujabule mina dlokovu 🙌🙏 https://t.co/93kcpnqoxq",0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00452,usizi ngesimo somndeni osuhlale ehlathini iminyaka,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00454,i-ancyl ikhwele yadilika kunxumalo,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00455,kuboshwe abesifazane ababili abagqibe umbungu egcekeni,0,1,0,0,1,0,"['disgust', 'sadness']",test
+zul_test_track_c_00458,uyaveva uzandile gumede ngesinqumo se-anc sokumxosha,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00459,indida ngokubulawa kobethanda imicimbi,1,0,1,0,1,0,"['anger', 'fear', 'sadness']",test
+zul_test_track_c_00461,kuboshwe indoda esolwa ngokuba wumalugaju obezenza umfundisi kufacebook,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00464,kwethulwe isitimela esizosiza kwicorona,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00469,usomizi ugqemeke udume lwengozi kudlula emhlabeni unina,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00470,kushayisa amakhala ukuthunjwa kowaseprasa,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00471,ugwetshiwe owashayisa isithandwa ngemoto safa,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00472,kubanjwe ‘inkabi’ esolwa ngokusoconga embonini,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00473,udokotela ufe kusha ifulethi abehlala kulo ebhilidini eligudle ulwandle,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00474,inhlanhla ewina imoto odayisa amagwinya,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00475,sitholwe yizinja isidumbu sentombazanyana ebinyamalele,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00478,kuthunjwe umfundi osolwa ngokweba iselula,0,0,1,0,1,0,"['fear', 'sadness']",test
+zul_test_track_c_00483,bamisiwe othisha abajola nomfundi ecomtech,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00489,usizi lwesaguga esanqunywa imilenze ngenxa yesifo,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00492,udlule ebunzimeni umethuli wenyan nyan,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00496,ukhale ngokushisa washona eqeda umzuliswano wocansi nomfelokazi,0,0,0,0,1,1,"['sadness', 'surprise']",test
+zul_test_track_c_00498,abama-80s abahlukane nokutinyela ama-2000,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00499,uncamele ukuhlawula ngor1 million kunokubhadla ejele,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00500,kuminze abantu ngenxa yemvula ekzn,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00501,@simmz_n wang'bulala 😪 inhloziyo yami iseglass'ini yewayini kahle kahle,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00504,ingwevu ilaxaze i-anc yayojoyina abenkatha,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00506,aziyizwa izinyunyana eyokuvinjwa kothisha,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00507,amaphoyisa adudulwe ngenganono emngcwabeni,0,0,1,0,0,1,"['fear', 'surprise']",test
+zul_test_track_c_00510,siluleme isilomo kwalimala abanye kwichiefs,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00512,sekubenele abashiswa 'yisoka',1,0,0,0,1,0,"['anger', 'sadness']",test
+zul_test_track_c_00518,ugixabezwe odilikajele abane owabulala izingane (4),0,0,0,0,1,1,"['sadness', 'surprise']",test
+zul_test_track_c_00519,usola umona usomabhizinisi oshiselwe imishini,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00520,kuqhume isibhaxu kulwa abe-anc,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00521,kuvalwe izikole kudutshulwa othisha,1,0,1,0,1,0,"['anger', 'fear', 'sadness']",test
+zul_test_track_c_00522,‘ubhokodwe’ ngumyeni wakhe obemsola ngokumjolela,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00526,kusha isiteleka e-unisa akufundwa,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00528,kufunwa abesifazane abadlwengule owesilisa,0,1,0,0,0,1,"['disgust', 'surprise']",test
+zul_test_track_c_00531,ukhala ngokuxhashazwa ocula awomzabalazo,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00532,umfundisi ecaleni lokudlwengula indodakazi,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00533,baphakamise ifulegi lakuleli kowama-oscar,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00534,badube umsebenzi kumiswa abanye esibhedlela,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00535,bajabulele umfundi ophase ngamalengiso enanda,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00537,kusolwa isoka ngesitshudeni esinyamalele,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00538,kusolwa imbawula  ngokusha kwemijondolo,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00542,‘ngijabule ukuthi ngisazohlala kupirates’,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00545,kunzima kothisha bomfundi onqunyiwe,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00547,kuzohlonishwa abayibekile induku ebandla,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00549,uzothatha isithembu izinsuku zilandelana,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00550,usagqunywe esitokisini ’obulale’ abayisithupha bomndeni,0,0,0,0,1,1,"['sadness', 'surprise']",test
+zul_test_track_c_00551,bawotha ubomvu ngokudla okuduve emahhovisi ezifunda,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00558,ibheyili kowetekisi ebulale abathathu,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00559,kumuke owesilisa nomzukulu behlanza ibhuloho,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00562,bagonyuluke ngokuhlukunyezwa,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00564,isoka lisongele intombi yalo kwasha izakhiwo,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00565,udj websta ujabulela ukungena kweyakhe kwi-top 10,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00566,injabulo kulerato ehlula umndeni kahhp ecaleni,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00571,ushayiswe yisitimela eyozikhulula ehlathini,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00573,uthuthile umndeni kubulawa abane,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00575,udalule inkohlakalo kar2.9 bn wakwagupta,0,1,0,0,0,0,['disgust'],test
+zul_test_track_c_00579,bavale imigwaqo befuna kuxoshwe abokufika,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00583,intaba yasedubai ithakasela ushintsho empilweni,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00585,kungase kube nesitelekaedut,0,0,1,0,0,0,['fear'],test
+zul_test_track_c_00586,ugcwele izinkalo 'obulale' umzala wakhe,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00594,washaqeka enqatshelwa ukungena emhlanganweni,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00600,#jabulujule namhlanje sizokhuluma neqhawekazi umama connie chiume osebe kumkhakha wamabonakude iminyakwa ewu 44. uloke ekhule njalo ngomsebenzi wakhe. @conniechiume 💛 #jabulujule #conniechiume https://t.co/q7jdvntupv,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00601,kugwemeke inhlekelele isiguli sishisa iwodi,0,0,1,0,0,1,"['fear', 'surprise']",test
+zul_test_track_c_00603,usdudla usefuna ukudla futhi 🙊🙉🙈🙈,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00609,itholakale isishonile intombazane eneminyaka eyisithupha 'ebithunjiwe',0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00610,ushabba usezogijima eqenjini laseturkey,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00614,kungenzeka ugqunywe ejele ngokungasifaki isifonyo,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00615,amaphoyisa athathane ne-eff,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00619,abasalali emakhaya ngenxa yokusongelwa osomatekisi,0,0,1,0,0,0,['fear'],test
+zul_test_track_c_00620,uvalo ngebutterworth kusha izakhiwo ethekwini,0,0,1,0,0,0,['fear'],test
+zul_test_track_c_00622,owasethekwini uzuze umsebenzi wokwenza izindondo zediff,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00626,umculi uphumela obala ngothando lukasjava,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00630,kushone ingane (5) uyise 'eshisa' indlu,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00633,umlingisi uzibulele ngenxa yokhwantalala,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00635,kubulawe ngesihluku osebenza nondunankulu,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00637,linye inxeba eliqede ngempilo yomculi,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00640,isitimela sibashumpule amakhanda,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00641,kuqhume iqupha abefundisi beficana enyangeni,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00650,bafuna ajeze obengungqongqoshe,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00651,ujabulele usizo oluvela kungqongqoshe owesifazane ohlala ehlathini,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00652,kufunwa 'umbulali' osolwa ngokushisa unina wezingane zakhe,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00653,usinde ngokulambisa obecwiywa izindlebe,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00654,injabulo iligi yabesifazane ithola abaxhasi,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00658,"@thembakaula ngimzondukufa uyise kabule ngomastende nje sengathi akukhahlelwe ingane ilahlwe phansi?, yey ngoba legenger yenu iyahlukumeza😩😩😩😩",1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00661,uvulelwe icala lokushaya owesifazane ubabes,0,0,0,0,1,1,"['sadness', 'surprise']",test
+zul_test_track_c_00669,ubuthelezi uhaqwe yicoronavirus,0,0,1,0,1,0,"['fear', 'sadness']",test
+zul_test_track_c_00670,indida ngesitshudeni esitholwe sibulewe ngesihluku,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00673,kumiswe umfundi 'oshaye' uthisha,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00674,kuboshwe onogada ngelokuzama ukubulala,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00675,umazinyo ujabule ngakubone bebhaxatshulwa,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00677,kuvalwe ijoyinti kufa abathathu,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00681,ubonga unina owamlindisa okuma-idols sa,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00682,kubhedile endodeni etholwe nekhanda neminwe yowabulawa,0,1,0,0,0,0,['disgust'],test
+zul_test_track_c_00683,ukhwele wadilika ku-anc ngamabhasi,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00685,izovulela amaphoyisa icala intatheli eboshwe kubhikisha abaseka ugumede,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00687,ucele uncome amaphoyisa abulale abayisikhombisa,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00692,ngilahlekelwe umngani oqotho: ramaphosa,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00693,odokotela bafuna lusukunyelwe olwesimo sezibhedlela e-kzn,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00700,kuboshwe amaphoyisa 'antshontsha' utshwala ngesikhathi sikathaqa,0,1,0,0,0,1,"['disgust', 'surprise']",test
+zul_test_track_c_00702,i-ancwl icela kungenelele umphakathi ngokuhlukunyezwa kwabesifazane,1,0,1,0,0,0,"['anger', 'fear']",test
+zul_test_track_c_00703,sebequlusa emahlathini abathathelwe izindlu zangasese enanda,0,1,0,0,1,0,"['disgust', 'sadness']",test
+zul_test_track_c_00705,kufunwa ingane (8) enyamalele,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00707,umfundisi ‘nekhambi’ lengculazi,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00708,isiguli sibanjwe oqotsheni 'sidlwengula' esinye esibhedlela,0,0,0,0,1,1,"['sadness', 'surprise']",test
+zul_test_track_c_00709,babuye bephoxekile omaskandi kubhuntsha umcimbi,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00710,‘kuwe insika kudlula emhlabeni umsimang’,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00711,kushone abane izigebengu zidubula esitolo,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00713,kufunwa isitshudeni esidukile,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00716,@ukhozi_fm #ukhozifmdrive 3 2 6 @thisisselby ngijabuleni we khabzo ngiphuma koqedela umgomo wami😊 fully vaccinated 💃,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00718,bahleli lubhojozi ngokubulawa kwabomndeni belandelana,0,0,1,0,1,0,"['fear', 'sadness']",test
+zul_test_track_c_00719,sekusuke umbango ngesiteshi somsakazo,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00723,udinwe wagula obizwe ngekhafula,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00724,uramaphosa uwudoti - julius malema,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00727,kusolwa isoka kutholakala isidumbu sengoduso,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00728,kushone umshayeli engozini,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00731,bahlalele ovalweni abakwanongoma kweqa osolwa ngokubulala,0,0,1,0,0,0,['fear'],test
+zul_test_track_c_00732,kushaywa amakhala ngababulewe,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00734,sebebahlanu abashone kudutshulwa esiphingo,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00736,baxakekile abazali othisha beshemula abafundi benkolo yobunazaretha,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00737,isimangalo kusatshiswa ungizwe nomkakhe,0,0,1,0,0,1,"['fear', 'surprise']",test
+zul_test_track_c_00740,umsindo ngokwakhiwa kwenxanxathela,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00741,banovalo kwanongoma ngebhubesi elicanasayo,0,0,1,0,0,0,['fear'],test
+zul_test_track_c_00742,abakhubazekile bafunda bempintshene,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00746,baxoshiwe emsebenzini benqaba ukufuna inyoka,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00747,uhamba ngezinduku “osasazelwe ngezinja” washaywa,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00748,umsindo ohlelweni ngomlingisi otabalasayo ozizamela udumo,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00749,kuminze ingane (5) unina ewasha emfuleni,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00751,usedlulile emhlabeni ug65,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00753,iboks ivale imilomo iqopha umlando,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00754,sasisatshwa isikhulu sezimali e-eskom,0,0,1,0,0,0,['fear'],test
+zul_test_track_c_00755,bayaveva kuvalwa ukugqebheza kwimbewu,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00759,abafundi bavuke indlobane bengafuni ukugadwa,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00762,inzima impilo kobhalwe kwabangasekho,1,0,0,0,1,0,"['anger', 'sadness']",test
+zul_test_track_c_00764,kusolwa umzanyana ngokubulala ingane,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00768,uzoluleka abazohambela intandokazi yesolezwe usomabhizinisi,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00769,kusolwa umbango wokuwasha izitsha ngengane ezilengisile,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00771,ubuyele ku-ifp umholi ophezulu wenfp,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00772,bayaveva abacinyelwe ugesi enkandla,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00773,kumanele olunywe wushaka umphambili,0,0,0,0,1,1,"['sadness', 'surprise']",test
+zul_test_track_c_00774,abafuni ukuqagela ngokubulawa kommeli,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00775,kwebiwe usana lunezinsuku ezintathu,0,0,0,0,1,1,"['sadness', 'surprise']",test
+zul_test_track_c_00781,udutshulwe wafa obebopha amaphoyisa ngokumlumisa ngezinja,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00782,kudutshulwe umholi wesizwe sakwagcumisa,1,0,1,0,1,0,"['anger', 'fear', 'sadness']",test
+zul_test_track_c_00784,ungene ehlazweni obanjwe oqotsheni ekhwelele ikati,0,1,0,0,0,0,['disgust'],test
+zul_test_track_c_00787,abadelile ingakaboshwa nemenenja yetheku,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00789,bacabanga ukuthutha kubulawa ikhehla nesalukazi,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00791,uchaze ngenkinga yezikweletu,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00792,uzokwethula iqembu elisha upatricia de lille,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00793,owesifazane udilikelwe wudonga wafa emlaza,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00796,usagcwele amathafa owesilisa osolwa ngokweba ingane eneminyaka emibili,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00797,thulu ngasho sengyajola manje...khuuphuka lapho!!! @musiholiq_nuz when we hangin each other with brothers @sizwebeans n @m_uniq_entertainment kuhlezi kumnandi much luv gent's🎼💖🙌 @ emhlabeni wase durban https://t.co/iyte6cxpns,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00800,uzame ukuzibulala umqeqeshi wamanyala,0,0,0,0,1,1,"['sadness', 'surprise']",test
+zul_test_track_c_00801,kufunwa umkhondo  womfundi okunamasonto enyamalele ekhaya,0,0,0,0,1,1,"['sadness', 'surprise']",test
+zul_test_track_c_00803,kushone 13 engozini yetekisi  'ebisuka kwanongoma' neloli,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00805,umisiwe uthisha 'ogila' imikhuba,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00808,izinyembezi zenjabulo kuramaphosa enqoba,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00809,kunzima bebona indodakazi ibulawa umyeni,1,0,0,0,1,0,"['anger', 'sadness']",test
+zul_test_track_c_00811,bazizwa bengaphephile abokufika abadayisa ethekwini,0,0,1,0,0,0,['fear'],test
+zul_test_track_c_00814,isidumbu sowesifazane obedukile,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00817,bahlakazwe ngezenjoloba bebhikisha,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00818,iphoyisa likutakute isosha kudlalwa lashona,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00824,kufe oyedwa kusha amadokodo ebuhleni,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00825,baphila ngokwesaba abokufika egoli,0,0,1,0,0,0,['fear'],test
+zul_test_track_c_00834,babalelwa ku-1200 abazolahlekelwa umsebenzi kwastandard bank,0,0,0,0,1,1,"['sadness', 'surprise']",test
+zul_test_track_c_00840,ezothando: abasemzini bathi ngabulala umyeni wami ngengculazi,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00841,owesifazane utholwe enqunu egwaziwe,0,0,0,0,1,1,"['sadness', 'surprise']",test
+zul_test_track_c_00842,‘kunqunywa abangu-6 imilenze ngosuku ngenxa kashukela’,0,0,0,0,1,1,"['sadness', 'surprise']",test
+zul_test_track_c_00844,iphoyisa lidubule labulala ababili enkantolo kweledivosi,0,0,0,0,1,1,"['sadness', 'surprise']",test
+zul_test_track_c_00845,bavale umgwaqo bekhononda ngogesi,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00846,umfana oneminyaka ewu-11 ungomunye wababoshelwe ukudlwengula,1,1,0,0,0,1,"['anger', 'disgust', 'surprise']",test
+zul_test_track_c_00847,usizi nomunyu kufihlwa intatheli yesolezwe,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00848,kusolwa izihlobo ngokufa kwezingane ezashiswa zilele,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00851,kunconywe ijaji uzondo ngendawo entsha nezindleko,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00852,"kufe abangu-22 kuqhuma ibhomu emanchester, e-england",0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00853,kufe abahlanu kuqhuma inganono kwadabeka,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00859,uchichima injabulo esayiniswa inkampani yase-usa,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00863,kubhubhe-19 ezingozini zomgwaqo,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00866,uphume ngesamagundwane umbalula besho ukumudla abamatekisi ethi ubhula umlilo,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00870,kuboshwe inyanga esolwa ngokudlwengula,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00871,kufezeke iphupho ebona owozalo,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00872,baququdwa amakhaza abekwaito,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00875,ushone ebalisa umculi wowokholo,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00879,kudutshulwe kwabulawa izelamani ebhamshela,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00880,obedukile utholwe emakhazeni,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00881,umaskanda odume ngokuswenka 'akazondli' izingane zakhe,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00882,ngingumfundi okhulelwe othandana nabantu abathathu,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00885,kushaywe abasolwa ngokugqekeza,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00889,umisiwe ‘onukubeza’ odado esikoleni,0,1,0,0,0,0,['disgust'],test
+zul_test_track_c_00890,upitso uveze ukunengeka ngotoni silva,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00891,sisulile emsebenzini isikhulu esiphezulu somgeni water,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00893,ingebhe umndeni ushiselwa izimoto,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00894,uvalo emndenini kubulawa okhanda izimoto enanda,0,0,1,0,1,0,"['fear', 'sadness']",test
+zul_test_track_c_00895,kuphazamiseke ukufunda befica ithuna ekilasini,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00898,siboshwe izandla nezinyawo isalukazi (80) sibulawela impesheni,1,0,0,0,1,0,"['anger', 'sadness']",test
+zul_test_track_c_00900,badinda isililo abashaywe yingidi emahhovisi ebhanoyi,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00904,uzobhadla ejele umfundisi owadlwengula umzalwane,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00905,bamise ukwakhiwa kwefet befuna ukuqashwa,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00907,ubhoboka ngezinsuku zokugcina zikancwane,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00911,sekubulawe izingulube eziwu-1.7m ngenxa yomkhuhlane,1,0,1,0,0,1,"['anger', 'fear', 'surprise']",test
+zul_test_track_c_00912,ushaqekile kukhula isibalo sabafa emgwaqweni,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00914,icosas ifuna kuvalwe izikole ngenxa yokubhebhetheka kwecovid-19 kubafundi,0,0,1,0,0,0,['fear'],test
+zul_test_track_c_00915,kufunwa umndeni womfana ongazazi,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00916,uthisha ugijimise uthishanhloko ngommese,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00920,kusolwa ukudla okunobuthi kushona abafundi abathathu esikoleni,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00921,uzodwa wabantu uxoshelwe isimilo ezambia,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00924,kufe abomndeni (13) engozini yetekisi,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00925,kushone 13 kudilika isakhiwo sebandla empangeni,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00926,ligwazwe lashona iphoyisa lezobunhloli,0,0,0,0,1,1,"['sadness', 'surprise']",test
+zul_test_track_c_00930,uthisha usinde egwazwa ngumfundi obefeyilile,1,0,1,0,1,0,"['anger', 'fear', 'sadness']",test
+zul_test_track_c_00931,ushayiswe yiloli wayizicucu umfana ona-2,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00933,"nakhu la sikhona ngaleskhathi. awuqine ushuni kadangala majongo, akukhushukwe! drip law: every szn is denim szn. 😅☔️ https://t.co/ljhi4tayqw",0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00938,kwavele kwathi angikhale 🥺waze waxoveka umoya wami😒 sengfisa ngisho utshwala,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00940,isoka lizame ukubulala intombi ekhulelwe maqede lazisika uqhoqhoqho lizibulala,1,0,0,0,1,1,"['anger', 'sadness', 'surprise']",test
+zul_test_track_c_00941,kuphucwa abafundi abawu-5 000 uxhaso lwenfsas,0,0,0,0,1,1,"['sadness', 'surprise']",test
+zul_test_track_c_00942,@enza_mags -i was very mad 😂🤞🏾 ukuthi aibo uwena lo😡,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00944,kushiswe isonto umfundisi enqaba ukukhokha imali,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00946,uthakasela ithuba lokulingisa kwi-unmarried,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00948,ubanjwe oqotsheni ona-61 esehlabe izinkomo zokwebiwa,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_00951,izithombe: sibhubhisile isiphepho empolweni,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00955,bathuka izanya othisha ngozakwabo odutshulwe esikoleni,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00963,undlovu ube yisiphesihle kwiteam of choice emuka nomklomelo,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00965,lihlehlile icala lamantombazane 'ababulale' unina ekhaya,0,0,0,0,1,1,"['sadness', 'surprise']",test
+zul_test_track_c_00967,kufe ingane kuhlaselwa owamatekisi,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00970,usemisiwe emsebenzini uthisha (51) osolwa ngokulala nomfundi (13),0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00971,kushone abathathu engozini yetekisi kwazulu-natal,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00980,"@iamthobani @bheki_nyathi kzothiwa nqampunqampu nje bese kyalunga, but lesimo sinzima in 2009 wafa kanje umunt eze kumawengane yakhe aw ishende lavula lamphihliza ngesdunu sembazo umshubo. umunt ezingenela engazilutho😭😭😭😭ey wafela phambikwami",0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00981,@ndhile_dlamini bavuka ngo-2 laba. bagqoke ama-gown batende nawo yonke imigwaqo le bengageze nakugeza. nophaqa abanamazambane ezithendeni. 😔,0,1,0,0,0,0,['disgust'],test
+zul_test_track_c_00985,@mtubane ngiyajabula ke mawuzintelela nje qhawe lakithi. 🤝😂,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_00991,ufaka umasipala enkantolo odilizelwe isitolo,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_00995,umholi wenfpushone engozini yemoto,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_00998,bahlaselwe belele bafunwa imali nemoto,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01001,icorona isaqhubeka nokubulala abantu okwezimpukane eningizimu afrika,0,0,1,0,1,0,"['fear', 'sadness']",test
+zul_test_track_c_01003,ujabulele ukubuya kukamemela,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01004,ubarker uncoma ibhola elihle lestellenbosch fc,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01007,bazovulelwa amacala ababhubhudla imali yecorona ethekwini,0,1,0,0,0,0,['disgust'],test
+zul_test_track_c_01008,akayifunanga ibheyili umfundisi (73) osolwa ngokubulala intombi nabazukulu bayo,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01013,isitshudeni sesiduke izinyanga ezintathu,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01014,unengwa wukusebenzela ekhaya owokhozi,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01015,uboshiwe osolwa ngokuqoba umshana,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01016,bazohola imali ephelele abasebenza edenel,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01021,kushone abantu abangu-9 kwalimala-11 engozini yetekisi,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01022,sisendawonye nomkami kodwa asisathandani : andile jali,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01025,uyaphika ukuthi waqola abazalwane,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01026,kubulawe usomabhizinisi ehlaselwa kwakhe,0,0,1,0,1,0,"['fear', 'sadness']",test
+zul_test_track_c_01028,abazenza amaphoyisa bahilizisane nenyanga epulazini bayidubula yafa,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01029,‘ngijabulile kufika  umosimane’,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01030,bazobuyela enkantolo abathinteka ekufeni kwenqwaba,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01031,uthisha ubhaxabula umfundi ngepayipi,1,0,0,0,1,0,"['anger', 'sadness']",test
+zul_test_track_c_01032,kufunwa ababulale owesifazane bemphanga emlaza,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01033,kufe owasezim elinyazwa yinsimbi,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01034,lilokhu ligobhozile igazi emahostela,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01036,ubenni ubhodla umlilo ngesinqumo sikamasipala,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01039,[imibono] noma kunjani soze ngiqashe udaubermann,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01040,abaseglebelands bajabulela amaphoyisa,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01043,ukhathazekile unina wodlwengulwe eya esikoleni,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01044,bazovela phambi kwekomiti lephalamende bonke omasipala,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01047,bakhungathekile ngoduke ehostela lakwamashu,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01048,kuvuswe abesifazane abahlukunyezwa ngabathandana nabo,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01051,kuwe insika endimeni yokusakaza,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01056,uhunt ufe olwembiza kufa umdlali engozini,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01057,utau uyazigqaja ngokumela i-afrika  ohlakeni lwamazwe,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01060,kulimale 23 kuginqika itekisi ethutha abafundi,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01064,zimisiwe izitshudeni ezathela unogada ngophethroli edut,0,1,0,0,1,0,"['disgust', 'sadness']",test
+zul_test_track_c_01065,kulimale abangu-11 engozini yetekisi,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01066,kusolwa udlame lwamatekisi ngabadutshulwe bafa,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01067,ujabulela ukuba nabadlali anqobe nabo,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01068,ukhisimusi omuncu kwabenumsa,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01072,abamabandla abekho msulwa ngokubulawa kwabesifazane,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01073,ushonile obelethe ethoyilethi esibhedlela,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01074,kufe abawu-10 kugingqika itekisi egoli,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01079,@sneh_khuzzy sengifunga wena ❤️😍 ngiyajabula uma usaphila,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01084,isibhicongo udonga lubulala izingane,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01087,lifezekile iphupho lesibabuli sosuthu esishayela phezulu,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01088,bakhala ngokuphucwa iqatha emlonyeni osonkontileka,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01091,kusolwa amarabi kolunywe yinja,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01093,usteve ufuna bajabule abalandeli,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01095,bagezeke igilo abalandeli ekhonsathini kacassper nyovest,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01096,i-nehawu ihlabela phambili neziteleka emanyuvesi,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01097,@santacokzn emzinyathi sekudutshulwe itekisi inabagibeli aningenelele ayihlale phansi ibambe umthetho isibhamu asakhi lutho ezweni😭 https://t.co/bepc07rssk,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01098,uphenyo ngokufa kongqongqe elele endlini,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01100,#kznsopa: uzikalala ukhathazekile ngesimo somnotho,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01101,intukuthelo ngokunqamuka kukagesi,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01104,kwehle umthwalo kumfelokazi obenabayeni 'ababili',0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01105,abokufika bakhala ngesibhaxu 'samasosha',0,0,1,0,0,0,['fear'],test
+zul_test_track_c_01111,ucikwa abamgxeka ngokuncelisa ibele ulinda,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01112,bakhala ngokuqalekiswa ngumashonisa obuye abasongele,0,0,1,0,0,0,['fear'],test
+zul_test_track_c_01114,kufezeke iphupho kutoya delazy esungula elehip hop lesibhuda,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01115,omasipala basekzn baxhaphaza imali,0,1,0,0,0,0,['disgust'],test
+zul_test_track_c_01118,kuboshwe abawu-100 kutholana phezulu amaphoyisa nabokufika ekapa,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01121,kufezeke iphupho kudavies engena kowamanqamu nebayern,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01125,inhlokomo kuhoxiswa amacala emeya,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01126,‘abashumpulwe ubuntu abadlwenguli’ - isilo samabandla,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01127,usedlulile emhlabeni uneyi zimu,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01130,umsindo ngesikhundla sikathishanhloko,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01136,silandelwa yishwa isitabane esishonelwe,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01141,usale dengwane oqolwe ngomshado,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01144,'unqume' uyise wamqoba,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01145,bakhungathekile owesifazane ebulawa yizinswelaboya phambi komndeni,0,0,1,0,1,0,"['fear', 'sadness']",test
+zul_test_track_c_01147,kushiswe ihhovisi lekhansela elisolwa ngenkohlakalo,1,0,0,0,1,0,"['anger', 'sadness']",test
+zul_test_track_c_01148,ibuyele kunina ingane ebithunjiwe,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01149,i-anc ididekile kolomhlaba -mbeki,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01150,zizomiswa izikhulu 'ezikhohlakele',0,1,0,0,0,0,['disgust'],test
+zul_test_track_c_01155,usazincoma osolwa ngokubulala ifree state,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01158,umculo uyangiphilisa',0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01160,ubhodle umlilo ubenni edliwa usuthu,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01161,kulimale abangu-10 engozini yetekisi,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01162,iphumile esibhedlela inkosikazi kablack coffee,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01163,kudutshulwe iphoyisa elithinteka ecaleni,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01167,idikwena ingaseithole ikhaya elisha,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01169,intukuthelo kunyuka imali yokugibela entshangwe,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01171,kushone amakhansela amabili e-anc engozini,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01173,induna kwelokubulala ngokushisa,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01175,ubrickz uvele wakhala ebuyiselwa esitokisini,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01176,imibuzo ngesimo somlingisi ogulayo,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01179,guys bajabulile abantu be glorious movement ku facebook. kuya le kuya le 🤣,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01187,amaphoyisa asafuna owecala lokubulala ingane nonina,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01188,kushone abane engozini eramsgate,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01189,isitshudeni sitholwe sishonile embhedeni wesoka 'selibalekile',0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01191,umampintsha usolwa ngokugweva nemali,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01196,ugada abazukulu unina ‘eyobhenga’,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01198,uhulumeni uthi amaphaphu phansi kubuya isifo sikapholoni,0,0,1,0,0,0,['fear'],test
+zul_test_track_c_01199,indida ngobekhishwa yisisu kodwa ofe esenengozi,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01201,kuboshwe isoka kufa intombi eyiphoyisa,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01202,uzobukwa nguyise ukolisi kowamanqamu ejapan,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01204,kusolwa isoka ngesidumbu ebesisemfuleni,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01212,bafuna kuboshwe iphoyisa,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01216,kufezeke iphupho esebenza neh&m,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01218,owesifazane ubulawe ngesibhamu elele esitolo,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01220,uhulumeni usebenzise ur51b budlabha,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01224,injabulo kowamajita ngomphumela we-afcon,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01227,uzikalala ungabaza omakadebona,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01228,kuqedwe usizi kuvulwa imizi namabhuloho,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01232,bashaqekile ngengane eshaywe wumbani,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01235,bashaqekile bethola owesifazane enqunu eshonile,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01238,kusane mpumelelo yami nje esavaliwe engakathintwa nhlobo nje 🤞🏾👏🏾🙏🏽,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01242,kuboshwe nomphathi wabaphenyi kwelokubulala,1,0,0,0,0,1,"['anger', 'surprise']",test
+zul_test_track_c_01243,kuzoshuba kothisha abakhulelisa abafundi,1,1,0,0,0,0,"['anger', 'disgust']",test
+zul_test_track_c_01245,sebegadwa ngabazali othisha abasatshiswayo,0,0,1,0,0,0,['fear'],test
+zul_test_track_c_01246,abathenwe abantu abadlwengulayo,1,1,0,0,0,0,"['anger', 'disgust']",test
+zul_test_track_c_01256,kufunwa isiboshwa eseqile,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01257,kudlangile ukuhlukunyezwa kwabafana ngokocansi,0,1,1,0,1,0,"['disgust', 'fear', 'sadness']",test
+zul_test_track_c_01258,indodana yomuntu mos le😳😳😳 https://t.co/4z9hopcxo9,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01259,izimpohlo zikhala ngoneka amaphenti budlabha ehostela,1,1,0,0,0,0,"['anger', 'disgust']",test
+zul_test_track_c_01261,ususe umsindo umdlali wechiefs ngokufuna ukudlala,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01263,isikhwele isosha 'libulala' umlamu,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01265,isitshudeni sibhokodwe yisoka laso safa,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01267,isililo kugoduka ingqalabutho,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01270,uvalo ezinduneni kudutshulwa enye yafa,0,0,1,0,0,0,['fear'],test
+zul_test_track_c_01274,owothando nes'thembu usengumculi,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01275,baxoshelwe ama-toilet paper abafundi,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01281,kulimale abawu-22 kushayisana itekisi neveni,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01286,uzikalala uncoma odokotela basecuba,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01287,bahubhane esteji bebanga ingoma,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01288,izibalo ezishaqisayo ngabafundi abadla izidakamizwa ezikoleni,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01291,@sethamdluli lol ngyajabula homeline uma sibona ngokfana 😁,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01293,ushayiswe yimoto wafa owasinda engozini,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01294,‘ayethengwa amavoti enasrec’ - owayengungqongqoshe,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01295,umunyu kukhonjwa 13 wabashonile,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01296,ujabulile ngesenzo sikasomizi umndeni kabobo,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01303,uboshiwe owesilisa (21) 'obezivikela' ngogebhezi lukanina owafihlwa ngo-2001,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01304,abakalutholi usizo abashelwa yindlu,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01307,inhlokomo amaphoyisa enqatshelwa ibheyile,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01309,isekubhaceni imenenja kamjek'jelwa ngezinsongo zokubulawa,0,1,0,0,0,0,['disgust'],test
+zul_test_track_c_01311,bamashele osolwa ngokubulala umfundi,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01312,umunyu ekhumbula owafela ethoyilethi,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01314,zihamba ngolayini' izinto kulady du,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01316,kusolwa inkinga yezimali owesifazane 'eqotha' umndeni,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01321,kushiswe izitolo zabokufika epitoli kwebiwa nempahla,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01322,‘ubulale’ uninakhulu ngephini obelwa,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01326,ubonga imtv usomahlaya ngohlelo lwakhe,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01327,bashaqekile eqhunyelwa yiselula eyishaja wafa,0,0,0,0,1,1,"['sadness', 'surprise']",test
+zul_test_track_c_01329,ushaqekile umndeni ngomhlengikazi obulewe,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01332,umhlangano ngedog style ubhuntshiswe abalandeli,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01333,libheke ukubuya nendondo ele-netball,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01337,ungqokloze abaphathi bakhe ngenhlamvu,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01338,kufe umfundi (15) empini bebanga intombi,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01342,bavale umgwaqo bethi abanakiwe,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01343,kubi kwabathenga ezokushayela,0,0,1,0,0,0,['fear'],test
+zul_test_track_c_01349,lithole ibheyili iphoyisa elisolwa ngokugwazisa,0,1,0,0,0,0,['disgust'],test
+zul_test_track_c_01350,ezimnandi kwehliswa i-repo rate,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01351,ukhuzani usayinise umaskanda wesifazane,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01352,uvalo lokudilizwa lwamnika isibindi,0,0,1,0,0,0,['fear'],test
+zul_test_track_c_01353,kushone ingane (4) emlilweni oqalwe yi-heater enewcastle,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01356,obesemkhunjini wase-india uphuthunyiswe esibhedlela kukubi,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01357,kuminze iphoyisa lidoba olwandle,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01361,bamshisa ngabilayo bamshayela ngesipikili,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01363,ezothando: sengikhathele wukulinda umshado engathenjiswa wona,1,0,0,0,1,0,"['anger', 'sadness']",test
+zul_test_track_c_01366,izifundiswa ezingasebenzi zicikwa yizikhulu,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01367,isililo ngamakhansela agweva namaphasela okudla,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01376,umiddendorp ucikwe abalandeli abagxeka u-akpeyi,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01378,injabulo emacikweni kuhoxiswa amacala awo,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01379,ucishe waphahluka ngokufa kukasenzo,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01381,bakhathazekile kuhlehliswa icala abalandeli bowayeyimeya,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01386,@lordwick_mei ilelirasta nje 😡😡😡 kodwa kushoniwe,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01388,ungizwe usolwa ngokushaya umkakhe,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01389,sisabalele isililo ngokudlula kukabra mesh,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01390,basebumnyameni ngenkosi ethunjiwe,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01392,kubhlungu umpimbo kugwinyeka kanzima lapho ngihalela inyama yenhloko kanjan eyyyy 😫,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01396,lisekubhaceni isoka elibulele obengasalifuni,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01403,kusolwa umbango womzila wamatekisi kudutshulwa kubulawe umshayeli wemoto ebilayishe othisha,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01407,kudutshulwe obephelezela ungqongqoshe emlaza,0,0,1,0,1,0,"['fear', 'sadness']",test
+zul_test_track_c_01408,basenkingeni abesilisa abasabiswa ngamacala okudlwengula angekho,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01409,bafuna 'uthishanhloko' axoshwe,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01412,ubuthelezi ukhale ngenzondo kubaholi be-anc,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01413,kushone abesifazane abawu-13 engozini yetekisi namaloli amabili kwazulu-natal,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01415,ubolele ekhaya labantu abadala,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01417,kushaqeke abagibeli kubulawa umshayeli webhasi,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01418,uhlelo nethuba lokubuyisana nezingane emadodeni,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01419,baphelelwa yithemba ngoduke eyoqala emsebenzini,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01420,kuphenywa ngosabise ukudlwengula ingane,0,1,0,0,1,0,"['disgust', 'sadness']",test
+zul_test_track_c_01423,ikhale ngokuhlukunyezwa imeya idedelwa kwelezinsolo zokubulala,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01430,bakhomba owazibulala kwelezicubu zabantu,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01433,owe-ancyl usocongwe ephuma kokhuleka,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01434,ufuna ur2m wesinxephezelo oshumpulwe ibele yisibhedlela,1,0,0,0,1,1,"['anger', 'sadness', 'surprise']",test
+zul_test_track_c_01442,usonkontileka ugqitshwe umgodi besebenza,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01443,"@untulizempi28 abantu abangazange beqhathwe, bafuna ukshawa zinsizwa🤞🏾",1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01444,usengumdlali wesundowns ujeremy brockie,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01445,"sengisaba noku thimula, forget nje to cough. 😩",0,0,1,0,0,0,['fear'],test
+zul_test_track_c_01446,kubatshazwa isihluku okubulawe ngaso ikhehla,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01449,@mmqwashu musa ukudakelwa @julius_s_malema wena manje enzenjani ahlale emjondolo izingane zakhe zingafundi? wena wenzenjani ngempilo yakho nomndeni wakho?? yeka ukusangana bafo 🤞🏼 kusho ukuthi uyajabula njengoba kubalawa abantu abamnyama njengo cyril,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01453,"o-anti bayahlupha, umuntu ehlulwe umendo wakhe, abuye azoba ubhongoza la, nywe nywe “kukithi la” fakhi 🤬",1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01456,izitshudeni zikhala ngokukhishwa ngodli ongoye,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01463,kusolwa izihlobo etholwa eweni efile emzimkhulu,0,0,0,0,1,1,"['sadness', 'surprise']",test
+zul_test_track_c_01464,ngikujabulele ukuphinda ngiqeqeshe: riky rick,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01466,akakafihlwa owanqunywa ikhanda,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01467,bazohleka bodwa abasembonini yamatekisi njengoba  bezothola uxhaso,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01468,umantashe uphika eyokugwazela izintatheli ukuvimba udaba ngocansi nesitshudeni,0,1,0,0,0,1,"['disgust', 'surprise']",test
+zul_test_track_c_01470,othisha bancintisana ngokulala nabafundi,0,1,0,0,0,0,['disgust'],test
+zul_test_track_c_01474,kufunwa onyamalale nosana luyogonywa,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01476,obekuzalo uthathwe umlilo,0,0,0,0,1,1,"['sadness', 'surprise']",test
+zul_test_track_c_01482,kusolwa isoka uthisha enqunywa uqhoqhoqho,1,0,1,0,1,0,"['anger', 'fear', 'sadness']",test
+zul_test_track_c_01485,indida ngesalukazi esizilengisile,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01493,kuhoxiswe izitifiketi zamaphoyisa angu-81,0,0,0,0,1,1,"['sadness', 'surprise']",test
+zul_test_track_c_01494,ngiyakujabulela kuthi usuyangena hawu… ngiyasbwl mina nomkhaba 💔 https://t.co/oaqjc5axro,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01498,abasakazi bakhale kubalaleli ngokungaholi,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01499,inkantolo ichithe isicelo sikazuma,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01502,bavale umgwaqo bebhikishela ugesi,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01504,bavelile abashaya babulala izingane,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01510,sekufe izingane ezingu-10 ngokudlala isitabane,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01512,lidlule nowasekzn kuma-idols,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01514,[imibono] izinguquko zegagasi fm ziyajabulisa,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01516,abawu-22 000 bangase baphelelwe wumsebenzi e-edcon,0,0,0,0,1,1,"['sadness', 'surprise']",test
+zul_test_track_c_01517,bafuna imali yabo abahola eyesibonelelo,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01519,#utatakho: sihlasimulisa umzimba isiqephu sakamuva,0,1,0,0,0,0,['disgust'],test
+zul_test_track_c_01522,umrepha uzame ukuzibulala ngenxa yokhwantalala,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01523,kufunwa owaduka eyokhokha imali yemoto,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01526,kubuye ukuzethemba kwabechiefs iqhubeka nokunqoba,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01527,"day 116: ididi ke leli, ididi nje! umuntu hasn't had water the whole fucken day in the neighborhood, ngiphila ngok'cacamezela - impilo engingayazi, engang'fanele futhi 😡 kwaze kwakude ekhaya 😭",1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01530,kufufusa isiteleka sabensfas,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01533,ithathwe ushukela indoda ebinesithembu sabawu-38,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01534,sephukile isethembiso somshado,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01538,bafe olwembiza abaholi bendabuko kukhothama ingonyama,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01539,kusolwa ukuthi lizibulele iphoyisa elitholwe emotweni liphangalele,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01541,bangu-353 ababoshelwe awokudlwengula,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01543,babonge amakholwa abakhele indlu enesithunzi,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01549,basola ukubulawa kuthisha otholwe elenga,0,0,0,0,1,1,"['sadness', 'surprise']",test
+zul_test_track_c_01552,lihoxisiwe icala lowayeshaya indlwabu ejimini,0,1,0,0,0,0,['disgust'],test
+zul_test_track_c_01553,umthelela omubi wesomiso kwezolimo,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01554,kufe abashayeli engozini yetekisi neveni,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01555,unjenje uncoma umdlali webucs,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01559,ijabule i-anc inqoba okhethweni lokuchibiyela,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01560,banqunyelwe ugwayi katiki abasebenzi,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01562,badinwe bashisa umuzi nepulazi lomlimi eshowe,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01563,kwakhiwe isigungu esizobhekela izinkakha zebhola,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01573,kudutshulwe abasebenzi nezitshudeni edut,1,0,1,0,1,0,"['anger', 'fear', 'sadness']",test
+zul_test_track_c_01574,ucasulwe wukuphoxwa kutshalwa inkosi,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01576,bafuna abadlwenguli nababulali badingiswe,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01580,bafuna ubuyile umhlaba abawuphucwa ngobandlululo,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01581,kusolwa impi yokudayisa izidakamizwa kufa ababili,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01584,kushubile osomatekisi bevimbezela abashayeli betaxify nabe-uber,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01585,umfana ona-15 kwelokudlwengula abafana,0,1,0,0,1,0,"['disgust', 'sadness']",test
+zul_test_track_c_01586,ufuna kuphenywe kufa abayisithupha engozini,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01590,usephenduke umzali owashiywa nengane encane unina wayo wabaleka,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01591,usesimeni esibucayi uhlengiwe mhlaba ovelelwe yingozi yemoto,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01592,udutshulwe wafa umlimi ovulele ngenhlamvu emaphoyiseni,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01597,ushonele esikoleni umfundi (14) ogwazwe ngesikele,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01603,bangcwabe ingane ngaphandle kwebhokisi,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01609,uboshwe namakhadi akwa-sassa awu-70,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01611,baklajwe bafa besolwa ngobuphara,1,0,0,0,1,0,"['anger', 'sadness']",test
+zul_test_track_c_01612,bazomasha ngenxa yomsolwa odedelwe kwelikabobo,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01613,"seeing tweets from joggers abavuke bayojaha umoya emgwaqeni..ngaze ngaphuthelwa ke ☹ kodwa ngisasaba, i won't lie. i'll continue khona la ebhilidini for now.",0,0,1,0,0,0,['fear'],test
+zul_test_track_c_01615,kulimale abawu-15 kuginqika itekisi eladysmith,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01616,kusolwa owokhozi ngabahilane e-studio,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01617,kuthungathwa ohlasele wabulala abathathu,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01619,kufe usomatekisi nomsebenzi kuhlaselwa ecar wash kwamashu,0,0,1,0,1,0,"['fear', 'sadness']",test
+zul_test_track_c_01623,bamise yonke into befuna amanzi,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01627,bazimisele ukundizisa entsha yamabhanoyi,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01628,ukhala ngokuhlukunyezwa wunina ngoba ethe unehiv,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01630,bafuna ajeziswe ‘odlwengulile’,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01631,wadutshulwa exolisa uzolile khumalo,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01633,kushone isiguli kugingqika ibhasi lomnyango wezempilo,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01640,‘ngijabule ngokusebenzela igagasi fm’,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01641,kusuke isidumo befuna amanzi eharding,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01643,amaphoyisa kwelokukhwabanisa,1,1,0,0,0,1,"['anger', 'disgust', 'surprise']",test
+zul_test_track_c_01648,kubuya olokunqanyulwa kukagesi,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01651,kumiswe ungqongqoshe osolwa ngokuqamba amanga ngeziqu,0,1,0,0,0,0,['disgust'],test
+zul_test_track_c_01654,owenfp usinde esocongwa,0,0,1,0,1,0,"['fear', 'sadness']",test
+zul_test_track_c_01655,uhleli endlini ewayo umndeni wesishoshovu se-anc,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01656,kubanjwe abahlengikazi bentshontshela  isiguli,0,1,0,0,1,0,"['disgust', 'sadness']",test
+zul_test_track_c_01658,#emahlaseni kwaze kwamandi ukubona abantu base 🇿🇦 bejabulile dankie mongameli wethu mnxn @ durdoc hospital https://t.co/uthwoz9wxf,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01661,umfelokazi ‘ubulawe’ yisoka emuva kokulipha imali,0,0,0,0,1,1,"['sadness', 'surprise']",test
+zul_test_track_c_01665,bakhale ngamathuba omsebenzi bebhikisha,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01667,kushone abathathu iloli ingena endlini,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01668,abantu bathukuthele bavala umgwaqo,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01669,uyaziqhenya ngokuthola uhlanti kwelasesoweto,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01670,kulimale abokufika kuhlakazwa imashi yabo,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01674,umsakazi uquleke waphaphama esibhedlela,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01677,ulale ebaliwe ‘osacaze phansi ingane yafa’,0,0,0,0,1,1,"['sadness', 'surprise']",test
+zul_test_track_c_01681,uxwayisa ontanga ozale wafihla usana,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01683,ingwijikhwebu 'ngofe wavuka',0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01684,useboshiwe osolwa ngokubulala isitshudeni wasishiya embhedeni nengane,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01685,kubulawe isalukazi ngabebezenza amasosha,1,0,0,0,1,0,"['anger', 'sadness']",test
+zul_test_track_c_01688,oshonelwe wusana ufuna kujeze onesi,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01690,ufele ur20 wecd engadlali owokufika,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01692,obambe ur51 million wepowerball uzofundela ukuba wusonhlalakahle,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01693,wethule ubufakazi obushaqisayo ngamaqembu ezigebengu ekapa owayeyilungu,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01696,ushaywe ngumphakathi waboshwa ‘ogwaze wabulala’ uyise,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01701,abayizwa eyokubulawa kukamndeni abehostela,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01703,ichiefs ikhiphe ibhadi inqoba ekhaya koweligi,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01706,kufe 6 bezama ukubamba inkunzi,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01707,basabisa ngesiteleka abamatekisi,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01708,kubulawe owesifazane obenenkulisa edumile ethekwini,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01710,akudluli kumsakazi wokhozi owaliwa yisoka,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01711,kumenele uninakhulu wabashe nendlu,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01713,kutholwe isidumbu somhlengikazi sesonakele,0,1,0,0,1,1,"['disgust', 'sadness', 'surprise']",test
+zul_test_track_c_01714,bashaqekile kubulawa umshayeli wamabhasi,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01718,ubengafuni ukubuyela ekhaya obulawe yisoka ethornwood,1,0,0,0,1,0,"['anger', 'sadness']",test
+zul_test_track_c_01721,umdinga ebaliwe osolwa ngokudlwengula indodakazi (13),0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01722,ikhansela lizocela ibheyili kwelokubulala,0,1,0,0,0,1,"['disgust', 'surprise']",test
+zul_test_track_c_01725,uboshelwe ukudlwengula indodakazi yaze yabhaca,1,1,0,0,1,0,"['anger', 'disgust', 'sadness']",test
+zul_test_track_c_01726,kuboshwe 'ababulala' iphoyisa,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01728,wethuka izanya umndeni wentombazane (14) ebulewe,0,0,0,0,1,1,"['sadness', 'surprise']",test
+zul_test_track_c_01732,bahlalele ovalweni ‘kucanasa’ amabhubesi,0,0,1,0,0,0,['fear'],test
+zul_test_track_c_01734,asabisa ngokuteleka amaphoyisa,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01736,ikhansela ecaleni lokuzama ukubulala,1,0,1,0,0,0,"['anger', 'fear']",test
+zul_test_track_c_01738,kuboshwe umphrofethi 'oqole' uthisha ur319 000,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01739,"@nanazulu ngthanda smile sakho😉. ngi right sis wam, ngyajabula uma usharp nawe🤗",0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01740,injabulo kuthembisa oselingisa kwisibaya,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01741,i-arrows ibuyele kwamhlaba ihlulwa elisemsileni,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01742,kushubile ubabezala ejola nomakoti,0,1,0,0,0,1,"['disgust', 'surprise']",test
+zul_test_track_c_01744,kulimale abafundi abawu-72 kuginqika ibhasi,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01752,bangeniswe esibhedlela abafundi (20) abadle ama-space muffin,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01753,usalila obanjwe inkunzi nguscabha etekisini,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01755,uziphonse edamini washona ‘ebalekela’ ukuboshwa ngamaphoyisa,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01756,kuhlaselwe ikhansela kwashiswa nomuzi walo lilele nezingane,0,0,0,0,1,1,"['sadness', 'surprise']",test
+zul_test_track_c_01758,osaziwayo abangafikanga emcimbini bacasule izihlwele,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01759,bashaqekile kudutshulwa induna yasemzumbe,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01768,ungcobo ubhoboka ngobuhlungu abuzwayo ngesimo sechiefs,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01772,baficwe wukufa bephuma ebumnandini,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01773,bakhala ngokudilizelwa izindlu eklaarwater,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01774,kuqhume iqupha izikhulu ze-anc zibanga owesifazane,1,1,0,0,0,0,"['anger', 'disgust']",test
+zul_test_track_c_01776,ezothando: ngikhuleliswe wumfowabo wesoka lami ngephutha,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01777,umsindo kumenyezelwa umntwana umisuzulu njengesilo esisha,1,0,0,0,0,1,"['anger', 'surprise']",test
+zul_test_track_c_01780,kusolwa iwunga kubulawa abathathu bosa,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01788,uswele umgodi wokucasha unala kuphahlazeka ‘ibhanoyi’,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01791,odilikajele ababili ekhehleni ebelidlwengula lizenza umfundisi,0,0,0,0,1,1,"['sadness', 'surprise']",test
+zul_test_track_c_01792,uyise kasenzo meyiwa ujabule ngokuvele ezinkundleni zokuxhumana,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01803,izibhamu zikamasipala emacaleni okubulala,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01804,uzithele kwisidumbu sosana elungisa amapayipi,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01807,umculi wowokholo engozini yemoto,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01810,umunyu kufihlwa owescandal!,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01811,usole umbango kuvalwa iculo lakhe okhozini,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01820,kubhubhe amalungu omndeni ayisishiyagalombili engozini,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01822,@sinelisolindani haw yaz nje ngsabathe ngyahlina ay ubhuti uyathinta nje 😩😩,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01823,u-aka uchaza ngobuhlungu bokushonelwa yingoduso,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01831,kushiswe amabhasi kwabuya amatekisi emnambithi,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01833,intombi yomvangeli wakwashembe igweva nesidumbu,1,1,0,0,1,1,"['anger', 'disgust', 'sadness', 'surprise']",test
+zul_test_track_c_01834,kuphazamise ukufunda ukusha kwesikole,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01839,unqunywe umphambili ‘obulale’ izelamani,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01841,kutuswe igalelo lamaphoyisa abesifazane kumasipala,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01843,ucathulisa abesimame kwezamabhizinisi,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01845,kufe abayisikhombisa engozini yebhasi neloli,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01846,bashaqekile kuwa enye insika kwezikaqedisizungu,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01847,ulivumile icala owadlwengula intombazanyana (7) esitolo sokudla,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01848,kutholwe isidumbu somfundi sishumpulwe ikhanda emzinto,0,0,0,0,1,1,"['sadness', 'surprise']",test
+zul_test_track_c_01849,isihluku usomabhizinisi wasenanda 'ebulawa ngesando',1,0,0,0,1,0,"['anger', 'sadness']",test
+zul_test_track_c_01853,utokile osolwa ngokubulala isalukazi (107),1,0,0,0,1,0,"['anger', 'sadness']",test
+zul_test_track_c_01855,owesifazane nomklomelo ehlula osomabhizinisi,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01857,kushone 9 engozini yetekisi neloli,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01858,ufakazi uvuma eyokusiza umngani kwelokubulawa kowe-anc,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01863,uthuka izanya owomuvhango oshaywe esitolo,0,0,1,0,1,0,"['fear', 'sadness']",test
+zul_test_track_c_01865,bakhala ngemiholo nokunye osonhlalakahle,1,0,0,0,1,0,"['anger', 'sadness']",test
+zul_test_track_c_01867,bashade kanyekanye abanobulili obufanayo,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01869,@ladydwabantu #jabulujule aybooo! wamnandi umculo wokholo ngiwulalele ngishiqekile la ngikhona ngabusiseka kuyimanje ngigiyelujehova🙌💃💃💃💃ngokungipha isipho sempilo kimi kukhulu lokho @ukhozi_fm,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01871,bahlela umbhikisho abaphelelwa umsebenzi emabhange,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01872,owama-idols usolwa ngokushaya owesifazane,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01873,zilale emnyango izitshudeni ezixoshwe omastende,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01874,'udubule' isoka lenkosikazi wazinikela emaphoyiseni,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01877,kucikeke iziguli zixoshwa esibhedlela,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01879,usadinwe wumbozo wabadlali bakhe owestars,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01880,amazwi enduduzo kukhothama inkosi,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01881,kudutshulwe 'umngani' kachillies kwadanaza emlaza,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01882,bajatshuliswe yisinqumo semantshi kwelokubulala,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01883,babalisa ngokudlula emhlabeni kwendodana kazuma,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01885,banqatshelwe ibheyili abasolwa ngokubulala umagaqa,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01886,umlingisi wacishe wadlwengulwa ngophrojusa,0,1,1,0,0,0,"['disgust', 'fear']",test
+zul_test_track_c_01889,bajabhile kuvalwa inkampani yamabhasi igreyhound,0,0,0,0,1,1,"['sadness', 'surprise']",test
+zul_test_track_c_01890,kuhlulwe ithe soil wagxeka ama-satma,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01892,owokufika ubhunyelwe ngophethroli ebulawa,1,0,0,0,1,0,"['anger', 'sadness']",test
+zul_test_track_c_01893,kuboshwe obedayisela ‘inyanga’ izitho zomuntu ngor40 000,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01896,'kuboshwe' amaphoyisa etoyiza,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01898,badutshulwe bafa kade belande imali yesitokofela,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01899,umfundi osolwa ngokudlwengula uzilengisile,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01900,sebelimba ubusuku igolide eharding,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01902,kushone ingqalabutho eyayiyibambe nomandela emzabalazweni,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01903,usobishini okweleta umasipala ur220 000 ngendlu yodaka,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01904,usedlulile emhlabeni umshoza,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01905,nakwamashu sekukhalwa ngemfucuza,0,1,0,0,0,0,['disgust'],test
+zul_test_track_c_01906,@zulusweg thina sakhula kabuhlungu kwahlazakazi abafowethu nobaba bebulalana ngesibhamu iminyaka ewu 8 bese ntabeni... ngiyaye ngisho nje kt ncono ukuba kwakuliwa ngenduku. yey impi ngiyayibonga isihlukumeze kakhulu 😪 safelwa obaba sibancane.,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01911,ujabule untuli ekhululwa yimamelodi sundowns,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01912,kulimale abangu-17 kwashona oyedwa engozini efrance emgungundlovu,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01913,usinde kukubi ukhabonina etalajwa amadoda angawazi,0,0,1,0,1,0,"['fear', 'sadness']",test
+zul_test_track_c_01915,ingebhe kozithele ezinjeni ebezidla ugebhezi lomuntu,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01917,kuminze ibhanoyi ebelithwele abawu-189,0,0,0,0,1,1,"['sadness', 'surprise']",test
+zul_test_track_c_01918,umasutha ubalisa ngokujika nelanga engasebenzi,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01923,uvalo kowabhidlikelwa yindlu,0,0,1,0,0,0,['fear'],test
+zul_test_track_c_01924,uvalo kungqoklozwa abaganene asebekhulile,0,0,1,0,0,0,['fear'],test
+zul_test_track_c_01925,alikho ivoti eliya kukhongolose umhlaba ungakabuyiswa',1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01927,'ngikujabulele ukugqoka ijezi leqembu elikhulu njengechiefs' - vries,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01929,usaba ukushayeka kwebhola labesifazane,0,0,1,0,0,0,['fear'],test
+zul_test_track_c_01931,udlelwe imoto yinyanga yamdlwengula' eyothwala,0,1,0,0,1,0,"['disgust', 'sadness']",test
+zul_test_track_c_01932,unqotshwe isifo sikashukela umshoza,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01935,abhokile amadoda ngokudlisa abesifazane,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01938,izidumbu zababili zitholwe zimbobombobo yizinhlamvu,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01939,akakakholwa onqobe ilotto kabili ngesonto elilodwa,0,0,0,1,0,1,"['joy', 'surprise']",test
+zul_test_track_c_01942,kushaqisile ukubulawa komholi we-anc,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01943,akasathembi lutho ‘oshaywe’ amaphoyisa,0,0,1,0,1,0,"['fear', 'sadness']",test
+zul_test_track_c_01945,injabulo umndeni uhlanganiswa nelungu lawo elahamba ekhaya ngo-1969,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01949,usbahle mpisane engozini yemoto enyantisa igazi,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01950,inhlanzi izoshelwa amanzi kubadayisi,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01956,zikhishwa ngodli ezindlini izitshudeni zasemut,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01961,sisathukile isalukazi esikhothiswe umphambili,0,0,1,0,1,0,"['fear', 'sadness']",test
+zul_test_track_c_01971,baphithene ngonyamalale evakashele isoka,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01976,amaphoyisa ashaqe inkomo yelobolo entshontshiwe,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01977,abamatekisi bavale imigwaqo bebhikisha,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_01978,baxoshe uthishanhloko osolwa ngokudakwa,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01980,odilika kowadlwengula esontweni,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01981,ulaxaze onosana olobola uzimdollar,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_01982,sitholwe sesonakele isidumbu somfundi ka-matric obenyamalele,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01983,umicho uncome ukuzimisela kwezakhe,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01984,sekushone omunye umdlali welepsl,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01987,kushone 13 kwalimala 16 engozini,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01989,kusolwa eyamatekisi ngomfundi odutshuliwe,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01991,kutholwe isidumbu sowesifazane sinqunu othongathi,0,0,0,0,1,1,"['sadness', 'surprise']",test
+zul_test_track_c_01993,ufuna ukuthuthukisa abesifazane kwezesayensi,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_01994,ubumkhuza umndeni ngesoka lakhe owe-ancyl obulewe,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_01995,owesifazane 'ugwaze' umyeni ngebhodlela emqaleni,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_02000,usabisa ngokuhlasela umndeni 'obulale' unina wezingane ngokumshisa ngophethroli,0,0,1,0,1,1,"['fear', 'sadness', 'surprise']",test
+zul_test_track_c_02001,unqume indodana wase eyazilengisa,0,0,0,0,1,1,"['sadness', 'surprise']",test
+zul_test_track_c_02002,kuboshwe okweleta ur86 000 wamathikithi omgwaqo,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_02005,owesilisa uchazele inkantolo ngokubulala owayeyintombi yakhe,0,1,0,0,0,0,['disgust'],test
+zul_test_track_c_02008,isathukile imindeni yamadoda aqothwe ebuka ibhola,0,0,1,0,1,0,"['fear', 'sadness']",test
+zul_test_track_c_02010,"sqale kthangi lokhu ukujola,usuvumbuka namapotmende usuzohlala nami,😯 mameshana udla nhloboni yes'layi",0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_02012,ngibone ukuthi ngidinga usizo ngiqeda ibhodlela lewayini ngingedwa' - zahara,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_02013,u-tdk usolwa ngokweba ingoma,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_02016,uncikazi ujabulela ukuqashwa kukakhenyeza abe yiphini lomqeqeshi,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_02018,uzomiswa ebandleni umfundisi osolwa ngokweba ibhokisi,0,0,0,0,0,1,['surprise'],test
+zul_test_track_c_02020,batholwe beminze emfuleniabangabangani,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_02021,kuxakile ukungcola enkantolo yemantshi kwanongoma,0,1,0,0,0,0,['disgust'],test
+zul_test_track_c_02022,kulimale umgibeli obehleli phambili etekisini ngesikhathi lishayisana neveni kum25 namuhla ekuseni. @isolezwenews 📷er24 ems (pty) ltd https://t.co/ocmudgaeao,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_02023,kubulawe intombi nesoka embumbulu,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_02024,ijobs fund idale amathuba omsebenzi,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_02028,usongela abafafaza eyokuthwala umseleku,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_02030,abasebenzi basabisa ngokuteleka bacime nogesi kuleli,1,0,0,0,0,0,['anger'],test
+zul_test_track_c_02032,bamgxobe wafa umfundi kubangwa intombi,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_02035,ubalisa ngokuba umantuntanendishi,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_02037,uyethukela owesifazane (76) odlwenguliwe,0,1,0,0,1,0,"['disgust', 'sadness']",test
+zul_test_track_c_02038,sebelala obenyoni abasinde “amaphoyisa” engqongqisa izimoto,0,0,1,0,0,0,['fear'],test
+zul_test_track_c_02040,baneke usizi lokuhlukumezeka,0,0,0,0,1,0,['sadness'],test
+zul_test_track_c_02042,ngijabule ngizothole zonke engizifunayo. 🍀💚 https://t.co/chuwyf2br7,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_02044,bajabule nocele ethekwini ngokuphakwa kwamaphoyisa,0,0,0,1,0,0,['joy'],test
+zul_test_track_c_02046,utholwe emobeni esefile obethunjiwe,0,0,0,0,1,0,['sadness'],test

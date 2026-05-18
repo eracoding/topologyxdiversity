@@ -1,0 +1,33 @@
+# Configuration C-L1: Depth Topology with Stochastic Diversity
+# 3 layers process the input sequentially. Layer N sees Layer N-1's JSON output.
+# Final output is Layer 3's prediction (no aggregation step).
+# See EXPERIMENT_SPEC.md Section 4.1.
+
+topology: "depth"
+level: "l1"
+num_layers: 3
+
+# Temperature decreases across layers to encourage convergence.
+layers:
+  - name: "layer_1"
+    role: "stochastic"
+    temperature: 0.7
+    top_p: 0.95
+    seed: 42
+    system_prompt: ""   # no designed role — CoT block alone is the system prompt
+
+  - name: "layer_2"
+    role: "stochastic"
+    temperature: 0.5
+    top_p: 0.95
+    seed: 42
+    system_prompt: ""
+
+  - name: "layer_3"
+    role: "stochastic"
+    temperature: 0.3
+    top_p: 0.95
+    seed: 42
+    system_prompt: ""
+
+max_tokens: 512

@@ -1,0 +1,68 @@
+# A8: B-L3 with NO system prompt at all.
+#
+# Identical to canonical config_b_l3.yaml. The system-prompt removal is performed
+# at runtime by ablation/b_l3_no_system_prompt/scripts/run.py, via two patches:
+#   (1) src.topologies.width.build_cot_block -> returns ""
+#   (2) vllm.LLM.chat is wrapped to filter empty system messages from
+#       conversations BEFORE the chat template is applied — otherwise
+#       Qwen2.5's template would still emit `<|im_start|>system\n\n<|im_end|>`.
+#
+# After these patches, each conversation reaching the model is just
+# [{"role": "user", "content": <task instruction + input text>}].
+#
+# Goal: bracket the system-prompt contribution to B-L3.
+# Pairs with A7 (minimal_prompt): canonical (~2400 chars) -> A7 (~100 chars) -> A8 (0).
+# If A8 retains the B-L3 win, the LoRA adapters are doing all the work.
+# If A8 collapses, the adapters are coupled to the system role format.
+
+topology: "width"
+level: "l3"
+num_agents: 3
+
+sampling:
+  temperature: 0.3
+  top_p: 0.95
+  seed: 42
+
+max_tokens: 512
+
+aggregation:
+  primary: "majority_vote"
+  secondary: "confidence_weighted"
+  majority_threshold: 2
+  confidence_threshold: 0.5
+
+training:
+  base_model: "Qwen/Qwen2.5-14B-Instruct"
+  quantization: "4bit"
+  lora_rank: 8
+  lora_alpha: 16
+  lora_dropout: 0.05
+  optimizer: "adamw_torch"
+  lr: 1.0e-5
+  scheduler: "cosine"
+  warmup_ratio: 0.10
+  epochs: 5
+  batch_size: 4
+  gradient_accumulation_steps: 4
+  bf16: true
+  output_dir: "models/adapters"
+
+agents:
+  - name: "general_specialist"
+    seed: 42
+    lora_name: "b_l3_general"
+    lora_path: "models/adapters/b_l3_general"
+    lora_id: 1
+
+  - name: "ambiguity_specialist"
+    seed: 42
+    lora_name: "b_l3_ambiguity"
+    lora_path: "models/adapters/b_l3_ambiguity"
+    lora_id: 2
+
+  - name: "contrastive_specialist"
+    seed: 42
+    lora_name: "b_l3_contrastive"
+    lora_path: "models/adapters/b_l3_contrastive"
+    lora_id: 3

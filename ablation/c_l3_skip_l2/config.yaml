@@ -1,0 +1,63 @@
+# A6: C-L3 with Layer 2 (error_corrector) SKIPPED.
+#
+# Identical to canonical config_c_l3.yaml minus the layer_2 block. The depth
+# topology builder iterates over `layers:` and instantiates whatever it finds,
+# so dropping layer_2 here gives a 1->3 pipeline with no code changes:
+#   Layer 1 (initial_classifier) -> Layer 3 (calibrator)
+#
+# Layer 3 was trained expecting Layer 2's output as its prior. Here it sees
+# Layer 1's output instead — the experiment quantifies whether L3 is robust
+# to that distribution shift, or whether the per-transition stats showing
+# Layer 2 over-corrects (4.2x more errors than corrections) translate into
+# a real F1 win when L2 is removed.
+#
+# Pairs with A3 (c_l3_truncation):
+#   A3 says: L1 alone beats canonical (+1.6 dev / +2.1 test).
+#   A6 says: does L3 add anything over L1 if L2 is bypassed?
+
+topology: "depth"
+level: "l3"
+num_layers: 2
+
+layers:
+  - name: "layer_1"
+    role: "initial_classifier"
+    temperature: 0.3
+    top_p: 0.95
+    seed: 42
+    system_prompt: ""
+    lora_name: "c_l3_layer1"
+    lora_path: "models/adapters/c_l3_layer1"
+    lora_id: 1
+
+  - name: "layer_3"
+    role: "calibrator"
+    temperature: 0.3
+    top_p: 0.95
+    seed: 42
+    system_prompt: ""
+    lora_name: "c_l3_layer3"
+    lora_path: "models/adapters/c_l3_layer3"
+    lora_id: 3
+
+max_tokens: 512
+
+training:
+  base_model: "Qwen/Qwen2.5-14B-Instruct"
+  quantization: "4bit"
+  lora_rank: 8
+  lora_alpha: 16
+  lora_dropout: 0.05
+  optimizer: "adamw_torch"
+  lr: 1.0e-5
+  scheduler: "cosine"
+  warmup_ratio: 0.10
+  epochs: 5
+  batch_size: 4
+  gradient_accumulation_steps: 4
+  bf16: true
+  output_dir: "models/adapters"
+  adapter1_predictions_path: "outputs/c_l3_training/adapter1_train_preds.jsonl"
+  adapter2_predictions_path: "outputs/c_l3_training/adapter2_train_preds.jsonl"
+  error_upweight: 3.0
+  calibration_alpha: 0.2

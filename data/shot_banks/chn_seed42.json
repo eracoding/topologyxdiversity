@@ -1,0 +1,104 @@
+[
+  {
+    "text": "я злая",
+    "labels": [
+      "anger"
+    ],
+    "rationale": "Proxy anger from rus",
+    "src_lang": "rus"
+  },
+  {
+    "text": "фу! блять!",
+    "labels": [
+      "disgust"
+    ],
+    "rationale": "Proxy disgust from rus",
+    "src_lang": "rus"
+  },
+  {
+    "text": "my heart dropped.",
+    "labels": [
+      "fear"
+    ],
+    "rationale": "Proxy fear from eng",
+    "src_lang": "eng"
+  },
+  {
+    "text": "успел",
+    "labels": [
+      "joy"
+    ],
+    "rationale": "Proxy joy from rus",
+    "src_lang": "rus"
+  },
+  {
+    "text": "скучно ((((",
+    "labels": [
+      "sadness"
+    ],
+    "rationale": "Proxy sadness from rus",
+    "src_lang": "rus"
+  },
+  {
+    "text": "ой а що то є?",
+    "labels": [
+      "surprise"
+    ],
+    "rationale": "Proxy surprise from ukr",
+    "src_lang": "ukr"
+  },
+  {
+    "text": "позорище.",
+    "labels": [
+      "anger",
+      "disgust"
+    ],
+    "rationale": "Proxy anger+disgust from rus",
+    "src_lang": "rus"
+  },
+  {
+    "text": "my heart sank.",
+    "labels": [
+      "fear",
+      "sadness"
+    ],
+    "rationale": "Proxy fear+sadness from eng",
+    "src_lang": "eng"
+  },
+  {
+    "text": "вау!",
+    "labels": [
+      "joy",
+      "surprise"
+    ],
+    "rationale": "Proxy joy+surprise from rus",
+    "src_lang": "rus"
+  },
+  {
+    "text": "what? who is it?кто эта какашка????!1!1!",
+    "labels": [
+      "disgust",
+      "surprise"
+    ],
+    "rationale": "Proxy disgust+surprise from rus",
+    "src_lang": "rus"
+  },
+  {
+    "text": "вот дерьмо!!",
+    "labels": [
+      "anger",
+      "sadness"
+    ],
+    "rationale": "Proxy anger+sadness from rus",
+    "src_lang": "rus"
+  },
+  {
+    "text": "!? 🤢😮",
+    "labels": [
+      "disgust",
+      "surprise"
+    ],
+    "rationale": "Universal emoji-only exemplar",
+    "src_lang": "univ"
+  }
+]

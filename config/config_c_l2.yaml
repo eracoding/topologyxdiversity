@@ -1,0 +1,33 @@
+# Configuration C-L2: Depth Topology with Designed Diversity
+# Layer 1: Initial Analyst (standard CoT)
+# Layer 2: Critical Reviewer (finds errors in Layer 1)
+# Layer 3: Calibrator (adjudicates, removes weak predictions)
+# See EXPERIMENT_SPEC.md Section 4.2.
+
+topology: "depth"
+level: "l2"
+num_layers: 3
+
+layers:
+  - name: "layer_1"
+    role: "analyst"
+    temperature: 0.7
+    top_p: 0.95
+    seed: 42
+    system_prompt: ""   # standard CoT block only (same as C-L1 Layer 1)
+
+  - name: "layer_2"
+    role: "critic"
+    temperature: 0.5
+    top_p: 0.95
+    seed: 42
+    system_prompt: "critic"   # resolved via DEPTH_PROMPT_MAP
+
+  - name: "layer_3"
+    role: "calibrator"
+    temperature: 0.3
+    top_p: 0.95
+    seed: 42
+    system_prompt: "calibrator"   # resolved via DEPTH_PROMPT_MAP
+
+max_tokens: 512

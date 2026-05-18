@@ -1,0 +1,104 @@
+[
+  {
+    "text": "oringo gbukwe gi 😂",
+    "labels": [
+      "anger"
+    ],
+    "rationale": "Prototype anger from ibo",
+    "src_lang": "ibo"
+  },
+  {
+    "text": "@<username> 😂😂😂😂ibu onye ara",
+    "labels": [
+      "disgust"
+    ],
+    "rationale": "Prototype disgust from ibo",
+    "src_lang": "ibo"
+  },
+  {
+    "text": "😂😂😂 uwa di egwu",
+    "labels": [
+      "fear"
+    ],
+    "rationale": "Prototype fear from ibo",
+    "src_lang": "ibo"
+  },
+  {
+    "text": "leo mmeniweza aki 😂😂😂",
+    "labels": [
+      "joy"
+    ],
+    "rationale": "Prototype joy from swa",
+    "src_lang": "swa"
+  },
+  {
+    "text": "saumu kali leo 😭😭😭",
+    "labels": [
+      "sadness"
+    ],
+    "rationale": "Prototype sadness from swa",
+    "src_lang": "swa"
+  },
+  {
+    "text": "hawa watu nifanye nini 😂😂😂",
+    "labels": [
+      "surprise"
+    ],
+    "rationale": "Prototype surprise from swa",
+    "src_lang": "swa"
+  },
+  {
+    "text": "isi adiro gi mma guy😭 ##url##",
+    "labels": [
+      "anger",
+      "disgust"
+    ],
+    "rationale": "Prototype anger+disgust from ibo",
+    "src_lang": "ibo"
+  },
+  {
+    "text": "@<username> @<username> 😂 nsogbu nọ n'obodo a",
+    "labels": [
+      "fear",
+      "sadness"
+    ],
+    "rationale": "Prototype fear+sadness from ibo",
+    "src_lang": "ibo"
+  },
+  {
+    "text": "uyu ameambia kiatu yake inaeza kanyanga mkate itoe supu 😂",
+    "labels": [
+      "joy",
+      "surprise"
+    ],
+    "rationale": "Prototype joy+surprise from swa",
+    "src_lang": "swa"
+  },
+  {
+    "text": "mbona madem wa kabarak university hawananga matako😒😂😂",
+    "labels": [
+      "disgust",
+      "surprise"
+    ],
+    "rationale": "Prototype disgust+surprise from swa",
+    "src_lang": "swa"
+  },
+  {
+    "text": "mtaniumisha kichwa ...mwenye amefanya hivi bana si poa😭😭😭 ##url##",
+    "labels": [
+      "anger",
+      "sadness"
+    ],
+    "rationale": "Prototype anger+sadness from swa",
+    "src_lang": "swa"
+  },
+  {
+    "text": "@<username> odi egwu really 😂😂😂",
+    "labels": [
+      "fear",
+      "surprise"
+    ],
+    "rationale": "Prototype fear+surprise from ibo",
+    "src_lang": "ibo"
+  }
+]

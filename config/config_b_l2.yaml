@@ -1,0 +1,33 @@
+# Configuration B-L2: Width Topology with Designed Diversity
+# 3 agents with DIFFERENT analytical bias prompts (ADDITIVE framing).
+# Each prompt biases attention without restricting reasoning strategies.
+# See EXPERIMENT_SPEC.md Section 3.2.
+
+topology: "width"
+level: "l2"
+num_agents: 3
+
+sampling:
+  temperature: 0.7
+  top_p: 0.95
+
+max_tokens: 512
+
+aggregation:
+  primary: "majority_vote"
+  secondary: "confidence_weighted"
+  majority_threshold: 2
+  confidence_threshold: 0.5
+
+# B-L2: each agent has a distinct analytical lens (additive, not restrictive).
+# Same seeds as B-L1 to isolate the effect of designed diversity from seeds.
+agents:
+  - name: "surface_priority"
+    seed: 42
+    bias: "surface_priority"
+  - name: "context_priority"
+    seed: 123
+    bias: "context_priority"
+  - name: "structure_priority"
+    seed: 456
+    bias: "structure_priority"

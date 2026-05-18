@@ -1,3 +1,5 @@
+"""Base agent class for LLM-based emotion classification."""
+
 import time
 from abc import ABC, abstractmethod
 from dataclasses import dataclass
@@ -14,6 +16,7 @@ if TYPE_CHECKING:
 
 @dataclass
 class AgentOutput:
+    """Structured output from an agent."""
     emotions: dict[str, int]
     confidence: dict[str, float]
     reasoning: str
@@ -24,7 +27,7 @@ class AgentOutput:
 
 
 class BaseAgent(ABC):
-    """Abstract base class for agents"""
+    """Abstract base class for all agents."""
 
     def __init__(
         self,
@@ -51,17 +54,26 @@ class BaseAgent(ABC):
 
     @abstractmethod
     def get_system_prompt(self) -> str:
-        """Returning system prompt for the agent"""
+        """Return the system prompt for this agent."""
         ...
-    
+
     def predict(self, user_message: str, cot_block: str = "") -> AgentOutput:
-        """Send message to LLM and parse the response"""
-        system_prompt = self.get_system_prompt()
-        if system_prompt and cot_block:
-            system_prompt = system_prompt + '\n\n' + cot_block
+        """Send a message to the LLM and parse the response.
+
+        Args:
+            user_message: The task instruction + input text.
+            cot_block: Language-specific CoT enhancement block. Appended to
+                       the agent's analytical bias to form the full system prompt.
+                       For B-L1 agents (no bias), this IS the system prompt.
+        """
+        bias = self.get_system_prompt()
+        if bias and cot_block:
+            system_prompt = bias + "\n\n" + cot_block
         elif cot_block:
             system_prompt = cot_block
-        
+        else:
+            system_prompt = bias
+
         start = time.time()
         outputs = self.llm.chat(
             messages=[

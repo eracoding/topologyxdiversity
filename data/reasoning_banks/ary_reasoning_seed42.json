@@ -1,0 +1,61 @@
+{
+  "language_name": "Moroccan Arabic (ary)",
+  "script": "Arabic",
+  "family": "Afro-Asiatic (proxies: arq, hau)",
+  "seed": 42,
+  "language_instructions": "Target input language: Moroccan Arabic (ary). Do NOT translate the input. Use proxy exemplars from Algerian Arabic (arq) and Hausa (hau); include one emoji-only exemplar to reduce script bias. Keep reasoning ≤25 tokens. Prefer precision; output one label if only one is strongly cued; otherwise at most two labels. Output exactly once: Final: { \"labels\": [\"...\"] }",
+  "reasoning_examples": [
+    {
+      "id": "anger_disgust_example",
+      "emotion": "anger+disgust",
+      "src_lang": "arq",
+      "text": "نكره هاد الشي، مقرف بزاف! 😡🤢",
+      "reasoning": {
+        "cues": "‘نكره’ hostility + ‘مقرف’ revulsion + 😡🤢",
+        "tone": "Hostile complaint",
+        "interpretations": "Anger from hostility; disgust from revulsion",
+        "critique": "Two explicit cue clusters → two labels"
+      },
+      "final_labels": ["anger","disgust"]
+    },
+    {
+      "id": "fear_sadness_example",
+      "emotion": "fear+sadness",
+      "src_lang": "hau",
+      "text": "Ina tsoro, komai ya ɓace… 😱😭",
+      "reasoning": {
+        "cues": "‘tsoro’ fear + loss ‘ɓace’, 😱😭",
+        "tone": "Anxious grief",
+        "interpretations": "Fear from danger; sadness from loss",
+        "critique": "Distinct signals justify both labels"
+      },
+      "final_labels": ["fear","sadness"]
+    },
+    {
+      "id": "joy_surprise_example",
+      "emotion": "joy+surprise",
+      "src_lang": "arq",
+      "text": "واو! ما كنتش متوقّع، ربحت! 😮🎉",
+      "reasoning": {
+        "cues": "disbelief + ‘ربحت’, 😮🎉",
+        "tone": "Elated shock",
+        "interpretations": "Surprise from disbelief; joy from success",
+        "critique": "Canonical cue combination"
+      },
+      "final_labels": ["joy","surprise"]
+    },
+    {
+      "id": "disgust_surprise_example",
+      "emotion": "disgust+surprise",
+      "src_lang": "univ",
+      "text": "!? 🤢😮",
+      "reasoning": {
+        "cues": "interrobang + 🤢 + 😮",
+        "tone": "Startled revulsion",
+        "interpretations": "Disgust from revulsion; surprise from suddenness",
+        "critique": "Script-agnostic explicit cues"
+      },
+      "final_labels": ["disgust","surprise"]
+    }
+  ]
+}

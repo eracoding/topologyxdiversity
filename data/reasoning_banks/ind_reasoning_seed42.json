@@ -1,0 +1,57 @@
+{
+  "language_name": "Indonesian",
+  "script": "Latin",
+  "family": "Austronesian",
+  "seed": 42,
+  "language_instructions": "For Indonesian (ind), focus on Austronesian linguistic features, Indonesian cultural context, social media expressions, and regional variations in emotional expression.",
+  "reasoning_examples": [
+    {
+      "id": "anger_disgust_surprise_example",
+      "emotion": "anger+disgust+surprise",
+      "text": "naha ieu mang hese di puter atuh",
+      "reasoning": {
+        "cues": "Complaint/why-question + frustration markers + unexpected failure",
+        "tone": "Frustrated, like Indonesian social media complaints",
+        "interpretations": "First, complaint signals anger; second, frustration markers suggest disgust; third, unexpected failure evokes surprise",
+        "critique": "Multi-label fits Indonesian frustration context; best fit is anger, disgust, surprise. Conclusion: anger, disgust, surprise"
+      },
+      "final_labels": ["anger", "disgust", "surprise"]
+    },
+    {
+      "id": "anger_disgust_joy_example",
+      "emotion": "anger+disgust+joy",
+      "text": "ceuk urang mah jalma goblog teh ngakuna urang sunda tapi teu like, teu subscribe channel ieu 😁",
+      "reasoning": {
+        "cues": "Insult + complaint about others + ironic grin emoji",
+        "tone": "Sarcastic, like Indonesian social media criticism",
+        "interpretations": "First, insult signals anger; second, complaint about others suggests disgust; third, ironic grin emoji shows joy",
+        "critique": "Multi-label fits Indonesian sarcastic criticism; best fit is anger, disgust, joy. Conclusion: anger, disgust, joy"
+      },
+      "final_labels": ["anger", "disgust", "joy"]
+    },
+    {
+      "id": "fear_joy_surprise_example",
+      "emotion": "fear+joy+surprise",
+      "text": "salah, tapi teu nnaon da jeung babaturan 😂",
+      "reasoning": {
+        "cues": "Initial alarm/acknowledgment then relief with laughter",
+        "tone": "Relieved, like Indonesian social media reactions",
+        "interpretations": "First, initial alarm signals fear; second, relief evokes joy; third, unexpected outcome shows surprise",
+        "critique": "Multi-label fits Indonesian relief context; best fit is fear, joy, surprise. Conclusion: fear, joy, surprise"
+      },
+      "final_labels": ["fear", "joy", "surprise"]
+    },
+    {
+      "id": "joy_example",
+      "emotion": "joy",
+      "text": "keur resep pais gaang mang haa",
+      "reasoning": {
+        "cues": "Direct liking/appreciation statement",
+        "tone": "Positive, like Indonesian social media appreciation",
+        "interpretations": "First, direct appreciation signals joy; second, could be surprise but no unexpected element",
+        "critique": "Matches Indonesian positive expressions; best fit is joy. Conclusion: joy"
+      },
+      "final_labels": ["joy"]
+    }
+  ]
+}

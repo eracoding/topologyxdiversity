@@ -1,0 +1,419 @@
+id,text,anger,disgust,fear,joy,sadness,surprise,emotions,split
+vmw_test_track_a_00004,benguela: muhooleli munisipaali a unita ohiiputthiwa,0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00009,ephovovo wowakamela   ikooto 90 sa atthu omosampiikhi,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00011,mwaamukokho zika onnitannya ohisuwanyeya wa ihamela oparasiili,0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00013,mulipa oomana wa etitatuura ya mamilitaari opwanyiwa okweene oparasiili,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00015,capaawu: mixaakihosoluouwana ni walanyeya wa axiitthu hiv/aids,0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00019,"''mathala otheene muneene ti kuveerunu, itthu iya sinoonaneya nneene mathala yaala akhala ohaawa'', alavulaka purusoore wa elapo ya mosampiiki, yussuf adam.",1,0,0,0,0,0,['anger'],test
+vmw_test_track_a_00021,"koviit-19: ruusiya""ovonyeerya"" nlaka sputnik v- putin onilipiherya othawali wa mwapoophe",0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00022,"aafirika ohaana oreeriha mpakeliyo wa iliivuru sa oxikola, enoopererya wa yoolempwa ya unesco.",1,0,0,0,0,0,['anger'],test
+vmw_test_track_a_00024,ikapela siniholela epwepwetthe eniwaneliwa mwaattelo wa miriira inittyawihiwa atthu omapuutu .,1,0,0,0,0,0,['anger'],test
+vmw_test_track_a_00027,muthiyana a miyaakha 102 oneetta voohikuwo wa mwaalakelo wa mahiku a okathi wa mphira,0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00029,exitaatu uniitu ennapaka mafusileyiro a omosampiikhi wii yiikasoopeke mwaha wa atakhali wala materorixita,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00031,meeka-seena khokhumelenle naxintta ni etthuvo yoottottelana wa mutthuvelo onirwa,0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00032,ehasara yookwa wa mwaali muxikola ya opaakhu otanya nniya nowanana mukhaleelo oopwateene waserpeyixawu,1,0,0,0,0,0,['anger'],test
+vmw_test_track_a_00034,mwaara a muhooleli a elapo ya okhaapu veeriti ohaakhela etthuvo interinasiyonaali ya muvarelo wa muteko.,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00035,"axiina anli, yooloherya emosa ni okwa woohiloka mwa eterayiili ya eua",0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00036,ekorupusawu enootepa ekhalanaka mathala mmosampiikhi,1,0,0,0,0,0,['anger'],test
+vmw_test_track_a_00037,exiitu: miruuku sa ativokaata oni anyoholiweke athiyana a wisarayeeli oruuhela manyakunyaku,0,1,0,0,0,0,['disgust'],test
+vmw_test_track_a_00039,macrom oni wi ataake aninaanoxe omosampiikhi anithoonyiheerya mopopiiho a teroriixiimu emwisilaamu,0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00040,exitaatu yoowuuraana avaha 125 etonelaata wa okhaliherya wa elapo ya omosampiikhi wa isumana piili,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00041,"bonga oomuvikana namwiipa, ti namawaniha wa moopowelo - a elapo ya okwine.",0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00043,epwepwetthe ya koviiti-19 enikacamiha voohiloka ihakhi sa ikaruma sinamuttapunyiwa muhina mwa apaalaka,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00045,mosampiikhi: nlaka na eporoceetu skate ni osomiha enalipiherya anamwani  ni amwaavano,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00047,"oweela wapinaatamu onopopiha ihakhi sa apinatamu, onilaleerya hrw",0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00051,mamosampikaano imilhawu 15 anikhala ni osikhini wootepaxa,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00055,"vaniira pakistawu owananaka koviit-19, nikotto n'a isoope siinihonoona isupirimeento",0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00058,parasiili : kuveerunu omosampiikhi oniivaha  mathala namakhalana,1,0,0,0,0,0,['anger'],test
+vmw_test_track_a_00059,kovit-19 : nyusi onoopopiha otumereerya miphimo sowaatta soowalamela soluttelelana ni axiitthukorona,0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00063,mali onikhala ni ekirise okhuma woopowa,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00064,mayintoneesiyu eniweha-weha ehukhumu ya okwa vahinatthi wiiraneya mwaha oluluwana ni otumiha soohapala,0,1,0,0,0,0,['disgust'],test
+vmw_test_track_a_00065,turukhiiya: alipo ottwawela masiiriyu anoopelasiwa noovira ophutuuwa wa reyhani?,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00066,"elapo ya mosampiiki ennimananiha, masi khiniwerya omaliha nkacamho woothumiha atthu.",0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00067,anookhwa amwiinnuwa mpakha 19 mwaha wa ekhotto omusewu wa otunis,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00068,mutaseke itayi: mukhalelo wa ovaha maasi ereheriwe opeera,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00069,tiithi francisco onnixekurya omosampiikhi mwaakha ola,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00071,oxiitta wa lgbt wankoola: muraano mmosaru wa elapo weemereerye noovira iyaakha thanu,0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00073,musuuwele mithokiiho 9 sa  nlamuulo n'a ihakhi soosiyuampiyentaale oparasiili,0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00074,munceero wanamunceene sookhala wooruhela ohaawa vamusurukhuni omosampiikhi.,0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00075,'koweeha otteliwa erooho  voolooka mmunepani mwaka': mphiira elaapo onaaxitaari ekuluuttu ya afikaniixitaawu,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00076,ilapo sowuraana ni kuupa anattanmanasa,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00077,mahoolela a exoronaale/sookhumela ya elapo yo torukiya osuwelin'he oveleliheriwa akapwitthi wa masurutaatu wa nikhuru a mamwisilamu otthukiwa.,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00078,kovite-19: mosampiikhi ootthukulela ixikola vakhani vakhani ni ootthuniherya ovava matteeke khamosa khamosa,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00079,eviitiyu: mametoroviyaariyu ari ni epwepwetthe anikhumulasiwa ni masupayi militaari osawu paawulu,0,1,0,0,0,0,['disgust'],test
+vmw_test_track_a_00080,chan hol 3: exikeleetu yoohisuwanyeya yoophiyeryaka miyaakha ikonto 10,0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00086,meetiku a khalayi a selesawu amerikaana ya xinaaxitika ootthukweliwa miyaakha 175 areene mukhatteya.,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00087,wiixiitu: eparalamento enoopopiha othikila miyataano eparalamento ewuropeewu,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00090,"kwaheeri sothareliwa chadwick boseman, kobe bryant e°jorge°neto°",0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00092,maxenetixiixita annaapaka maasasiinu kamuntonku oowaativariwa mwa laseeri,0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00097,wankoola : anawiixilihe ni anahapari aatthukiwa oluwanta,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00098,bahrein: anawiixinlihe atupweelasa  muxiripitaale salmaniya,1,0,0,0,0,0,['anger'],test
+vmw_test_track_a_00100,infalasawu ni icuuru soowela omosampiiki,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00102,namaphuka milattu a elapo ya wafirika tu suli olepa ewarakha wiira othukiwe manuel chang.,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00103,elapo ya parasili yokhotta ovaha mammaru a odebrecht omosampikhi.,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00104,covid-19: mukhulupale a nlaka na kamara onova yoriki onnopopiheya ni muthinto mmosa wothowela wa mwaaxitthu,0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00105,"ankoola onnilavula paahi- maria encarnacao pimenta: ""woova onniirela mpantta wa muthinto a muupuwelo a mankolaanu""",0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00106,neymar oohukhumwiya nnya woohitthuviya.,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00107,meexiku: epwepwetthe ya kamaasi a ikuluuwe ohinya elapo ni ekasoopa,0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00108,palexitiina : owalibohoolo sa mwa soovara sa mapalexitiniyaano,1,0,0,0,0,0,['anger'],test
+vmw_test_track_a_00109,"koviti-19: mukhalelo wa emerixensiya ""okathi mmosa wa ohawa wa atthu sikhini""",0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00110,onu onihima wiira ekotto enootepa omosampiki ni mukhaliheryo  onniyeva.,0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00111,"""vowanana wiiya sooreeriheliwa"": soreerela sa satumereri mamosampikaano enaroowa apinarptamu mmapikatani",1,0,0,0,0,0,['anger'],test
+vmw_test_track_a_00113,yoopakiwa esya wiira owana-wanihiwe veeri wa siita wamohula,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00115,iitiiya:nlaleeryomumpaayi ni ataake a materoriixita,0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00118,"amwisilamu omosampiikhi"" owiniwa erooho"" ni okwa wa osama bin laden",0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00119,"parasiili: murale ni "" eselesawu eniloheriwa"" viireliwaka oroowa koopa ya olumwenku",0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00120,muntiyaale 2014: muxiri wa parasiili ohitteliwa murima wa muntiyaale.,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00122,kuveernu wa elapo ya mosampiiki oniphavela omurwaana patarooya ohikhumihaxa mwiixi.,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00125,houston: mamusampikaanu anihaavya okathi worerela onirowaaya okhaliheriwa mpantta wa patarooya,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00127,"kapu telekatu: ohookhwa andre hanekom, emperesaariyu suuli-afiriikaano aalokohiwa wa atakhali",0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00128,mosampikhi: rapper azagaia onlipelela okohakohiwa nnya wohitthukweliwa.,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00133,"kintthuna okhaliherya ohela  nsipo wamosambique molumwenkuni"", chico matada",0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00134,parakwaayi: woopiha wa ettekuxa yancaano sootaanyera opiixa soorakama,0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00137,osuwiisa: makhulupale tho akina a fifa avariwa mwaha wowanyihereriwa ovara sa makhwankhwa.,0,1,0,0,0,0,['disgust'],test
+vmw_test_track_a_00139,mosampiikhi ni tansaniya anikela ovarasa hoothe wiira amalihiwe anahasara aniiva elapo ya okhaapu telekaatu.,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00145,afirika: mukhuwelo mwa epakhiira ohoolo wa wuncereriwa soophova wa ootumihiwa etthaya,1,0,0,0,0,0,['anger'],test
+vmw_test_track_a_00146,covite-19: ephoole okwanza ya ohitto ni alipa omurava araru anikhuma oluwanta,0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00147,parasiili onoorowa olamuliwa wa ekooriyu interiamaerikana wa ihakhi sapinaatamu mwaha wa wa ninyoho n'a mapuliisiya,0,1,0,0,0,0,['disgust'],test
+vmw_test_track_a_00149,athiyana ni anamwane anitthikela oyaara omurava axiithu hiv omosampiikhi,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00151,oprasil: nakoso aatthu onniwehereya  watta emaara ya mphira olumwenku.,0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00153,mwaavi ya ekumi para omaliha minepa sa mapensiyoniixita,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00154,ekiipa ya faransa yoolola mphira yoola wa ilapo sotheene.,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00155,afrika asuul ookumiha macoco oparke kruker mwaha wa anamaxaya oowiiya a mosampiikhi.,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00157,"exikola wuulupale ya oparasiili kheniphavela waalepiha anaxikhola  ookiine pisawu, anaamyi ayo akhalanneene itthu sootheene aniphaveliwa",0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00158,namuhupi a mahooleli a renamo ootthukweliwa ahimyaniwa otetheererya epuruma-puruma.,1,0,0,0,0,0,['anger'],test
+vmw_test_track_a_00162,namaloma aaphavela muraano muulupale muhina moleveleelaniwa vooluluwana ni sa oweha-wehiwa hoothe ni ue nto va ookhala mwaha wa otthapa,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00164,athiyana ahireere ohaawa ni khathoowa ovenesuweela,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00168,xiina: mihuupi wiira otaphuliwe mulaleeri ohinoona vanakheleliwa ninyoho,0,1,0,0,0,0,['disgust'],test
+vmw_test_track_a_00169,anamakhaliherya mulavulo aniphiya enamayili wiira wanikumanoni wa nyusi ni dhlakama,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00170,ohookhwa  poliitiku wa elapo y'omosampiikhi maasimo diyas,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00175,"""yonipweteya ya vakhaani ya epanta ya masu wa mukhalelo ahu"", masi annimunlela carlos burity",0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00176,"mwaali mmosa okhuwela oriiki "" akhoole"" viiraneyaka muxittano mmosa wa mphira.ni parasiili ahivonyeriwa ekwaha eekina orowaka omuvanyihanoni olaayini wa othaanyana mwaha wa nikhuli",0,1,0,0,0,0,['disgust'],test
+vmw_test_track_a_00178,michael schumacher oniphwanyaneya awereyiwaka.,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00179,asomi a oxikola suulupale mamexikaanu anipaka ekerevi mwaha wa ehasara ya ayotzinapa,1,0,0,0,0,0,['anger'],test
+vmw_test_track_a_00180,"mpaatte ohitto ni eriyari, atthu  ikooto sele 500 anihoolela muxaakiho wa ohiliipana voluluwana ni manamuno olya",0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00183,parasiili: eliivuru emoosa yooluluwana  ni okameeliwa wowiiya,0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00185,koviit-19 : mukhaleelo wa miteko sa okumi  soohiloka onihela ilapo sa waafiriika muhina mwa ookasoopa .,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00188,enincererya nuumeru sa ikhirimi soohupuwelela omanika,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00189,"omosampiikhi: ohookhwa zeca tcheco, ole onoopa oosuwelaxiwa elapo eyo",0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00193,liima onoorowa okhaliha eseeti ya amphiira pan - amerikaano a eyaakha ya 2019,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00194,muhooleli a intelixensiya wa ukaraaniya onihimya wiira putin ookhalana kanseri,0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00195,"khaapu a puliisiya militaari toiri opacerya ohukhumwa mwaha wa "" ikhirime sa maayiyu""",0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00196,"ilaapo soowoopiha mataraviixiti, parasileero aniirela mpantte wa rattelo sa omutthuvaya ni onooniherya onyokhana mwaha wa ekhove",0,1,0,0,0,0,['disgust'],test
+vmw_test_track_a_00198,muhakhu wa mosampiiki oninnuwa vakhani ovirikana saaniheriwaaya,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00203,trending: the rock olaleerya wiira ole ni amusi awe amukwakwilyasa kovit-19,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00206,brasil oopakelela ekolone ya enyompe yoowoopopihiwa omalamalihiwa,0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00208,mamarikaana: okhuuma wa poola a mixiittano sa ekoopa,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00209,koviit -19 : fmi ohakhulela imilyawu 309 sa itoolari siniireliwa mosampiikhi wiira owanana ekwerere .,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00213,koviti-19: ankoola onaakhela yaneethanu loote ya vasina pifisere evahiwe ni eua,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00216,"imilyawu sa masalavatoryanyu animuhoolela koviit-19 , vohimaasi ale anivira wii anyayiiweke",0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00220,mukhalelo wa mukaakuveleni enipacerya ettiminku okaapu veerete,0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00223,mosampiiki elapo yoowoopihaxa y'olumwenku wiira omiire nakoso,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00225,alipa ootheene aahiya waatakiheryaa anooriipe a simpsons,0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00229,aafirika :aafirika ovolooha ekoore muhina mwa ekhotto ya axiitthu hiv,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00230,ankoola: makatekiixita okapiita animuthonya kuveerunu oriki otharathara itiini,0,1,0,0,0,0,['disgust'],test
+vmw_test_track_a_00231,"liipiya: mwattelo wanookwa ohuncerereya orooka 6.000, eua onisoomwa manamuna owiirela mpantte",0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00233,capaawu: mattava mathanu ni mararu anoopopihewa muhina mwa nikhuru na ikisiro sa oxapaawu,0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00235,suutawu: oniirowa othikelaala okhaala voohimukhaliheryo wa ongs,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00236,eretta esya ya koolera owamphula,0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00237,zeka pakotinyu oothukeliya mwaha woowoneleliya ovekela ishow.,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00238,imiiyasene sa maxileeno aniwanana nlaka na tv onithalakasa ohukhumu opinoche.,0,1,0,0,0,0,['disgust'],test
+vmw_test_track_a_00239,omora wa papa bento xvi ohoonyokola moono awe,0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00241,mohamad salah oovona woonyokolowayaawe,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00243,iraa:  mameetiku otthuneyaxa ayili anamalaleerya mihupi somalamaliha aids nleelo arisa mukalapusu,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00245,kiine pisawu: wookotthiwa wa muhooleli a elapo oniruuwa woopiha wa ohilipaneya mukhaleelo,0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00247,simpaapwe: emaara sa khathoowa ni okhuwela voophavela mukhaliheryo,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00248,"atoropa omosampiikhi akupwali wira ""numuru na osuwanyeya"" atoropa akwiye mukhottoni opalma.",0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00251,ikiipa sa afirika khipacenre saana mmuphirani wa ilapo sotheene 2018.,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00253,"ohookhwa josé mário branco, ovuwiheya wa nsipo na oportukaale ni na ekhotto anti-fasixita",0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00255,mulipo oparasiili ohukhuumwa ni okathi wa iyaakha17 sa otthukiwa mwaha wa nakooso ohilooka wa asuoona omosampikhi.,0,1,0,0,0,0,['disgust'],test
+vmw_test_track_a_00256,koolyera onoomwareela omosampiikhi,0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00259,omosampiikhi: ale anaahuwa anakhuku a opowani onnaalipela amala avira nayuupuri.,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00260,erdogan  okhala oliipiherye owaaliwa exiikola tuuruka oluwaata,0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00261,mosampiikhi: mooneliwotho wa nikhuku noorovuma nuulupalexa ya kaaxi.,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00263,michael schumacher onnilepa sooreerela sinceene,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00265,ilapo soowiiraana sa waameerika sinniroromeliha okhaliha omosampiikhi,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00268,"mpantte wa athiyana o sans paawulu, ehakhi ya okurumula ehameela nittittiliho tiyootepa otikiniha opwanya",0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00269,mphira: carlos morais a wankoola namattikhexa a mwaakha,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00271,nikhuuru n'a alipo ohisilimu oparasiili univeeca ninikhanyererya muthokooso sooluluwana ni wokottiwa wa dom phillips ni bruno pereira,1,0,0,0,0,0,['anger'],test
+vmw_test_track_a_00274,mosampiiki enniphwanyaneya eweleka namuna ya nkhalele wa maali ovikanaka ni eyaakha ele evinre.,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00275,"onikaraakwa, atthu volikanyiherya anookwasa mwaha wa "" eciili"", nnakhala khivahiyo koviit-19",0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00277,"netizen report: vatiyaari wa waatakariwa erumeeliwaka watisaapi, namalaleerya aniikaxari mme sinilaleewa ihapaari sa misarayeliita aliipo omupattuxa soofitiweeya onithurumelaniwa",1,0,0,0,0,0,['anger'],test
+vmw_test_track_a_00280,amasooniya onikhala ompaka karipoonu ovirika omunoweliha,0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00282,makhwankwa khanarukunuwe omosampiiki,1,0,0,0,0,0,['anger'],test
+vmw_test_track_a_00283,mulipa oomuttikha mphira jakub jankto onnilaleya wiira gay,0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00284,"momosampikaano aniira"" vaaphiyerya"" mukhaleelo wa ekhotto ni khathoowa a muraarelo owo oniikhumula vooluluwana ni elapo",1,0,0,0,0,0,['anger'],test
+vmw_test_track_a_00290,mukhaliheryo wa epixikiisa onihoolela mikuthakutho ofaaasa ni muhina mwa ilapo sa waafirika,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00292,"soophwanyiwa sa niinaano ni sootepexa woopiha   ""wa soorava"" sa hiv",0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00293,mphironi wa epooma ya omaputu enirowa okarariwamo eviitiyu ya beyonce.,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00294,meghan markle onihimya wiira waatoko omukhuma erukulu,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00295,wiilepiheryo wa luula wiira othanliwe tho ti woosuwelihiwa,0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00296,ataake anithonyeriwa anamuteko a okumi onxankiha empaxaata ya ilapo sowuraana sa ameerika omosampiikhi .,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00298,"amiravo ahaana waakhulelaka ohoolela waafirika, onnihimya namyiipa oosimpwaapwe thomas mapfumo",0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00299,wacerereya wa axiitthu chikungunya okarayiipa,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00301,napatorooya venesuwelaano oweemexiwa opahari ya karayiipe oniroowa okhala mmoopopiho mmosa wa mukhaleelo a ipheeyo?,0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00305,mmiravo a iyaakha 10 ohokotthiwa ni puliisiya oxiriini wa oriiyu ti caneero,0,1,0,0,0,0,['disgust'],test
+vmw_test_track_a_00306,anamathokosa a molumwenkuni mooteene annixutta ni soosuwela sa anamuttettheni mantiixina. musuwelexe moota xeeni eyo  eryaaya yoopwanela,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00307,"nnaamwi makacamiho ereene siiso, 2016 waahonaneya nreerelo nnikhuru na itthu soopaka.",0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00310,"koveerunu omosampiikhi"" oniirowa onathurumela apinatamu awe"", enihooleliha nlaka n'a ehapari",0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00312,ariisa 'miwi sa hasara' maxapuneexi  yakanyeryaka wameerika tinooroti?,0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00313,eua: mulaleeri onanariweene noomala woopiwa ikapwitti sowoopiha sa puliisiya,1,0,0,0,0,0,['anger'],test
+vmw_test_track_a_00317,woolattuliwa othowa mirette mmashipiritaale sa omosampiikhi:,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00318,"cantitaato operesiteeti oparasiili, eduardo campos ohkwiiye awe  mwaha wa ehasara ya ntteeke",0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00319,kometa a iyakha emiya onnittettekha waaviraka vakhiviru wa elapo,0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00322,oluwanta onkhomalihiwa okhala wovaanela ni wa murettele,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00325,irawu onnaakottiherya amusi oomalela wiira amooneke mphira muhina mwa exitaatiyu ni mpaarikhi,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00327,ole oniwaakiha mapurusoore oomosampiikhi oomaalihiwa emaara waatthikelaawe osommwa wamphula,0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00329,kuruxu oxerya othonyera muthinto wa othanyiwa athu orya.,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00331,ninincerereya numuru na otthu anokhwa mwaha wa siida omilanje,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00335,tinamaaraka ohoonanela wiira makhwelo a intuuxitiriya a visons ti 'ehapari yooreera' ya ephattu,0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00338,"muthoonyoheryo wa telviisawu ya omosampiikhi anivaanyihiwa amuretini sosiyaale noomala ovira soohimwa siniiriwa "" othaanyana mwaha wa nikhuli""",1,0,0,0,0,0,['anger'],test
+vmw_test_track_a_00340,dhlakama ohokolleela woopopiha,0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00344,okwa wa ephome ekithi wa ttuutthu itiixina oniviira voohisuwanyeya oparasiili,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00345,mattava ephattuwelo amora wohiivarela  osan toome piriisipe,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00346,mosampiiki ni purutukaale anisoma mukhaliheryo wa enereciya,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00347,tooku:wixiilihz mwaha wa ihaakhi sapinaatamu sohooxiwa ni ninyoho,0,1,0,0,0,0,['disgust'],test
+vmw_test_track_a_00353,ronda rousey oomooniha owereya bethe correia mwa isekuntu 34,0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00354,anamathokoca a weexiipitu annilaleerya esiiri ya ''muumiya onikhuwela'',0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00356,muthowelo wa maasi ohiiva elapo ya omanika,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00357,iya ekhumelenle noomala muratti mmosa owooneyaxa okathi wahasariwe awe mmukukuttani mwa anamunceene operu,0,1,0,0,0,0,['disgust'],test
+vmw_test_track_a_00358,ankoola: manyakunyaku okhoottela ahakheleliwe ni itiiru ni owanawaniwa,1,0,0,0,0,0,['anger'],test
+vmw_test_track_a_00359,"waafirika: athiyana ariina siita opophiweene, anoonyokhiwa ni anithanyiwa",0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00361,mapulusiya ankela owaannya awe afonso dhlakama obeyira,1,0,0,0,0,0,['anger'],test
+vmw_test_track_a_00363,mwakha wa 2017 koolera oowiiva atthu 108 omosampiiki,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00365,anamaxaya aalupale ya elapo yomosampikhi ahookhwa wa elapo ya wafirika ya osuuli,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00366,ohilokabmukhaleelo wa epuliitika onitepiha ekiriise ya mmaleeleyo opuruuti,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00367,othowa nnakhala ohiloka manamuna olya ohaapwanya mwattelo wa ipurusento 40 wa anamwane omosampiikhi,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00368,olamuliwa wa harvey weinstein onooniherya harvey weinstein onooniherya inamuna woorika opwanya exariya  sa mwaha soovonyiliwa irupiheliwo,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00369,muttetthe mayiya khiwaareere winnuwa ovirikana nuupuwelaahu,0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00371,ehasaara ya nikuula ehahiya olakaseya vowanyiherya nnakha axeexe apweteya ni anceene taale ari  .,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00372,"eviitiyu:"" aleesa anivaarasa muteko wiira akhwe"", ekwereere yootikiniha ehiiva mmihalini mwa wameerika senteraale",0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00373,r t ya okhooku: wokootthiwa sa ativiixita a ihaakhi sapinaatamu. floribert chebeya,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00374,poliisiya mosampikaana onnilamula mwaha wa mutumiheliyo wa atthu elapo ya omanika,0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00377,"ohookhwa neno, kwaratareeti ooyariwa okaapu veerite amuttikha mphira ekiipa ya porutukaale,",0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00380,"ofalume woowiiraana onithokosa ipanko sivanhe ""sookophiwa soowiipitheya"" omosampiiki",0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00382,mosampiikhi onnilaleerya mwaha wa moopihelo wa epoola,0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00383,timoore leexite oxintta omonkooliya ninolioiherya ovirawawe orooka ekwaha ya nayiili okathi w a othanleliwa wiirela mpantte a muntiyaale a eyaakha ya 2018,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00385,ntteeke na ekhotto amerikaanu ninvava vooheettihiwa ni mutthu,0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00386,ekhotto ya osiiriya nnaamwi eryeene yoolavuliwa vanceene muhantisi- ni nleelo siisa ninsuwela vakhaani mwa yeeyo,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00388,exiloveeniya oolaleerya mmalamalo wa covid-19,0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00390,anamuteko okuumi ari ni epwepwetthe omosampiikhi,1,0,0,0,1,0,"['anger', 'sadness']",test
+vmw_test_track_a_00391,"ipeerya, muthinto a isiipo sa okaapu veeriti, soothatuwa ikaruma sa elapo.",0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00392,"voohimoriwa ikharari, mwiithe wa epaphelo - anaxikola a elapo ya wankoola ari elapo ya ukaraaniya annoopihasa woomoliwa.",0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00393,aleesa anilavulasa: malatiinz ni mikuthakutho wa ikhaleelo wa ekwereere,0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00396,"mamosapikaano ophiyelela 20 purusentu khanirowa wiira mpantta wa mwathanle, mwaha woohiresensiyari.",1,0,0,0,0,0,['anger'],test
+vmw_test_track_a_00398,muhooleli jair bolsonaro khahiyo mukhawe onakiherya muteeko anamwane- maparasileero othawali tho khaniweha milattu,0,1,0,0,0,0,['disgust'],test
+vmw_test_track_a_00401,"waafirika ni iretta sinceene sa oranvwa, onihimya oms",0,0,1,0,1,0,"['fear', 'sadness']",test
+vmw_test_track_a_00402,"nikhuru nenla nnaalevelela atthu ninvekela osuwela makhwelo a nkhulupale a munisiipiyu, mahamudo amurane.",0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00403,bin laden kokhwaale onihimya muhooleli wa cia,0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00405,""" khanihiyo amuusi amosa onithanyo ""piriisipe william",0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00407,"claudia silva ferreira: wookotthiwa ni miriirasa mapuliisiya, yootatuxiwa ni miitiya",0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00409,eretta ya covid 19: oms onihima wiira onnacereya athu orava afirika ni musurukhu onotepa othowa wa iyakha 25 sinirwa.,0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00410,anamwivahererya a ekuruxu yooxeerya aatupheliwa wamphula,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00411,tayilaatiya: othoowa muhina mwa okaapo sa matteeke onahaaxa atthu ehoothe,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00413,ataake omanika ohaahiya anli ookwa ni araaru ovulala,0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00414,joseph blatter ni michel platini aahihiwa ovara mitekosaya iyaakha mithanu nu miraru wa fiifa,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00418,okhumulana wa kampoyi wowokottha atthu anli ni miloko mithannamiili awulalasa muttetthe wo karolina wo hitto.,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00421,"muleeleya, manuel de araújo oohiya ohoolela munisiipiyu ookelimani.",0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00422,namphira a pafana pafana ohokotthiwa ni itiro sa kapwitthi.,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00423,can 2021: covid-19 ohahokoloxerya owaani atthu nriyari-nriyari a nukhuru na kine pisawu,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00424,moono onikelexa nsuwa muttetthe waasiya: oweela wa isisapo sa musoro ni iyoolya sikinaku,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00426,eua oovahererya iporoxetu sammatta wasisapo ya  30 ikonto sa toolari,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00427,nahapaari ni mulaleeryo ankolaano rafael margues otthikela okilathiela munyukhu alipo atthukiwa mwaha woothokosa miriira sa makwankwa,1,0,0,0,0,0,['anger'],test
+vmw_test_track_a_00429,mosampiikhi onixikhelela muthokoco siyentiifiku,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00430,daviz simango oottukhuleliwa w'afirika y'okuusini,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00433,onanariwa wankoola noomala ohasariwa wa namayixinliha oluunta nooroti,1,0,0,0,0,0,['anger'],test
+vmw_test_track_a_00434,mafalume anihimyaniwa waakhela makwanka/okunyariwa woowi ehikhanyereriheke otthareleliwa ohivoloiwa pure oluwanta.,0,1,0,0,0,0,['disgust'],test
+vmw_test_track_a_00436,mamosampikaano yomoliwe waafirika a osuuli mwaha wa wiiyiwa ewooro,0,1,0,0,0,0,['disgust'],test
+vmw_test_track_a_00437,mutakaniho wa mamilitaari anisyaka ovarihana ni renaamu,0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00438,etthu exeeni yiriihe wii parasiili otthikela mmaphani mwa etala wa onu noovira iyaakha thanu ni thaaro ori ota,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00439,''ohaawa onnirowa otepa elapo ela ya mosampiiki'' olavula mukhulupale yoola onoonaxaxa itthu sineetta  mmuttettheni.,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00441,cristiano ronaldo omwaleyiwa ni  khipwanyaniwa ekekhayi mwaha wa ekwerere ya kovit-19,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00443,alipo akhottelaka 25 aniira athokosasiwaka varumeeliwa nlamulo na okhanyererya oparasiili,0,1,0,0,0,0,['disgust'],test
+vmw_test_track_a_00444,anamathokoca annisuweliha mukhalelo wa axunku ni dna a atthu mwa mittikitthelo sa leonardo da vinci,0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00445,mwaana a bolsonaro oomuvaanyiha muthiyana-oopacerya ni onnaakiherya wiira amaama awe arumeeleke nsina nookhiserya,0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00447,mosampiiki: etensawu poliitika enimwaafetari oheliwa mihakhu,0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00449,mosampiikhi onoorowa okhalana nlamulo wiira woopole mireerelo sookhumeleela mwaha wa makwankwa,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00450,konstitusiyonaliixita owokottiwa mmapikatani mwa epooma yuulupale ya mosampiikhi,0,1,0,0,0,0,['disgust'],test
+vmw_test_track_a_00452,microsoft ootthikela tho otutuxerya ni windows 365!,0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00453,urukwaayi: céleste onakheleliwa ni emilyawo emosa ya omontemii,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00454,eparalamento mosampikaano ehaakhulela mwiiwananelo wa murettele,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00456,siita ocapaawu: mwaromoleleke makeeyi?,1,0,0,0,0,0,['anger'],test
+vmw_test_track_a_00463,atm apacerya ovaha muhakhu wa elapo ya omosampiikhi.,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00466,mosampiikhi onithoonyerya mwapoophe okupaleeliwa oniwanana ettekuuxa,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00467,ewarakha yottittimiheya ya muhooleli osam paawulu yowunteererya alipo oniirumeela ale anivanyiha muhooleli,1,0,0,0,0,0,['anger'],test
+vmw_test_track_a_00469,"eua: nlaala mwaha wooperetereya ya amerikaan furkan dogan, wiiviwe ofolotiilya",0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00471,kiné pisaawu: ookwa aanli mwaha wowaakariwa epaase yatoropa,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00473,koviit-19: mosampiikhi orepela voophova nihiku ni ookwa,0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00474,okathi sanamunceene owutuwanyereya onihela mmoopopihoni ihakhi sa wixiiliha muhina mwa oxikoola ikhulupaale sa oparasiili,0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00475,mwaapomphe oniwanana ettekuxa yoolepihiwa wiira yaakhuleliwe,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00476,ohincerereya mwaattelo woophiyeryaka 290 wa atthu oophwanyiwa ni mwanamukhaya itaayi mmosampiikhi,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00478,vophiyaka imilyawu sa atthu a waafirika anoorowa omukwakhiilya mwaxitthu koroonaviiru-oms,0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00479,ofisina wa elampata ya makhura ya miyaakha 1.700 yoophwanyiwa mukano wa ixirayeeli,0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00483,efaapirika enipaka ixuyaari ennipittikuxa ekumi ya anamalima otica,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00484,"mittetthe sa okilompola sinixinliha ni itthu sootannyeriwa ni ifaaprika opoorutu ya aratu, opahiya",1,0,0,0,0,0,['anger'],test
+vmw_test_track_a_00486,namaphuka milattu a etiripunaali yuulupalexa ya elapo ya omosampiikhi onivekela mwaakiheryo ooreera wa maxixitaraatu ni amusi aya.,0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00487,"venâncio mondlane khaniira mpantta ""mwawutarikiiya"" elapo ya mosampiiki.",0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00488,alipo ari  talamula milattu omosampiikhi animana natiri  wi ihukhumu sa ale ari matarafikaante a mipaatte sa eruutthu ya atthu.,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00492,feyisipuuki onnittapela mihaakha muloko ni atthu oophiya imilyawu miili,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00494,startup onavaha ikuuru oliili axikhaani voorumela sms,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00495,ohookhwa namwiipa kenny rogers,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00496,polisiya awankoola onikhottela wixiilihz nihiku na otaaphuwa,1,0,0,0,0,0,['anger'],test
+vmw_test_track_a_00497,ankoola oomwinternasiyonalisari kisompa,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00498,omora wa puliitiku faranseexi ni muttakali konkoleesa siiri ovaanyhihana mwiterineeti mwaha wa soohimwa sooluluwana ni opotthana,1,0,0,0,0,0,['anger'],test
+vmw_test_track_a_00500,hiv/siita : aretta omosampiikhi aniweha nroromelo na okumi vowataleleya muhina mwa muteko olooliwa,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00512,osaawu paawilu  wookhala voophovaka ifaveela ekonto ninoonihery mikacamiho sa ekwereere,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00513,ikanyeryo isya siniireliwa owiriyana nlaka na ekhunya na voa,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00514,""" siyensiya onuunuwa, masi nithaanyo vooluluwana mwaha wa axiitthu hiv onitthikela"", onilipiheerya meetiku parasileero",0,1,0,0,0,0,['disgust'],test
+vmw_test_track_a_00515,omosampiikhi: atthu ahiniiwananeya aathikila ephiro opalma. mapuro owoonasiwa mureerelo sa vamisse anyaanyiwa,0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00516,"khiivo ekhanle yoweemexa owali wa vinaakere oparasiili, nnakhala tho fifa",1,0,0,0,0,0,['anger'],test
+vmw_test_track_a_00519,osareya maasi onnopopiha o suuli wa mosampiikhi,0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00523,covid-19: mukhalelo sothukumanya sinnakottiha anamphira akinaku ananwa ookela.,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00524,anamurwa oohitthuniheriwa annookhwa mmaasini omosampiikhi,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00526,anamasoma ahoonela oyareriwa onakhaliherya anamwane awaafirika wa malaariya,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00527,anamwane afirikaana ni ovelavela mwaha wa itaratamento sa siita,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00530,"noomala okeleeliwz wa ukaraaniya, ruusiya onilipiherya ekhotto ya apinaatamu aya",0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00532,tiithi oomwiya ni anahova omutumiha mwanawe ethaatuwa,0,1,0,0,0,0,['disgust'],test
+vmw_test_track_a_00533,minupi sa tinasowuru soophwanyiwa waarixentiina sinimalela okhala sa mwaamunama ootepexa winnuwa muhantisini wa elapo ya vathi,0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00534,"olamula elapo vanipwanelaaya, maanaliixita anihimya olaleyiwa masu paahi ni muteko vakhani omosampiiki.",1,0,0,0,0,0,['anger'],test
+vmw_test_track_a_00535,"mwaalakelo wa anamittompe 13 oowiiviwa wa khula nihiku okhuma mwaakha wa 2006 mpakha 2012 onnikhumeliha mututuxeryo, oolavula supusekeretaariyu",0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00536,senekaale yoottottela muraarelo woopacerya mukampeyonaatu afirikaano ya nasawu a mphira.,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00538,xiina: ikuluuttu soovirikana sa pulookhi ni nttaava tipateena soowaliwa,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00539,"mphira: rodri, oomusuwelaxa mphira moolumwenkuni",0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00542,ihapari soohiloka soluluwana ni kumi wa marielle franco sinaatta munterineetini nuumala wookotthiwa wawe,0,1,0,0,0,0,['disgust'],test
+vmw_test_track_a_00543,mithukumano simphavela opaka masoma  wii evukule othelana ohinatthi ophiya okathi,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00545,"ilapo soowiiraana sa w'ameerika sinrowa okopiha omosampiiki ikonto 1.2 sa imilyawu sa itoolare, mpakha 2018.",0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00548,niira na ikhamparawu ninaalamula atthu epooma ya vilankuulu.,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00549,"mory kanté, ""mulopwa a kora"" ohookhwa",0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00550,top ten amerikaanu: epanta sonoora ya black panther ti mureerelo wa itapela.,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00553,eliivuru ya emanuel kunzila enihimya mwaha wa ekhotto ya otaphuliwa wankoola,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00557,pareseloona othi wa ehaamu:  sakaraata familiya yothamihiwa mwaha wa mopopiho wa materoriixita,0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00558,mosampiikhi: mameetiku ahunteererya ekhereeve,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00559,awahala a venesuwelaana mmosa oxaaka: mwiriira wa etthu emoosa yowoopiha ya niihiku tinihiu,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00561,"itaaliya: ahokwa oophova mapaatiri owavikaana ale ari mameetiku, mulatthu wa koronaviiru.",0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00563,"exiipitu onnilaleerya moonanelo wa asarakoofaku 14 a ookhalana miyaakha soophiyeryaka ikonto 2,5",0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00564,"matakaaxikare: noovira ettheku , oniirya efurakawu puliitiku",0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00565,anamaxekurya annikupaleela ekoopa oparasiili,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00566,"covid 19 ""muxankiho wa elapo sotheene"" ohima muholelil awankola.",0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00567,elapo ya afirika lusoofona yoohira mpantta wa mphira yoola wa elapo sotheene.,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00568,ihakhi sa anamwane nlelo sinivira sinyoholiwaka mmosampiikhi,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00569,"mukerekhere mwa epooma ya sawu paawulu, anamwane okhuma okhopela anikhala vohi ehakhi yoovolowa muxikola okathi wa epwapwatthe",0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00572,mosampiikhi: poliisiya onitthukwela ntthavi waanamakuxa.,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00573,anamaruwerya kharina mapuro ootumiha epwiri.,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00576,muleepi ankolaano ondjaki oxintta etthuvo ya ilepeelo ofaraasa,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00577,"oms , oniroromeliha omukhaliha mosampiikhi ovekela imiilyawu 40 sa itoolari .",0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00578,"muleepi best-seller a iyaakha sa imiiya xix, okumihiwe wakatemiiya parasileera ya ileetera",1,0,0,0,0,0,['anger'],test
+vmw_test_track_a_00579,"ekeriikhere mwa amasooniya: ntooko yuumaseya, mihuuru ni otokhoriiwa onakameela okhala wa miraatthi sa tapaxaawu",0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00580,mwaattelo wa seroperevaleensiya omosampiikhi oeuncererya vopophiya ipuruseeto piili,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00581,kaana oomutthukwa repuupilika xeeka ni ookela nikhuru e,0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00582,mwaattelo woophiyeryaka ekintu emosa ya axithiyana a mmosampiikhi aniyariha ahipixenrye miyaakha 15.,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00587,muhakhu woorikarika viking wookhalana miyaakha ekonto emosa oophwanyiwa okisirwa wookhalayi,0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00588,esateelite yoopacerya ya wankoola yoyeleela ekanyeryo nuumala ovonyiwa- ni interineeti kholeveleele,0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00589,"cr7 onikhuxa mmakhatani elapo ya porutukaale ni "" hack - trick"".",0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00590,atthu oniceeriya tookweya oraruxasiwa  atthu a waafirika muttetthe wa ewuroopa,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00591,etiyoopiya : tiithi a jazz etiiyopi tonittittimihiwa,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00593,"malavulelo a efaranseexi: ntoko eviinyu yooyootta, mweehereryo a twitter onikhala yoreerela ni okathi",0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00595,elatarato ya otho yookhoottihiwa mwa soowura siniruuhela ikuuru yoopattuxa ovaanyihana omosampiikhi,0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00596,alipo ahaapari opooxiniya onikhanyererya exaariya yooluluwana ni mwaha wa nahapaari woopopihiwe ni khimaniiwa ni hooligans,0,1,1,0,0,0,"['disgust', 'fear']",test
+vmw_test_track_a_00598,eviitiyu: axineene munduruku anixiiliha mwaha wa otekiiwa wa maluuxu anikhuma mmaasini wamasooniya,1,0,0,0,0,0,['anger'],test
+vmw_test_track_a_00600,koronavirus onnalaaheya molimwnkuni mukhalelo onthananiha miteko muxipiritaale simphwanyaneya sokacamiheya.,0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00601,ilapo soowiiraana sa w'ameerika soolikanana okhaliherya ovaaneliwa murettele wa mosampiiki,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00603,isiiri ya eyaapelano anyu éric yowoopopiheya mwa muthurumeeli a eua ni reeyiinu uniitu,0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00604,mulipa onivara opanku oomoomola namwiiya otheyatheyaka,0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00605,mosampiikhi: axitokweene annivonya ihakhi sa anamatthukweliwa,0,1,0,0,0,0,['disgust'],test
+vmw_test_track_a_00607,ephula  yootupa  ehiiva  wamphula,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00608,koviti-19: mosampiikhi oomulepa nakhwe mmosa ni kapu verete anamara asya,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00612,intiiya: kaxemiira: wa maluku oovonyiwa mphaka ipwepwetthe sa mufeyicipuukhi,0,1,0,0,0,0,['disgust'],test
+vmw_test_track_a_00613,woopiha oruuhela owana wana watoopa hihe ni koreeya ti nooroti,0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00614,epipiliyoteeka enamukwerethiwa ya soolimaleela seephattu sinivoniha ekwerere yoovonyeriwa muttetthe ofilipiina,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00615,"wiige,  mopopiha oostatiyu okhumelenle mwaha wa niphuro waohiyana sa mukhalelo",1,0,0,0,0,0,['anger'],test
+vmw_test_track_a_00616,"biden  onnimutthapela paapa mwaha wa mukhaliheryo awe ni atthu oohaawa ni francisco onihimya wiira peresitenti ti ""katooliku ooreera murima"".",0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00619,ovya wa itthu suulupale onniphwanyererya omusewu wa nttaava na ekunya osawu paawulu,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00622,ookasoopa : mukhaleelo otepa ohikhala a mukhaleelo wa malyelyo ohiloka saneene mpantta manceene wa omosampiikhi,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00626,akhulupale a nikhuru na exariya ''anniroromeliha'' wi milatthu sa eteeni yeele yoohisuwaneya sinoorowa ophukiwa.,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00628,atthu oparasiili annikupaleela okumiherya manyakunyaku wampwaheryo wa meera a miteko samphira a molumwenkuni.,1,0,0,0,0,0,['anger'],test
+vmw_test_track_a_00629,athu 2 okwa ni athu anceene ovulala elapo ya okine pisawu mwaha wa ekotto.,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00630,"muthaaseke itaay mmosampiikhi: epooma yaopeera, okhuma 500 ikooto sa atthu anikhala, nnakhala voowiraka oteene omiryeyeene",0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00632,olosowa wa ankhili xuriitika ni osikhini tenhima mwaha wa olosowa wa ottittimiha wa ihaki sa pinatamu omosampiikhi,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00633,pulisiya amwatakari alipo owisiiliha ni khikhottiha wettakasa vokhoottela isisapo sa san paawulu,1,0,0,0,0,0,['anger'],test
+vmw_test_track_a_00634,mapilisa omanika anithoonyiwa ni mikhalelo wasivela warupiha anamwane ni wovonyola axithiyana .,0,1,0,0,0,0,['disgust'],test
+vmw_test_track_a_00636,mukhulupale a mmosampiki ottikela wompererya wiraana,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00639,amwaavana ari ottayiwene wa mapuro sinkhuma miruku soomaliherya wa afrika,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00640,alipo owaniha ekhott akhalayi anoopopiha ni nihasu viira ahiwiriyanasiwaka  ni mukhulupale guebuza,0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00641,eviitiyo enilaleya ohaaxiwa na masupayi ovenesuweela (nnakhala okhala okolompiya),0,1,0,0,0,0,['disgust'],test
+vmw_test_track_a_00644,nlamuulo na ekootiku penaale na elapo ya mosampiikhi ninivonyola ihaakhi sa athiiyana ni anamwane,1,0,0,0,0,0,['anger'],test
+vmw_test_track_a_00645,"otheliwe onarina miyaakha 15, margarida waanimusivela onatthikenle osoma",0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00648,covid-19: nyusi onilokoha exitaatu ya emerecensiya omosampiiki,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00649,papa bento xvi onihimya wiira onoohiya okhala paapa,0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00656,"esekretu saka othipelela ni olikanyiha itthu sinhimaaka ni sinlavulaaka, oohima saxofinista a omosampiikhi otis.",0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00657,aafirika ya okuusini onipaka ekampaanya eniwanana etthekuxa para alipa-mukothi ni maturiixita anirowa omosampiikhi.,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00658,yookwathula ni olupatthana yoomoomoliha muhooleli a (credit suisse) ekereetitu suwiise,0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00659,moolumo oruwaniwa dilma rousseff vaniirani noitthukuleliwa mutiyaale anthonyarya elapo yookawanyeya,1,0,0,0,0,0,['anger'],test
+vmw_test_track_a_00663,trump ootuphela eliivuru ya bolton ole aari namakhaliherya awe ookhalayi,0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00665,"netizen report:okhuuma opoorutu riiku mpakha opankalateexi, ewiriiphi sa ikaruuma tixitaale anamattikha khathoowa apinaatamu",0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00667,namapaka will smith ohuteererya akatemiya ya hollywood,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00670,"luwanta:  niira nootthapa ""nzoji ya monandengue"" ninthonyerya  miruku sa axinamwane ni mathowelo ocicimiheya.",0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00671,mosampiikhi onaakhela ikonto 484 sa ipophano sininwanana covite-19,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00672,mosampiihki: anamwane ophiyera 50%  ya anamwane arina iyaakha vathi wa iyakha ithanu ohasuwasa ni owereyasiwa.,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00675,oleveleliwa wa elapo yootheene ennihimya woowi sohaaxiwa wa mireerelo sa omuro-2016,0,1,0,0,1,0,"['disgust', 'sadness']",test
+vmw_test_track_a_00676,esinyaalo: anamawaani a oxiriini ekuluuttu ya osam pauwulu anihaawa khuuta nihiku mwaha woothowa maasi,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00678,muthokiho wa nlamulo extatuneese nookhala owoopopiha interineeti olumweeku,0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00680,nikhuru na lgbti enitthikela ohukhuumwa nuumala iyaakha 20 okhuma vaavale vataphuleliwa aya ohiirela mpantte wa ekhiriime wa othelaana alopwana wala athiyanaru wekwatoore,0,1,0,0,0,0,['disgust'],test
+vmw_test_track_a_00682,epeeco ahawaleeliha anaamiravo ayili okathi waalompiwaaya oparasiili,0,1,0,0,0,0,['disgust'],test
+vmw_test_track_a_00683,kuveerunu ni renamu ahiwanana mipantte sikina,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00684,nba oolaleerya nba aafirika epheya,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00686,yooyariwa oparaseloona etthineeri epheya  ya mitathaari sa okwine-pisawu.,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00687,efuntasawu wikimeetiya ennimoothererya nsa wa eporokaraama awe ya evixilansiya yoowaatta,0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00689,nikhuru na atthu a mulaponi-ahikhanle mwa iparitiitu sa mmosampiikhi nooruuha ekampaanya wiira yaakhaliherye atthu oohukhumwiwa ni ixeeyiya.,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00691,kovity-19: mameetiku mosampikaano ananariwa ni sixitema mwaha wowixoona ohikhaliheriwa,0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00693,pele onkhuma olelo oxiripitaali.,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00694,messi onlavula mwaha wa ni onnimuxukhurela muluku.,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00697,olumwenkuakhiyaarapu: mayiithori oomwareya mwaha wa ovalaanyiwa ni suutawu,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00698,"alipo anithokiha malamulo animananiha orumeela malamuulo yiirela ottiyela osooma vooluluwana ni mukhaleelo wa ekhove ni oraruxaana oparasiili, onihinya hrw",1,0,0,0,0,0,['anger'],test
+vmw_test_track_a_00699,manteeka a matthuvi anikhaliha owoopola aretta anikhala ni mwaxiitthu omosampiikhi.,0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00700,nikhuru nanamaloola iretta axankihiwa mwaha wa wakhula wa kuverunu a wankola mwaha wa ekereve.,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00703,puliisiya onimuula wooniherya efiilime ekuluttu sa maparasileero,0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00704,"anamwaane oviikana ikooto  imiiya 350 anipwaanela ovahiwa mukhaliheryo mukhaliheryo a mukakuve okaapu- telekaato,osuweeliha muthenkeeso save the children.",0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00705,nikhuru na anamahonona aapaka soonanara wamphula.,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00706,ohukhummwa wa athiyana mmosampiikhi etthu enitepa oriipiha murima.,0,1,0,0,0,0,['disgust'],test
+vmw_test_track_a_00709,mwaakha wa 2014 waari wootepexa oviha wookhumaru mwaaakha wa 1880,0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00710,"""eteera sonampula"" a mia couto omerekaatu xineexi",0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00711,dhlakama onoopopiha omukumiha omwene frelimo ekhatiri 24,0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00712,"wiina okathi wa mphira... yookhala esipo ya samba, forro, axe ni sertenejo.",0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00714,elaka na ihapari yoorimeela mpankani noomala ovuwiha mulaleeryo wa mwaha wa makwankwa omosampiikhi,0,1,0,0,0,0,['disgust'],test
+vmw_test_track_a_00715,"onamwane mukhatteya: ,atokweenr o el salvatore nnakhala khaniweryz osyaka wii ananttompe ahuraaneke ni makhuuru anasusukhi.",0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00716,vaari siliini okathi opaceryaanyu osuuwela miriira owokiiwa mwiirelaka orupihiiwa? parasileera onaakhula ninyooho olaayini,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00717,mukhalelo wa okathi owiiva atthu atthanumuttetthe omaniika,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00724,vathi wa ephareya yooriipa ennivitha epooma yoosamihiwa ya miyaakha 6.000,0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00725,parasiili : exikasawu senteraale ya akareera onooniherya ohilooka wa ihakhi sapinaatamu,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00726,waatterereya wa iretta sa kankuru onnaaxenkereyiha anamawerya oomosampiikhi,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00728,"mosampiikhi:"" taani oni ophaveele oyaara muumu?""",1,0,0,0,0,0,['anger'],test
+vmw_test_track_a_00729,khuuvo onilikaniha iteseena thanu ni emosa ya emeka-seena ni etthuvo yoottottelana mpakha imilyawu r$ 30.,0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00730,covite-19: yoosommwa enithonya wiira ahookhwa atthu 435 okaapu veerete ni onihimmwa wiira owaleliwa wookhoottiha ehasara,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00731,ewiriiphi ovenesuweela: enirowa okhala mahiku makavi?,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00732,mutaseke eloyise: numuru ninniwela mpakha 8 epooma ya peera,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00736,mwa ekumi ya mmosampiki: oretta wokacamiha onitthaniwa serivikale onniwokottha atthu ikonto xexe wa iyaakha sotheene.,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00737,mafasenteyiru macikhiini omatakaaxikari anihimwasa okhanyereriwa ni alipo aathokosa maxineexi wiivattumihasa mathala aya ni isisapo sootheyihasa,1,0,0,0,0,0,['anger'],test
+vmw_test_track_a_00740,aximwaali  owemelela ahukhuumwa  imaara vaili .,0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00742,ilimaleelo sa iyapeelano sa opulukaara ntoko inamuna soottikiherya sowuupuwela sa ephattu: iphaace soliyaliwa sa piipi ikuluuttu ya antimovo,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00745,osavora onorowa okhala opuro woololiwa,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00746,koviti -19 imiya ethanu epayiro muxerexe wa luwanta annihuwela   wii ekhaliheriwe,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00747,ekomisawu ya ekekhayi ya kaapiya enitthikela ohoolela manyoho yiraneeye okathi wa kuveerunu a muhooleli akhalayi,1,0,0,0,0,0,['anger'],test
+vmw_test_track_a_00748,nawiiye ohiiya ekarotoola ya maaxiku ni namarokolo muhina,0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00749,"nakootha awaicentiina dr. dickenstein namaxiitta a ethuuvo athiiyana muhina mwa siyensiya:"" muthaare nsiveelo""",0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00751,mukhalelo wamphwaheryo wa mixinttano sa molimwinkuni sa mphira muthananiho munceene.,0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00752,iyaakha 50 soopothiiwa oparasiili: solaleerya soothaleleya sa namapootha mufaranseexi paul aussaresses,1,0,0,0,0,0,['anger'],test
+vmw_test_track_a_00753,"wiyeemeni vkhott, ohisuuwela itumereryo ni orukunuwa wa ipheeyo siiri sinihoolela??mwaha woothowa nimaasi",0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00755,koviit-19 opalexitiina:anikhala variyari va nroromelo ni woova,0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00757,kheeniya: ekaruuma emoosa enirumeeliwa wiira evuwihaniwe miriira sa ninyoho,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00758,polisiya ankolaano ohaamwarya anawixikihe aximaayi amativiixita  niinyoho,1,0,0,0,0,0,['anger'],test
+vmw_test_track_a_00759,mattaava oopacerya annirimeela osawu tome prinsipi,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00761,"akoola faala so-orwa wa mameetiku okuupa"" ti nakooso""",0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00763,woopopiheya mukhalelo a witaphula wa mmulaleeyoni muhina mwa ekhootto yowanela ekwerere ya epoola olipeeriya,0,1,0,0,0,0,['disgust'],test
+vmw_test_track_a_00765,atviixita leonardo sakamotoonoopopiha wiiviwe nuumala olaleerya muvaanelo ohikhala tiyoowo,0,0,1,0,0,0,['fear'],test
+vmw_test_track_a_00767,meera a nihiku na muthiyana wa ilapo khamosa-khamosa nitthapeleliwe ni mompereryo womalamaliha sa manyala sowiiyiwa ni ottyawihiwa atthu.,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00769,nani xokatore a mwaakha wa manxexeteri unayiti.,0,0,0,1,0,0,['joy'],test
+vmw_test_track_a_00770,'' onipwetheya mutthu anaakiha ni yoola ari tithi ahu'' alavulaka daviz simango.,0,0,0,0,1,0,['sadness'],test
+vmw_test_track_a_00771,aaphwanyiwa mahiye a anamwane a mathaaciri a impeeriyu inka ookhalana miyaakha 500 operu,0,0,0,0,0,1,['surprise'],test
+vmw_test_track_a_00774,"navalny, mohooleli a oposisawu ruusa, oniilela wiilipiha ohinimala noovira okathi osoomwa esenteesa ya iyaakha thanu ni ixexe",1,0,0,0,0,0,['anger'],test
+vmw_test_track_a_00775,mphiira oolumwenku wa obaraziili onreeriha mukhalelo wanaamurwa okaapu verti,0,0,0,1,0,0,['joy'],test

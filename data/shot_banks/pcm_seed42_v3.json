@@ -1,0 +1,86 @@
+[
+  {
+    "text": "agụụ ga-egbu gị ##url##",
+    "labels": ["anger"],
+    "rationale": "1. Identified cues: 'ga-egbu gị' meaning threat to kill, indicating anger. 2. Tone: Aggressive and threatening, like pcm 'I go wound you'. 3. Interpretations: First, threat signals anger; second, could be fear but tone is confrontational; third, no joy/sadness due to aggression. 4. Critique: Consistent with pcm dispute slang; Conclusion: anger.",
+    "src_lang": "ibo"
+  },
+  {
+    "text": "kurjin da ke bayansa ya fashe yana zubar da wani ruwa mai kauri, rawaya, kamar man zuma, sai ya lashe",
+    "labels": ["disgust"],
+    "rationale": "1. Identified cues: 'fashe yana zubar da wani ruwa mai kauri' (burst spilling thick liquid), 'rawaya' (yellow). 2. Tone: Vividly unpleasant, like pcm 'dis thing dey smell bad'. 3. Interpretations: First, gross imagery fits disgust; second, could be fear but no threat; third, no joy/sadness. 4. Critique: Matches pcm revulsion; Conclusion: disgust.",
+    "src_lang": "hau"
+  },
+  {
+    "text": "this involved swimming a pretty large lake that was over my head.",
+    "labels": ["fear"],
+    "rationale": "1. Identified cues: 'over my head' implying drowning risk. 2. Tone: Anxious, like pcm 'I dey fear water'. 3. Interpretations: First, danger signals fear; second, could be sadness but no loss; third, no joy/surprise. 4. Critique: Consistent with pcm fear context; Conclusion: fear.",
+    "src_lang": "eng"
+  },
+  {
+    "text": "hondas are notoriously great cars for long trips for their dependability and great gas mileage.",
+    "labels": ["joy"],
+    "rationale": "1. Identified cues: 'great cars', 'dependability', 'great gas mileage'. 2. Tone: Positive, like pcm 'dis car dey sweet me'. 3. Interpretations: First, reliability evokes joy; second, could be neutral but praise is strong; third, no anger/fear. 4. Critique: Matches pcm appreciation; Conclusion: joy.",
+    "src_lang": "eng"
+  },
+  {
+    "text": "muyiwa ademola: a ó jọ rọ́ọ̀kì ọdún 2021 papọ̀ ni lágbára ọlọ́run",
+    "labels": ["joy"],
+    "rationale": "1. Identified cues: 'a ó jọ rọ́ọ̀kì' (we will celebrate), 'ọdún 2021'. 2. Tone: Celebratory, like pcm 'we go party hard'. 3. Interpretations: First, celebration signals joy; second, could be surprise but no shock; third, no sadness/fear. 4. Critique: Aligns with pcm festive vibe; Conclusion: joy.",
+    "src_lang": "yor"
+  },
+  {
+    "text": "it's his reflection.",
+    "labels": ["surprise"],
+    "rationale": "1. Identified cues: 'it's his reflection' as unexpected twist. 2. Tone: Sudden realization, like pcm 'chai, na him shadow o'. 3. Interpretations: First, twist signals surprise; second, could be fear but no danger; third, no joy/sadness. 4. Critique: Matches pcm shock; Conclusion: surprise.",
+    "src_lang": "eng"
+  },
+  {
+    "text": "then the screaming started.",
+    "labels": ["fear", "sadness", "surprise"],
+    "rationale": "1. Identified cues: 'screaming started' indicating alarm. 2. Tone: Tense and chaotic, like pcm 'wahala don burst'. 3. Interpretations: First, screams signal fear+surprise; second, sadness from negative event; third, could be anger but no explicit aggression. 4. Critique: Multi-label fits pcm crisis context; Conclusion: fear, sadness, surprise.",
+    "src_lang": "eng"
+  },
+  {
+    "text": "you know what happens when i get one of these stupid ideas in my head.",
+    "labels": ["anger", "fear"],
+    "rationale": "1. Identified cues: 'stupid ideas', 'what happens' implying bad outcome. 2. Tone: Frustrated, like pcm 'I dey vex for my mumu idea'. 3. Interpretations: First, 'stupid' signals anger; second, bad outcome evokes fear; third, could be sadness but no loss. 4. Critique: Aligns with pcm frustration; Conclusion: anger, fear.",
+    "src_lang": "eng"
+  },
+  {
+    "text": "fijilante yii ti daran o, afurasi ti wọn fa le e lọwọ lo dana sun",
+    "labels": ["sadness"],
+    "rationale": "1. Identified cues: 'dana sun' (burned), 'afurasi' (suspect). 2. Tone: Tragic, like pcm 'dem burn person o'. 3. Interpretations: First, burning evokes sadness; second, could be anger but no direct rage; third, no joy/fear. 4. Critique: Matches pcm mourning; Conclusion: sadness.",
+    "src_lang": "yor"
+  },
+  {
+    "text": "ana tuhumar tsohon sufeta janar da yin damfara",
+    "labels": ["anger", "sadness"],
+    "rationale": "1. Identified cues: 'ana tuhumar' (accused), 'damfara' (corruption). 2. Tone: Accusatory, like pcm 'dem call am thief o'. 3. Interpretations: First, corruption evokes anger; second, betrayal signals sadness; third, could be disgust but no grossness. 4. Critique: Fits pcm dispute context; Conclusion: anger, sadness.",
+    "src_lang": "hau"
+  },
+  {
+    "text": "leave onye nzuzu",
+    "labels": ["disgust"],
+    "rationale": "1. Identified cues: 'onye nzuzu' (foolish person). 2. Tone: Dismissive, like pcm 'comot, you be mumu'. 3. Interpretations: First, insult signals disgust; second, could be anger but tone is mocking; third, no joy/fear. 4. Critique: Aligns with pcm disdain; Conclusion: disgust.",
+    "src_lang": "ibo"
+  },
+  {
+    "text": "chukwu na enye aku na uba gozierem gi a zillion folds. ❤️ ##url##",
+    "labels": ["joy"],
+    "rationale": "1. Identified cues: 'chukwu na enye aku na uba' (God gives wealth), 'gozierem gi' (bless you), '❤️'. 2. Tone: Positive, like pcm 'God don bless you o'. 3. Interpretations: First, blessing evokes joy; second, could be surprise but no shock; third, no sadness/fear. 4. Critique: Matches pcm celebration; Conclusion: joy.",
+    "src_lang": "ibo"
+  },
+  {
+    "text": "I dey smell something wey dey turn my belle 😖",
+    "labels": ["disgust"],
+    "rationale": "1. Identified cues: 'dey smell something', 'turn my belle', '😖'. 2. Tone: Repulsed, typical pcm social media complaint. 3. Interpretations: First, bad smell signals disgust; second, could be sadness but no loss; third, no fear/joy. 4. Critique: Consistent with pcm gross reaction; Conclusion: disgust.",
+    "src_lang": "pcm"
+  },
+  {
+    "text": "Chai! Dem don pick my phone for bus! 😲",
+    "labels": ["sadness", "surprise"],
+    "rationale": "1. Identified cues: 'Chai!', 'pick my phone', '😲'. 2. Tone: Shocked and upset, like pcm theft complaint. 3. Interpretations: First, 'Chai!' and '😲' signal surprise; second, theft evokes sadness; third, could be anger but no explicit rage. 4. Critique: Fits pcm loss context; Conclusion: sadness, surprise.",
+    "src_lang": "pcm"
+  }
+]

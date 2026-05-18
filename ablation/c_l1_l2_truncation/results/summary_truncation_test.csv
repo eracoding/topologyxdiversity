@@ -1,0 +1,4 @@
+config,language,n_samples,l1_only,l1_l2,l1_l2_l3,delta_l1_minus_canon,delta_l1l2_minus_canon
+c_l1,AVERAGE,955,41.87,43.69,43.88,-2.01,-0.19
+c_l2,AVERAGE,955,41.86,45.46,45.07,-3.21,0.39
+c_l3,AVERAGE,955,52.11,49.94,50.0,2.11,-0.06

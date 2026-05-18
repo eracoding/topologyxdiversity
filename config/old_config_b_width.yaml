@@ -1,0 +1,22 @@
+# Configuration B: Width Topology (Parallel Agents)
+
+topology: "width"
+num_agents: 3
+
+sampling:
+  temperature: 0.7
+  top_p: 0.95
+
+aggregation:
+  primary: "majority_vote"
+  secondary: "confidence_weighted"
+  # For majority vote: threshold is 2 out of 3 agents
+  majority_threshold: 2
+
+agents:
+  - name: "literal_surface"
+    lens: "Analyze the text by focusing on explicit emotional keywords, phrases, emoji, punctuation patterns, and other surface-level indicators. Identify which of the six emotions are directly expressed or strongly implied by the lexical content."
+  - name: "contextual_pragmatic"
+    lens: "Analyze the text by considering the broader context, tone, implied meaning, potential sarcasm or irony, cultural expressions, and pragmatic cues. Look beyond literal word meanings to identify the underlying emotional state(s)."
+  - name: "contrastive_structural"
+    lens: "Analyze the text by examining its structure: contrasts between clauses, shifts in sentiment across the text, co-occurring or conflicting emotional signals, and the overall narrative arc. Identify whether multiple emotions are present and how they relate to each other."

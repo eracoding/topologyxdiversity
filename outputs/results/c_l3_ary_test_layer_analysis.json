@@ -1,0 +1,18 @@
+{
+  "per_transition": [
+    {
+      "name": "L1\u2192L2",
+      "correction_rate": 0.0342,
+      "error_rate": 0.1573,
+      "rubber_stamp_rate": 0.6479
+    },
+    {
+      "name": "L2\u2192L3",
+      "correction_rate": 0.0017,
+      "error_rate": 0.0034,
+      "rubber_stamp_rate": 0.9915
+    }
+  ],
+  "oscillation_rate": 0.0017,
+  "n_samples": 585
+}

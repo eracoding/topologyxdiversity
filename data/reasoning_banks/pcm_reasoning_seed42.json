@@ -1,0 +1,57 @@
+{
+  "language_name": "Nigerian Pidgin",
+  "script": "Latin",
+  "family": "Creole",
+  "seed": 42,
+  "language_instructions": "For Nigerian Pidgin (pcm), focus on slang (e.g., 'vex' for anger, 'wahala' for trouble/sadness, 'dey happy' for joy, 'wetin' for surprise/curiosity), code-switching with English, emojis (e.g., 😊 for joy, 😡 for anger, 😲 for surprise), and context (e.g., disputes, celebrations, social media questions).",
+  "reasoning_examples": [
+    {
+      "id": "anger_example",
+      "emotion": "anger",
+      "text": "I go wound you o",
+      "reasoning": {
+        "cues": "'wound you' (threat)",
+        "tone": "Aggressive, like pcm disputes",
+        "interpretations": "First, threat signals anger; second, could be fear but tone is confrontational",
+        "critique": "Matches pcm slang 'vex'; best fit is anger. Conclusion: anger"
+      },
+      "final_labels": ["anger"]
+    },
+    {
+      "id": "joy_surprise_example", 
+      "emotion": "joy+surprise",
+      "text": "Chai! I don win scholarship o! 😲🎉",
+      "reasoning": {
+        "cues": "'chai', 'win', '😲', '🎉'",
+        "tone": "Excited, like pcm social media celebration",
+        "interpretations": "First, 'chai' and '😲' signal surprise; second, 'win' and '🎉' evoke joy",
+        "critique": "Matches pcm celebratory vibe; best fit is joy, surprise. Conclusion: joy, surprise"
+      },
+      "final_labels": ["joy", "surprise"]
+    },
+    {
+      "id": "disgust_example",
+      "emotion": "disgust", 
+      "text": "Dis food dey smell like rubbish o 😖",
+      "reasoning": {
+        "cues": "'smell like rubbish', '😖'",
+        "tone": "Repulsed, like pcm social media complaints",
+        "interpretations": "First, bad smell signals disgust; second, could be sadness but no loss",
+        "critique": "Matches pcm gross reaction; best fit is disgust. Conclusion: disgust"
+      },
+      "final_labels": ["disgust"]
+    },
+    {
+      "id": "fear_sadness_surprise_example",
+      "emotion": "fear+sadness+surprise",
+      "text": "Wahala don burst, everybody dey shout o",
+      "reasoning": {
+        "cues": "'wahala', 'shout'",
+        "tone": "Chaotic, like pcm crisis posts", 
+        "interpretations": "First, 'wahala' and 'shout' signal fear+surprise; second, distress evokes sadness",
+        "critique": "Multi-label fits pcm panic context; best fit is fear, sadness, surprise. Conclusion: fear, sadness, surprise"
+      },
+      "final_labels": ["fear", "sadness", "surprise"]
+    }
+  ]
+}

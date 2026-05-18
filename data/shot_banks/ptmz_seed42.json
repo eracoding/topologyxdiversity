@@ -1,0 +1,104 @@
+[
+  {
+    "text": "que se muera mexico😡",
+    "labels": [
+      "anger"
+    ],
+    "rationale": "Prototype anger from esp",
+    "src_lang": "esp"
+  },
+  {
+    "text": "es fehlt noch der hinweis auf den wahnsinnigen hass auf die usa.  beides wird gerade widerwärtigst bedient. 🤮😭",
+    "labels": [
+      "disgust"
+    ],
+    "rationale": "Prototype disgust from deu",
+    "src_lang": "deu"
+  },
+  {
+    "text": "#error!",
+    "labels": [
+      "fear"
+    ],
+    "rationale": "Prototype fear from swe",
+    "src_lang": "swe"
+  },
+  {
+    "text": "da oameni buni foarte util tot ce sa discutat aici🎉",
+    "labels": [
+      "joy"
+    ],
+    "rationale": "Prototype joy from ron",
+    "src_lang": "ron"
+  },
+  {
+    "text": "скучно ((((",
+    "labels": [
+      "sadness"
+    ],
+    "rationale": "Prototype sadness from rus",
+    "src_lang": "rus"
+  },
+  {
+    "text": "ой а що то є?",
+    "labels": [
+      "surprise"
+    ],
+    "rationale": "Prototype surprise from ukr",
+    "src_lang": "ukr"
+  },
+  {
+    "text": "गायक की आवाज बेहद बेसुरी है।",
+    "labels": [
+      "anger",
+      "disgust"
+    ],
+    "rationale": "Prototype anger+disgust from hin",
+    "src_lang": "hin"
+  },
+  {
+    "text": "afff q merda",
+    "labels": [
+      "anger",
+      "sadness"
+    ],
+    "rationale": "Prototype anger+sadness from ptbr",
+    "src_lang": "ptbr"
+  },
+  {
+    "text": "या हॉटेलमधील स्वच्छतेची परिस्थिती इतकी वाईट आहे की मला चक्क उलटी येते आहे.",
+    "labels": [
+      "disgust",
+      "surprise"
+    ],
+    "rationale": "Prototype disgust+surprise from mar",
+    "src_lang": "mar"
+  },
+  {
+    "text": "yo vi la peli 😱😱😬 y daba un poco de miedo 😶😶",
+    "labels": [
+      "fear",
+      "surprise"
+    ],
+    "rationale": "Prototype fear+surprise from esp",
+    "src_lang": "esp"
+  },
+  {
+    "text": "my heart sank.",
+    "labels": [
+      "fear",
+      "sadness"
+    ],
+    "rationale": "Prototype fear+sadness from eng",
+    "src_lang": "eng"
+  },
+  {
+    "text": "das war unerwartet 😂",
+    "labels": [
+      "joy",
+      "surprise"
+    ],
+    "rationale": "Prototype joy+surprise from deu",
+    "src_lang": "deu"
+  }
+]

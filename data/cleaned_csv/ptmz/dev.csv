@@ -1,0 +1,139 @@
+id,text,anger,disgust,fear,joy,sadness,surprise,emotions,split
+ptmz_dev_track_a_00005,morador dos eua comprou 20 bilhetes de loteria e ganhou 20 vezes,0,0,0,0,0,1,['surprise'],dev
+ptmz_dev_track_a_00008,nba anunciou a nova nba áfrica,0,0,0,1,0,0,['joy'],dev
+ptmz_dev_track_a_00014,"devido à pandemia, mais de 34 mil migrantes venezuelanos são forçados a voltar à sua terra",0,0,0,0,1,0,['sadness'],dev
+ptmz_dev_track_a_00017,pessoas viviam na américa do norte há 26.500 anos,0,0,0,0,0,1,['surprise'],dev
+ptmz_dev_track_a_00019,"tuitando direto de madagáscar: antananarivo em chamas, rumores de fuga do presidente",0,0,0,0,1,0,['sadness'],dev
+ptmz_dev_track_a_00020,cine holliúdy: comédia em “cearês” é fenômeno de bilheteria no brasil,0,0,0,1,0,0,['joy'],dev
+ptmz_dev_track_a_00021,mais de 29 mil pessoas passam fome em manica,0,0,0,0,1,0,['sadness'],dev
+ptmz_dev_track_a_00022,"caçadores furtivos ""profissionalizam"" suas acções em moçambique",0,1,0,0,0,0,['disgust'],dev
+ptmz_dev_track_a_00023,angolanos preocupados com possível ruptura dos stocks alimentares,0,0,1,0,1,0,"['fear', 'sadness']",dev
+ptmz_dev_track_a_00025,sul de moçambique terá falta de água e energia durante um ano,0,0,0,0,1,0,['sadness'],dev
+ptmz_dev_track_a_00030,"ciclone idai em moçambique: cidade da beira, de 500 mil habitantes, foi quase toda submersa",0,0,0,0,1,0,['sadness'],dev
+ptmz_dev_track_a_00032,covid-19: quinhentas famílias num bairro nos arredores de luanda clamam por ajuda,0,0,0,0,1,0,['sadness'],dev
+ptmz_dev_track_a_00035,morte a sangue-frio de bebé indígena passa despercebida no brasil,0,0,0,0,1,0,['sadness'],dev
+ptmz_dev_track_a_00036,moçambique: “quem vai querer dar a luz aqui?”,1,0,0,0,0,0,['anger'],dev
+ptmz_dev_track_a_00039,colisão de comboios deixa dois mortos e 70 feridos na carolina do sul,0,0,0,0,1,0,['sadness'],dev
+ptmz_dev_track_a_00040,a mentalidade suicida na iminência da guerra no nordeste da ásia,0,0,1,0,0,0,['fear'],dev
+ptmz_dev_track_a_00041,"""polícia do rio mata muito"", diz porta-voz da amnistia internacional no brasil",0,1,0,0,0,0,['disgust'],dev
+ptmz_dev_track_a_00042,"enquanto o paquistão combate a covid-19, enxame de gafanhotos devasta suprimentos alimentares",0,0,0,0,1,0,['sadness'],dev
+ptmz_dev_track_a_00043,brasileiros aprovam protestos durante a copa,1,0,0,0,0,0,['anger'],dev
+ptmz_dev_track_a_00045,pessoas com hiv podem ter uma vida normal e saudável se aderirem ao tratamento,0,0,0,1,0,0,['joy'],dev
+ptmz_dev_track_a_00049,nadadora ana marcela cunha conquista ouro para o brasil em tóquio,0,0,0,0,0,1,['surprise'],dev
+ptmz_dev_track_a_00052,r. d. do congo: o assassinato do ativista de direitos humanos floribert chebeya,0,0,0,0,1,0,['sadness'],dev
+ptmz_dev_track_a_00053,economia moçambicana cresce menos do que o esperado,0,0,0,0,1,0,['sadness'],dev
+ptmz_dev_track_a_00054,são as mulheres as que mais sofrem na crise da venezuela,0,0,0,0,1,0,['sadness'],dev
+ptmz_dev_track_a_00055,antigo médico da selecção americana de ginástica condenado a 175 anos de prisão,0,0,0,0,1,0,['sadness'],dev
+ptmz_dev_track_a_00056,desporto: angolano carlos morais nomeado a melhor atleta do ano,0,0,0,1,0,0,['joy'],dev
+ptmz_dev_track_a_00057,cpi da covid acredita já ter elementos para indiciar bolsonaro,0,0,0,0,0,1,['surprise'],dev
+ptmz_dev_track_a_00059,lixo continua nas ruas de nampula apesar das promessas,0,0,0,0,1,0,['sadness'],dev
+ptmz_dev_track_a_00062,quando foi sua primeira experiência de assédio sexual? brasileiras reagem à violência online,0,0,0,0,1,0,['sadness'],dev
+ptmz_dev_track_a_00064,"covid-19: gaza, no sul de moçambique, em alerta",0,0,1,0,0,0,['fear'],dev
+ptmz_dev_track_a_00065,"morreu neno, guarda-redes cabo-verdiano que fez carreira em portugal",0,0,0,0,1,0,['sadness'],dev
+ptmz_dev_track_a_00066,petroleiro venezuelano ancorado no mar do caribe segue sendo uma ameaça ao meio ambiente?,0,0,1,0,0,0,['fear'],dev
+ptmz_dev_track_a_00067,brasil: tráfico de pessoas pode aumentar durante copa do mundo,0,0,1,0,0,0,['fear'],dev
+ptmz_dev_track_a_00071,"""uma familia pode trocar a sua filha, menor de idade, por um litro de óleo"" em moçambique",0,1,0,0,0,0,['disgust'],dev
+ptmz_dev_track_a_00072,covid-19: eventual retorno às aulas preocupa os pais em moçambique,0,0,1,0,0,0,['fear'],dev
+ptmz_dev_track_a_00074,"dois irmãos, um sonho e uma trágica morte em um trailer nos eua",0,0,0,0,1,0,['sadness'],dev
+ptmz_dev_track_a_00075,jacaré enorme invade campo de golfe na flórida,0,0,0,0,0,1,['surprise'],dev
+ptmz_dev_track_a_00078,angola: manifestação de jovens contra alcoolismo reprimida com violência,0,0,0,0,1,0,['sadness'],dev
+ptmz_dev_track_a_00080,crianças na prisão: adultos de el salvador não conseguem evitar que jovens se envolvam com gangues,0,0,0,0,1,0,['sadness'],dev
+ptmz_dev_track_a_00081,juízes moçambicanos prometem penas duras aos traficantes de seres humanos,0,0,0,1,0,0,['joy'],dev
+ptmz_dev_track_a_00083,neymar castigado mas sem prémio,0,0,0,0,1,0,['sadness'],dev
+ptmz_dev_track_a_00085,cancro da mama lidera lista de doenças cancerígenas em cabo verde,0,0,0,0,1,0,['sadness'],dev
+ptmz_dev_track_a_00086,"legisladores tentam usar leis para barrar educação sobre gênero e sexualidade no brasil, diz hrw",1,0,0,0,0,0,['anger'],dev
+ptmz_dev_track_a_00089,sida no japão: culpem os gays?,1,0,0,0,0,0,['anger'],dev
+ptmz_dev_track_a_00090,justin bieber detido por conduzir embriagado,0,0,0,0,0,1,['surprise'],dev
+ptmz_dev_track_a_00091,por que o povo indígena pemón posicionou-se contra o governo de nicolás maduro?,1,0,0,0,0,0,['anger'],dev
+ptmz_dev_track_a_00094,egipto: sugestão de advogada para que se violem mulheres israelitas causa tumulto,0,1,0,0,0,0,['disgust'],dev
+ptmz_dev_track_a_00096,queimadas 99 árvores da famosa avenida dos baobás de madagascar,0,0,0,0,1,0,['sadness'],dev
+ptmz_dev_track_a_00098,vulcão calbuco entra em erupção no chile depois de 43 anos,0,0,0,0,0,1,['surprise'],dev
+ptmz_dev_track_a_00099,violência contra mulheres em moçambique continua a ser preocupante,0,1,0,0,0,0,['disgust'],dev
+ptmz_dev_track_a_00102,casos de cólera diminuem em maputo,0,0,0,1,0,0,['joy'],dev
+ptmz_dev_track_a_00104,"covid-19 é ""ameaça nacional"" alerta governante angolano",0,0,1,0,0,0,['fear'],dev
+ptmz_dev_track_a_00105,messi fala em sorte e agradece a deus,0,0,0,1,0,0,['joy'],dev
+ptmz_dev_track_a_00106,camarões encerra escolas devido a ataques do boko haram,0,0,1,0,0,0,['fear'],dev
+ptmz_dev_track_a_00107,morreu o político moçambicano máximo dias,0,0,0,0,1,0,['sadness'],dev
+ptmz_dev_track_a_00110,daviz simango evacuado para a áfrica do sul,0,0,0,0,1,0,['sadness'],dev
+ptmz_dev_track_a_00111,covid-19: oms alerta para aumento de casos em áfrica e economia espera piores dias em 25 anos,0,0,1,0,0,0,['fear'],dev
+ptmz_dev_track_a_00112,"impunidade, a maior ameaça à liberdade de expressão na américa latina",0,0,1,0,0,0,['fear'],dev
+ptmz_dev_track_a_00114,moçambique: polícia prende rede de raptores,0,0,0,1,0,0,['joy'],dev
+ptmz_dev_track_a_00115,dhlakama volta a ameaçar,0,0,1,0,0,0,['fear'],dev
+ptmz_dev_track_a_00118,marcha contra tráfico de seres humanos em moçambique,1,0,0,0,0,0,['anger'],dev
+ptmz_dev_track_a_00119,covid-19: fmi aprova 309 milhões de dólares para moçambique combater a pandemia,0,0,0,1,0,0,['joy'],dev
+ptmz_dev_track_a_00120,estados unidos e eslovénia assinam declaração conjunta sobre tecnologia 5g,0,0,0,1,0,0,['joy'],dev
+ptmz_dev_track_a_00121,benjamin netanyahu acusado de cometer crimes de guerra,0,1,0,0,0,0,['disgust'],dev
+ptmz_dev_track_a_00122,moçambique recebe mais 484 mil vacinas contra a covid-19,0,0,0,1,0,0,['joy'],dev
+ptmz_dev_track_a_00123,revolta em angola após assassinato de protestantes na lunda norte,1,0,0,0,0,0,['anger'],dev
+ptmz_dev_track_a_00125,o cometa do século fascina ao passar perto da terra,0,0,0,0,0,1,['surprise'],dev
+ptmz_dev_track_a_00126,jornalista e activista angolano rafael marques volta ao banco dos réus por investigar corrupção,1,0,0,0,0,0,['anger'],dev
+ptmz_dev_track_a_00129,"aumenta para 25 o número de mortos em uíge, diz fonte hospitalar",0,0,0,0,1,0,['sadness'],dev
+ptmz_dev_track_a_00131,analistas apontam corrupção como impedimento à luta contra as drogas em moçambique,0,0,0,0,1,0,['sadness'],dev
+ptmz_dev_track_a_00134,candidatura de lula à reeleição é oficializada,0,0,0,0,0,1,['surprise'],dev
+ptmz_dev_track_a_00135,governo e renamo alcançam consensos parciais,0,0,0,1,0,0,['joy'],dev
+ptmz_dev_track_a_00137,presidente de moçambique volta a apelar à união,0,0,0,1,0,0,['joy'],dev
+ptmz_dev_track_a_00138,trágica morte de adolescente em escola de baku provoca ira contra falido sistema do azerbaijão,1,0,0,0,0,0,['anger'],dev
+ptmz_dev_track_a_00140,manchester city conquista liga inglesa,0,0,0,1,0,0,['joy'],dev
+ptmz_dev_track_a_00142,líderes do g7 anunciam nesta sexta-feira doação de mais de mil milhões de doses de vacinas,0,0,0,1,0,0,['joy'],dev
+ptmz_dev_track_a_00146,venezuela: polícia confisca telefones dos manifestantes,1,0,0,0,0,0,['anger'],dev
+ptmz_dev_track_a_00147,estados unidos intensificam combate ao ébola,0,0,0,1,0,0,['joy'],dev
+ptmz_dev_track_a_00148,mortalidade infantil é um dos grandes desafios de moçambique,0,0,0,0,1,0,['sadness'],dev
+ptmz_dev_track_a_00149,museu sobre a escravatura inaugurado no algarve “para que não se apague a memória”,0,0,0,1,0,0,['joy'],dev
+ptmz_dev_track_a_00151,imagem de substância proíbida em bebida energética cria debate em moçambique,0,0,1,0,0,0,['fear'],dev
+ptmz_dev_track_a_00152,geórgia queria muito acordo de isenção de vistos com ue e agora já há motivo para festejar,0,0,0,1,0,0,['joy'],dev
+ptmz_dev_track_a_00153,sindicato dos médicos lamenta falta de resposta do governo angolano e mantém greve,0,0,0,0,1,0,['sadness'],dev
+ptmz_dev_track_a_00155,antigos trabalhadores da texmoque bloqueiam instalações e ameaçam com protestos,1,0,0,0,0,0,['anger'],dev
+ptmz_dev_track_a_00157,“estamos mais viv@<username> que nunca”: coral herrera e a luta pela igualdade de género,0,0,0,1,0,0,['joy'],dev
+ptmz_dev_track_a_00159,ministério público angolano quer o jornalista rafael marques na prisão,1,0,0,0,0,0,['anger'],dev
+ptmz_dev_track_a_00162,governo vai introduzir combustível menos poluente em moçambique,0,0,0,1,0,0,['joy'],dev
+ptmz_dev_track_a_00163,áfrica do sul retira rinocerontes do parque kruger por causa de caçadores furtivos moçambicanos,0,0,0,0,1,0,['sadness'],dev
+ptmz_dev_track_a_00165,ronda rousey nocauteia bethe correia em 34 segundos,0,0,0,0,0,1,['surprise'],dev
+ptmz_dev_track_a_00166,aumento de mortes e infecções de covid 19 causa alarme na huíla,0,0,1,0,0,0,['fear'],dev
+ptmz_dev_track_a_00168,contagem paralela do observatório eleitoral dá vitória a nyusi e frelimo,0,0,0,1,0,0,['joy'],dev
+ptmz_dev_track_a_00169,mulheres de cinco continentes recebem prêmio por contribuição para o esporte,0,0,0,1,0,0,['joy'],dev
+ptmz_dev_track_a_00170,joseph blatter e michel platini suspensos do futebol por oito anos,0,0,0,0,1,0,['sadness'],dev
+ptmz_dev_track_a_00172,guiné-bissau: dia internacional da criança africana,0,0,0,1,0,0,['joy'],dev
+ptmz_dev_track_a_00173,brasil chora vendo seus mais antigos tesouros se transformarem em cinzas no incêndio do museu nacional,0,0,0,0,1,0,['sadness'],dev
+ptmz_dev_track_a_00175,moçambicanos retaliam sul-africanos,1,0,0,0,0,0,['anger'],dev
+ptmz_dev_track_a_00179,rapper incentiva jovens moçambicanos para que deixem de consumir álcool e drogas,0,0,0,1,0,0,['joy'],dev
+ptmz_dev_track_a_00180,"angola fala só - maria encarnação pimenta: ""o medo faz parte da estrutura mental dos angolanos """,0,0,0,0,1,0,['sadness'],dev
+ptmz_dev_track_a_00182,civilização maia ocupava um espaço muito maior do que pensávamos,0,0,0,0,0,1,['surprise'],dev
+ptmz_dev_track_a_00183,moçambique lança campanha contra casamentos prematuros,0,0,0,1,0,0,['joy'],dev
+ptmz_dev_track_a_00184,covid-19: moçambique regista mais uma morte e cabo verde tem novos casos,0,0,0,0,1,0,['sadness'],dev
+ptmz_dev_track_a_00185,"estimativa de 13 assassinatos diários de jovens de 2006 a 2012 causa surpresa, diz subsecretária",0,0,0,0,0,1,['surprise'],dev
+ptmz_dev_track_a_00186,estados unidos apoiam agricultura e transporte rural em moçambique,0,0,0,1,0,0,['joy'],dev
+ptmz_dev_track_a_00187,despenha-se no pacífico a sonda russa que falhou missão a marte,0,0,0,0,0,1,['surprise'],dev
+ptmz_dev_track_a_00190,torturador da ditadura militar é encontrado morto no brasil,0,0,0,0,1,0,['sadness'],dev
+ptmz_dev_track_a_00192,"mulheres morrem de parto na índia rural, onde faltam médicos nos hospitais",0,0,0,0,1,0,['sadness'],dev
+ptmz_dev_track_a_00193,paraguai: preconceito na mídia internacional durante a copa do mundo,0,1,0,0,0,0,['disgust'],dev
+ptmz_dev_track_a_00194,autoridades “encobrem” a devastação e o número de mortos em porto rico,0,0,0,0,1,0,['sadness'],dev
+ptmz_dev_track_a_00195,quando um político francês e uma miss congolesa são criticados na internet por declarações sobre a colonização,1,0,0,0,0,0,['anger'],dev
+ptmz_dev_track_a_00198,plano “vazado” gera temor de apropriação de terras em moçambique,0,0,1,0,0,0,['fear'],dev
+ptmz_dev_track_a_00200,brasil: mural com a “seleção dos sonhos” para a copa do mundo,0,0,0,1,0,0,['joy'],dev
+ptmz_dev_track_a_00206,vídeo: índios munduruku protestam contra construção de hidrelétrica na amazônia,1,0,0,0,0,0,['anger'],dev
+ptmz_dev_track_a_00207,‘mulher-cervo: uma antologia’ releva a violência contra a mulher indígena norte-americana,0,1,0,0,0,0,['disgust'],dev
+ptmz_dev_track_a_00209,"covid-19: implementar o estado de emergência será um desafio, dizem analistas",0,0,1,0,0,0,['fear'],dev
+ptmz_dev_track_a_00210,paquistão: mais de 20 mortos em explosão de carro-bomba em peshawar.,0,0,0,0,1,0,['sadness'],dev
+ptmz_dev_track_a_00211,rússia: setembro de 2020 foi o mais quente dos últimos 130 anos,0,0,0,0,0,1,['surprise'],dev
+ptmz_dev_track_a_00212,sindicato de professores moçambicanos reticente quanto ao retorno às aulas em nampula,0,0,1,0,0,0,['fear'],dev
+ptmz_dev_track_a_00213,planta rara em moçambique inibe células do cancro do rim,0,0,0,1,0,0,['joy'],dev
+ptmz_dev_track_a_00214,especialistas apontam falta de valores e crenças populares na origem de abusos sexuais em angola,0,0,0,0,1,0,['sadness'],dev
+ptmz_dev_track_a_00216,angola: josé eduardo dos santos é acusado de delapidar o estado pelo seu sucessor,0,0,0,0,1,0,['sadness'],dev
+ptmz_dev_track_a_00221,milhares de salvadorenhos enfrentam a covid-19 sem água corrente para lavar as mãos,0,0,0,0,1,0,['sadness'],dev
+ptmz_dev_track_a_00223,"brasil: vítima de racismo em escola, menina é obrigada a pedir desculpas aos agressores",0,1,0,0,0,0,['disgust'],dev
+ptmz_dev_track_a_00225,cientistas descobrem genes que protegem crianças africanas da malária,0,0,0,1,0,0,['joy'],dev
+ptmz_dev_track_a_00226,etiópia acusada de limpeza étnica por expulsão em massa dos amhara,0,1,0,0,0,0,['disgust'],dev
+ptmz_dev_track_a_00228,forças sírias matam 34 pessoas desde sexta-feira,0,0,0,0,1,0,['sadness'],dev
+ptmz_dev_track_a_00229,pela saúde de moçambique: cancro cervical mata 4 mil todos os anos,0,0,0,0,1,0,['sadness'],dev
+ptmz_dev_track_a_00231,polícia censura exibição de filme em bairro brasileiro,0,0,0,0,0,1,['surprise'],dev
+ptmz_dev_track_a_00232,instituto norte-americano apoia parque da gorongosa com dois milhões de euros,0,0,0,1,0,0,['joy'],dev
+ptmz_dev_track_a_00233,méxico: epidemia de gripe suína deixa país em alerta,0,0,1,0,0,0,['fear'],dev
+ptmz_dev_track_a_00237,?ativista leonardo sakamoto recebe ameaças de morte após publicação de entrevista falsa?,0,0,1,0,0,0,['fear'],dev
+ptmz_dev_track_a_00240,caça furtiva movimenta cerca de 72 mil milhões de dólares,0,0,0,0,0,1,['surprise'],dev
+ptmz_dev_track_a_00245,cruz vermelha precisa de 700 mil dólares para os desalojados das cheias em moçambique,0,0,0,0,1,0,['sadness'],dev
+ptmz_dev_track_a_00249,japão oferece medicamento experimental contra o ébola,0,0,0,1,0,0,['joy'],dev
+ptmz_dev_track_a_00251,"kami rita, do nepal, estabelece novo recorde ao escalar 22 vezes o monte everest",0,0,0,1,0,0,['joy'],dev
+ptmz_dev_track_a_00253,direitos das crianças continuam a ser violados em moçambique,0,0,0,0,1,0,['sadness'],dev
+ptmz_dev_track_a_00254,neve em lisboa depois de 50 anos,0,0,0,0,0,1,['surprise'],dev
+ptmz_dev_track_a_00255,trending: the rock anuncia que ele e família têm covid-19,0,0,0,0,1,0,['sadness'],dev
+ptmz_dev_track_a_00257,ciclone idai: sistema de abastecimento de água restaurado na beira,0,0,0,1,0,0,['joy'],dev

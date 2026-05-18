@@ -1,0 +1,32 @@
+# Configuration B-L1: Width Topology with Stochastic Diversity
+# 3 identical agents (same CoT prompt), differentiated only by random seed.
+# Equivalent to CoT+SC at k=3. See EXPERIMENT_SPEC.md Section 3.1.
+
+topology: "width"
+level: "l1"
+num_agents: 3
+
+sampling:
+  temperature: 0.7
+  top_p: 0.95
+
+max_tokens: 512
+
+aggregation:
+  primary: "majority_vote"
+  secondary: "confidence_weighted"
+  majority_threshold: 2
+  confidence_threshold: 0.5
+
+# B-L1: no analytical bias. Agents get CoT block only as system prompt.
+# Seeds differ per agent to produce stochastic diversity.
+agents:
+  - name: "agent_1"
+    seed: 42
+    bias: ""
+  - name: "agent_2"
+    seed: 123
+    bias: ""
+  - name: "agent_3"
+    seed: 456
+    bias: ""

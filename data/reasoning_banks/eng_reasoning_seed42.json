@@ -1,0 +1,69 @@
+{
+  "language_name": "English",
+  "script": "Latin",
+  "family": "Germanic (Indo-European)",
+  "seed": 42,
+  "language_instructions": "For English (eng) social-media text, focus on explicit emotion words (e.g., 'love', 'hate', 'sad', 'wow'), intensifiers ('really', 'so', 'absolutely'), punctuation ('!', '?', '!?'), capitalisation ('AMAZING'), emojis (e.g., 😊 joy, 😡 anger, 😲 surprise, 😢 sadness, 🤢 disgust, 😱 fear), sarcasm cues ('yeah right', '/s'), and context (e.g., Reddit threads, replies, quote-replies).",
+  "reasoning_examples": [
+    {
+      "id": "anger_example",
+      "emotion": "anger",
+      "text": "I can't believe you would do something so stupid.",
+      "reasoning": {
+        "cues": "'can't believe' (frustration), 'so stupid' (insult)",
+        "tone": "Confrontational, accusatory",
+        "interpretations": "First, the insult and frustration signal anger; second, could be disappointment but the directed insult dominates",
+        "critique": "Matches a typical English rebuke; best fit is anger. Conclusion: anger"
+      },
+      "final_labels": ["anger"]
+    },
+    {
+      "id": "joy_surprise_example",
+      "emotion": "joy+surprise",
+      "text": "OMG I got the job!!! 🎉",
+      "reasoning": {
+        "cues": "'OMG', triple exclamation, '🎉'",
+        "tone": "Excited, celebratory",
+        "interpretations": "First, 'OMG' signals surprise; second, 'got the job' and 🎉 evoke joy",
+        "critique": "Matches an announcement post; best fit is joy and surprise. Conclusion: joy, surprise"
+      },
+      "final_labels": ["joy", "surprise"]
+    },
+    {
+      "id": "disgust_example",
+      "emotion": "disgust",
+      "text": "Pineapple on pizza is absolutely revolting 🤢",
+      "reasoning": {
+        "cues": "'absolutely revolting', '🤢'",
+        "tone": "Repulsed, opinionated",
+        "interpretations": "First, 'revolting' and 🤢 signal disgust; second, could be mild anger but no target person",
+        "critique": "Standard food-opinion disgust trope; best fit is disgust. Conclusion: disgust"
+      },
+      "final_labels": ["disgust"]
+    },
+    {
+      "id": "fear_sadness_surprise_example",
+      "emotion": "fear+sadness+surprise",
+      "text": "Wait what?? They cancelled the show? I'm devastated and honestly terrified what's next",
+      "reasoning": {
+        "cues": "'wait what??' (surprise), 'devastated' (sadness), 'terrified' (fear)",
+        "tone": "Distressed reaction to news",
+        "interpretations": "First, double-question signals surprise; second, 'devastated' evokes sadness; third, 'terrified' evokes fear",
+        "critique": "Multi-label fits a cascading reaction; best fit is fear, sadness, surprise. Conclusion: fear, sadness, surprise"
+      },
+      "final_labels": ["fear", "sadness", "surprise"]
+    },
+    {
+      "id": "neutral_example",
+      "emotion": "none",
+      "text": "I think the meeting is at 3 pm tomorrow.",
+      "reasoning": {
+        "cues": "no emotion words, no emoji, no intensifier",
+        "tone": "Factual, informational",
+        "interpretations": "First, a statement of plans; second, no compelling cue for any of the 6 categories",
+        "critique": "Default to all-zeros when there is no compelling evidence. Conclusion: none"
+      },
+      "final_labels": []
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+# Configuration B-L3: Width Topology with Learned Diversity (QLoRA)
+# 3 agents each using a different QLoRA adapter on frozen Qwen2.5-14B.
+# Lower temperature: adapters provide diversity through parameters, not sampling.
+# See EXPERIMENT_SPEC.md Section 3.3.
+
+topology: "width"
+level: "l3"
+num_agents: 3
+
+sampling:
+  temperature: 0.3   # lower than L1/L2 — diversity comes from adapters
+  top_p: 0.95
+  seed: 42           # same seed for all agents; diversity is parametric
+
+max_tokens: 512
+
+aggregation:
+  primary: "majority_vote"
+  secondary: "confidence_weighted"
+  majority_threshold: 2
+  confidence_threshold: 0.5
+
+training:
+  base_model: "Qwen/Qwen2.5-14B-Instruct"
+  quantization: "4bit"          # QLoRA
+  lora_rank: 8
+  lora_alpha: 16
+  lora_dropout: 0.05
+  optimizer: "adamw_torch"
+  lr: 1.0e-5
+  scheduler: "cosine"
+  warmup_ratio: 0.10
+  epochs: 5                     # early stopping on dev Macro-F1
+  batch_size: 4
+  gradient_accumulation_steps: 4
+  bf16: true
+  output_dir: "models/adapters"
+
+agents:
+  - name: "general_specialist"
+    seed: 42
+    lora_name: "b_l3_general"
+    lora_path: "models/adapters/b_l3_general"
+    lora_id: 1
+
+  - name: "ambiguity_specialist"
+    seed: 42
+    lora_name: "b_l3_ambiguity"
+    lora_path: "models/adapters/b_l3_ambiguity"
+    lora_id: 2
+
+  - name: "contrastive_specialist"
+    seed: 42
+    lora_name: "b_l3_contrastive"
+    lora_path: "models/adapters/b_l3_contrastive"
+    lora_id: 3
